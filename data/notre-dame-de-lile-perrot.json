@@ -1,0 +1,63 @@
+{
+  "id": "notre-dame-de-lile-perrot",
+  "name": "Notre-Dame-de-l'Ile-Perrot",
+  "lastUpdated": "2026-04-10",
+  "source": "https://www.ndip.org/calendrier-des-collectes",
+  "zones": {
+    "NDIP": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-02",
+          "notes": "Biweekly Thursday schedule anchored to the Jan 2 holiday-shift week."
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "extraDates": [
+            "2026-01-03"
+          ],
+          "notes": "Weekly Wednesday schedule with a one-off holiday pickup on 2026-01-03."
+        },
+        "bulky": {
+          "dayOfWeek": 4,
+          "frequency": "monthly",
+          "weekOfMonth": 3,
+          "notes": "Third Thursday of every month."
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "biweekly",
+          "dates": [
+            "2026-05-07",
+            "2026-05-21",
+            "2026-06-04",
+            "2026-06-18",
+            "2026-07-02",
+            "2026-07-16",
+            "2026-07-30",
+            "2026-08-13",
+            "2026-08-27",
+            "2026-09-10",
+            "2026-09-24",
+            "2026-10-08",
+            "2026-10-22",
+            "2026-11-05",
+            "2026-11-19"
+          ],
+          "notes": "Biweekly leaves collection window: May 7 to Nov 19."
+        }
+      },
+      "centroid": {
+        "lat": 45.351663,
+        "lng": -73.902969
+      },
+      "label": "Notre-Dame-de-l'Ile-Perrot"
+    }
+  }
+}

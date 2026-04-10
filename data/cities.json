@@ -127,6 +127,13 @@
     "sourceUrl": "https://montreal-ouest.ca/en/resident-services/waste-collection/"
   },
   {
+    "id": "notre-dame-de-lile-perrot",
+    "name": "Notre-Dame-de-l'Ile-Perrot",
+    "file": "notre-dame-de-lile-perrot.json",
+    "sourceType": "pdf",
+    "sourceUrl": "https://www.ndip.org/calendrier-des-collectes"
+  },
+  {
     "id": "mtl-outremont",
     "name": "Outremont",
     "file": "mtl-outremont.json"
