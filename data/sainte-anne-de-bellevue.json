@@ -1,0 +1,48 @@
+{
+  "id": "sainte-anne-de-bellevue",
+  "name": "Sainte-Anne-de-Bellevue",
+  "lastUpdated": "2026-04-02",
+  "source": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+  "zones": {
+    "SAB": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "anchorDate": "2026-04-02"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "dates": [
+            "2026-01-02",
+            "2026-03-06",
+            "2026-05-01",
+            "2026-07-03",
+            "2026-09-04",
+            "2026-11-06"
+          ],
+          "notes": "1st Friday of every other month"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.405,
+        "lng": -73.95
+      },
+      "label": "Sainte-Anne-de-Bellevue"
+    }
+  }
+}

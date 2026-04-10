@@ -1,0 +1,103 @@
+{
+  "id": "pointe-claire",
+  "name": "Pointe-Claire",
+  "lastUpdated": "2026-04-01",
+  "source": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
+  "zones": {
+    "Sector A": {
+      "label": "Sector A",
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-06",
+          "seasonalOverride": {
+            "startDate": "2026-06-02",
+            "endDate": "2026-08-26",
+            "frequency": "weekly"
+          },
+          "notes": "Biweekly Tuesdays (Sep–May), weekly Tuesdays (Jun–Aug)"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "dates": [
+            "2026-04-08",
+            "2026-05-13",
+            "2026-06-10",
+            "2026-07-08",
+            "2026-08-12",
+            "2026-09-09",
+            "2026-10-14"
+          ],
+          "notes": "2nd Wednesday of the month, April–October"
+        },
+        "leaves": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.448,
+        "lng": -73.827
+      }
+    },
+    "Sector B": {
+      "label": "Sector B",
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-13",
+          "seasonalOverride": {
+            "startDate": "2026-06-02",
+            "endDate": "2026-08-26",
+            "frequency": "weekly",
+            "dayOfWeek": 3
+          },
+          "notes": "Biweekly Tuesdays (Sep–May), weekly Wednesdays (Jun–Aug)"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "dates": [
+            "2026-04-08",
+            "2026-05-13",
+            "2026-06-10",
+            "2026-07-08",
+            "2026-08-12",
+            "2026-09-09",
+            "2026-10-14"
+          ],
+          "notes": "2nd Wednesday of the month, April–October"
+        },
+        "leaves": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.464,
+        "lng": -73.81
+      }
+    }
+  }
+}

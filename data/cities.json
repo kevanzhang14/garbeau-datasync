@@ -1,0 +1,223 @@
+[
+  {
+    "id": "mtl-ahuntsic-cartierville",
+    "name": "Ahuntsic-Cartierville",
+    "file": "mtl-ahuntsic-cartierville.json"
+  },
+  {
+    "id": "mtl-anjou",
+    "name": "Anjou",
+    "file": "mtl-anjou.json"
+  },
+  {
+    "id": "baie-durfe",
+    "name": "Baie-D'Urfé",
+    "file": "baie-durfe.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.baie-durfe.qc.ca/en/citizen-services/page/collection-calendar"
+  },
+  {
+    "id": "beaconsfield",
+    "name": "Beaconsfield",
+    "file": "beaconsfield.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management"
+  },
+  {
+    "id": "cote-saint-luc",
+    "name": "Côte-Saint-Luc",
+    "file": "cote-saint-luc.json",
+    "sourceType": "pdf",
+    "sourceUrl": "https://www.cotesaintluc.org/"
+  },
+  {
+    "id": "mtl-cote-des-neiges-notre-dame-de-grace",
+    "name": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+    "file": "mtl-cote-des-neiges-notre-dame-de-grace.json"
+  },
+  {
+    "id": "dollard-des-ormeaux",
+    "name": "Dollard-des-Ormeaux",
+    "file": "dollard-des-ormeaux.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://ville.ddo.qc.ca/en/live/collection-2/"
+  },
+  {
+    "id": "dorval",
+    "name": "Dorval",
+    "file": "dorval.json",
+    "sourceType": "pdf",
+    "sourceUrl": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials"
+  },
+  {
+    "id": "hampstead",
+    "name": "Hampstead",
+    "file": "hampstead.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.hampstead.qc.ca/en/collections/"
+  },
+  {
+    "id": "kirkland",
+    "name": "Kirkland",
+    "file": "kirkland.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services"
+  },
+  {
+    "id": "mtl-l-ile-bizard-sainte-genevieve",
+    "name": "L'Île-Bizard–Sainte-Geneviève",
+    "file": "mtl-l-ile-bizard-sainte-genevieve.json"
+  },
+  {
+    "id": "mtl-lasalle",
+    "name": "LaSalle",
+    "file": "mtl-lasalle.json"
+  },
+  {
+    "id": "mtl-lachine",
+    "name": "Lachine",
+    "file": "mtl-lachine.json"
+  },
+  {
+    "id": "laval",
+    "name": "Laval",
+    "file": "laval.json",
+    "sourceType": "pdf",
+    "sourceUrl": "https://www.laval.ca/environnement/collectes/calendrier-collectes/"
+  },
+  {
+    "id": "mtl-le-plateau-mont-royal",
+    "name": "Le Plateau-Mont-Royal",
+    "file": "mtl-le-plateau-mont-royal.json"
+  },
+  {
+    "id": "mtl-le-sud-ouest",
+    "name": "Le Sud-Ouest",
+    "file": "mtl-le-sud-ouest.json"
+  },
+  {
+    "id": "mtl-mercier-hochelaga-maisonneuve",
+    "name": "Mercier–Hochelaga-Maisonneuve",
+    "file": "mtl-mercier-hochelaga-maisonneuve.json"
+  },
+  {
+    "id": "mont-royal",
+    "name": "Mont-Royal",
+    "file": "mont-royal.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1"
+  },
+  {
+    "id": "montreal-est",
+    "name": "Montréal-Est",
+    "file": "montreal-est.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://ville.montreal-est.qc.ca/environnement/collectes/"
+  },
+  {
+    "id": "mtl-montreal-nord",
+    "name": "Montréal-Nord",
+    "file": "mtl-montreal-nord.json"
+  },
+  {
+    "id": "montreal-ouest",
+    "name": "Montréal-Ouest",
+    "file": "montreal-ouest.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://montreal-ouest.ca/en/resident-services/waste-collection/"
+  },
+  {
+    "id": "mtl-outremont",
+    "name": "Outremont",
+    "file": "mtl-outremont.json"
+  },
+  {
+    "id": "mtl-pierrefonds-roxboro",
+    "name": "Pierrefonds-Roxboro",
+    "file": "mtl-pierrefonds-roxboro.json"
+  },
+  {
+    "id": "pointe-claire",
+    "name": "Pointe-Claire",
+    "file": "pointe-claire.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections"
+  },
+  {
+    "id": "mtl-riviere-des-prairies-pointe-aux-trembles",
+    "name": "Rivière-des-Prairies–Pointe-aux-Trembles",
+    "file": "mtl-riviere-des-prairies-pointe-aux-trembles.json"
+  },
+  {
+    "id": "mtl-rosemont-la-petite-patrie",
+    "name": "Rosemont–La Petite-Patrie",
+    "file": "mtl-rosemont-la-petite-patrie.json"
+  },
+  {
+    "id": "mtl-saint-laurent",
+    "name": "Saint-Laurent",
+    "file": "mtl-saint-laurent.json"
+  },
+  {
+    "id": "st-lazare",
+    "name": "Saint-Lazare",
+    "file": "st-lazare.json",
+    "sourceType": "image",
+    "sourceUrl": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/collection-calendar"
+  },
+  {
+    "id": "mtl-saint-leonard",
+    "name": "Saint-Léonard",
+    "file": "mtl-saint-leonard.json"
+  },
+  {
+    "id": "sainte-anne-de-bellevue",
+    "name": "Sainte-Anne-de-Bellevue",
+    "file": "sainte-anne-de-bellevue.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection"
+  },
+  {
+    "id": "valleyfield",
+    "name": "Salaberry-de-Valleyfield",
+    "file": "valleyfield.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.ville.valleyfield.qc.ca/collecte"
+  },
+  {
+    "id": "senneville",
+    "name": "Senneville",
+    "file": "senneville.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.senneville.ca/en/services/waste-collection/"
+  },
+  {
+    "id": "vaudreuil-dorion",
+    "name": "Vaudreuil-Dorion",
+    "file": "vaudreuil-dorion.json",
+    "sourceType": "image",
+    "sourceUrl": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules"
+  },
+  {
+    "id": "mtl-verdun",
+    "name": "Verdun",
+    "file": "mtl-verdun.json"
+  },
+  {
+    "id": "mtl-ville-marie",
+    "name": "Ville-Marie",
+    "file": "mtl-ville-marie.json"
+  },
+  {
+    "id": "mtl-villeray-saint-michel-parc-extension",
+    "name": "Villeray–Saint-Michel–Parc-Extension",
+    "file": "mtl-villeray-saint-michel-parc-extension.json"
+  },
+  {
+    "id": "westmount",
+    "name": "Westmount",
+    "file": "westmount.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://westmount.org/en/services/municipal-services/waste-collection"
+  }
+]

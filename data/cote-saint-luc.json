@@ -1,0 +1,14 @@
+{
+  "id": "cote-saint-luc",
+  "name": "Côte-Saint-Luc",
+  "lastUpdated": "2026-04-01",
+  "source": "https://cotesaintluc.org/en/waste-collection/schedule/",
+  "externalApp": {
+    "name": "CSL Collecte",
+    "url": "https://cotesaintluc.org/en/waste-collection/csl-collecte-application/",
+    "androidUrl": "https://api.recollect.net/app/cotesaintlucQC/waste/android?direct=1",
+    "iosUrl": "https://api.recollect.net/app/cotesaintlucQC/waste/ios?direct=1",
+    "message": "Côte-Saint-Luc uses the CSL Collecte app for address-specific collection schedules."
+  },
+  "zones": {}
+}

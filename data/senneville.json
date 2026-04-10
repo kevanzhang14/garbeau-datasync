@@ -1,0 +1,45 @@
+{
+  "id": "senneville",
+  "name": "Senneville",
+  "lastUpdated": "2026-04-01",
+  "source": "https://www.senneville.ca/en/services/waste-collection/",
+  "zones": {
+    "SENNEVILLE": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "dates": [
+            "2026-01-09",
+            "2026-05-08",
+            "2026-07-10",
+            "2026-09-11"
+          ],
+          "notes": "4 collections scheduled for 2026"
+        },
+        "leaves": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.429,
+        "lng": -73.966
+      },
+      "label": "Senneville"
+    }
+  }
+}

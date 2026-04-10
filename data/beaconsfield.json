@@ -1,0 +1,90 @@
+{
+  "id": "beaconsfield",
+  "name": "Beaconsfield",
+  "lastUpdated": "2026-04-16",
+  "source": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
+  "zones": {
+    "NORTH": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "dates": [
+            "2026-04-01",
+            "2026-05-06",
+            "2026-06-03",
+            "2026-07-01",
+            "2026-08-05",
+            "2026-09-02",
+            "2026-10-07",
+            "2026-11-04"
+          ],
+          "notes": "1st Wednesday of the month, April–November"
+        },
+        "leaves": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.444,
+        "lng": -73.87
+      },
+      "label": "NORTH"
+    },
+    "SOUTH": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "dates": [
+            "2026-04-02",
+            "2026-05-07",
+            "2026-06-04",
+            "2026-07-02",
+            "2026-08-06",
+            "2026-09-03",
+            "2026-10-01",
+            "2026-11-05"
+          ],
+          "notes": "1st Thursday of the month, April–November"
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.433,
+        "lng": -73.87
+      },
+      "label": "SOUTH"
+    }
+  }
+}

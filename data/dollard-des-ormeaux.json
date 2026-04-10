@@ -1,0 +1,39 @@
+{
+  "id": "dollard-des-ormeaux",
+  "name": "Dollard-des-Ormeaux",
+  "lastUpdated": "2026-04-01",
+  "source": "https://ville.ddo.qc.ca/en/live/collection-2/",
+  "zones": {
+    "DDO": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Bulky items (furniture, appliances, carpets, mattresses) are collected with regular garbage on Tuesdays"
+        },
+        "leaves": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.49,
+        "lng": -73.8186
+      },
+      "label": "Dollard-des-Ormeaux"
+    }
+  }
+}

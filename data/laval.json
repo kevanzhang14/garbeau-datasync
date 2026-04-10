@@ -1,0 +1,12 @@
+{
+  "id": "laval",
+  "name": "Laval",
+  "lastUpdated": "2026-04-08",
+  "source": "https://www.laval.ca/environnement/collectes/calendrier-collectes/",
+  "externalApp": {
+    "name": "Laval - Recherche par adresse",
+    "url": "https://www.laval.ca/recherche-par-adresse/",
+    "message": "Laval schedules are currently provided via the official address lookup. Use the City of Laval tool to get your exact collection calendar."
+  },
+  "zones": {}
+}

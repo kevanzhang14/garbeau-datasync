@@ -1,0 +1,39 @@
+{
+  "id": "kirkland",
+  "name": "Kirkland",
+  "lastUpdated": "2026-04-01",
+  "source": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
+  "zones": {
+    "KIRKLAND": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "notes": "Sector-based bulky item collection on predetermined dates. Check ville.kirkland.qc.ca for your sector schedule."
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.4526,
+        "lng": -73.8667
+      },
+      "label": "Kirkland"
+    }
+  }
+}

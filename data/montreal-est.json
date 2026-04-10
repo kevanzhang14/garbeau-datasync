@@ -1,0 +1,39 @@
+{
+  "id": "montreal-est",
+  "name": "Montréal-Est",
+  "lastUpdated": "2026-04-02",
+  "source": "https://ville.montreal-est.qc.ca/environnement/collectes/",
+  "zones": {
+    "ME": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "notes": "Check ville.montreal-est.qc.ca for bulky item collection schedule"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "notes": "Leaves are collected with organics (brown bin)"
+        }
+      },
+      "centroid": {
+        "lat": 45.626,
+        "lng": -73.518
+      },
+      "label": "Montréal-Est"
+    }
+  }
+}
