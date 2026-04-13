@@ -1,7 +1,7 @@
 {
   "id": "mtl-villeray-saint-michel-parc-extension",
   "name": "Villeray–Saint-Michel–Parc-Extension",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "VSM": {
@@ -174,8 +174,7 @@
             -73.6485
           ]
         ]
-      ],
-      "label": "Zone 9"
+      ]
     },
     "VSMPE-1a": {
       "recurring": {
@@ -291,8 +290,7 @@
             -73.5986
           ]
         ]
-      ],
-      "label": "Zone 13"
+      ]
     },
     "VSMPE-1b": {
       "recurring": {
@@ -408,8 +406,7 @@
             -73.6126
           ]
         ]
-      ],
-      "label": "Zone 11"
+      ]
     },
     "VSMPE-2a": {
       "recurring": {
@@ -545,8 +542,7 @@
             -73.6086
           ]
         ]
-      ],
-      "label": "Zone 14"
+      ]
     },
     "VSMPE-2b": {
       "recurring": {
@@ -642,8 +638,7 @@
             -73.6095
           ]
         ]
-      ],
-      "label": "Zone 16"
+      ]
     },
     "VSMPE-3a": {
       "recurring": {
@@ -743,8 +738,7 @@
             -73.6407
           ]
         ]
-      ],
-      "label": "Zone 7"
+      ]
     },
     "VSMPE-3b": {
       "recurring": {
@@ -876,8 +870,7 @@
             -73.6131
           ]
         ]
-      ],
-      "label": "Zone 10"
+      ]
     },
     "VSMPE-4a": {
       "recurring": {
@@ -1001,8 +994,7 @@
             -73.641
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "VSMPE-4b": {
       "recurring": {
@@ -1146,8 +1138,7 @@
             -73.6485
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "VSMPE-C-1": {
       "recurring": {
@@ -1291,8 +1282,7 @@
             -73.6126
           ]
         ]
-      ],
-      "label": "Zone 12"
+      ]
     },
     "VSMPE-C-2": {
       "recurring": {
@@ -1444,8 +1434,7 @@
             -73.6086
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "VSMPE-C-3": {
       "recurring": {
@@ -1625,8 +1614,7 @@
             -73.6403
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "VSMPE-C-4": {
       "recurring": {
@@ -1850,8 +1838,7 @@
             -73.6002
           ]
         ]
-      ],
-      "label": "Zone 15"
+      ]
     },
     "VSMPE-R-1": {
       "recurring": {
@@ -1999,8 +1986,7 @@
             -73.6126
           ]
         ]
-      ],
-      "label": "Zone 8"
+      ]
     },
     "VSMPE-R-2": {
       "recurring": {
@@ -2092,8 +2078,7 @@
             -73.6137
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "VSMPE-R-3": {
       "recurring": {
@@ -2241,8 +2226,7 @@
             -73.6382
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "VSMPE-R-4": {
       "recurring": {
@@ -2406,8 +2390,7 @@
             -73.5878
           ]
         ]
-      ],
-      "label": "Zone 17"
+      ]
     }
   }
 }

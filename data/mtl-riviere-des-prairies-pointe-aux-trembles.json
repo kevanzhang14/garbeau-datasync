@@ -1,7 +1,7 @@
 {
   "id": "mtl-riviere-des-prairies-pointe-aux-trembles",
   "name": "Rivière-des-Prairies–Pointe-aux-Trembles",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "RDPPAT-E-1": {
@@ -334,8 +334,7 @@
             -73.5835
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "RDPPAT-E-2": {
       "recurring": {
@@ -527,8 +526,7 @@
             -73.4876
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "RDPPAT-E-3": {
       "recurring": {
@@ -840,8 +838,7 @@
             -73.5506
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "RDPPAT-E-4": {
       "recurring": {
@@ -1209,8 +1206,7 @@
             -73.5832
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     }
   }
 }

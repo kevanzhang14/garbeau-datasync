@@ -1,7 +1,7 @@
 {
   "id": "mtl-ville-marie",
   "name": "Ville-Marie",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "127": {
@@ -136,8 +136,7 @@
             -73.615
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "132": {
       "recurring": {
@@ -299,8 +298,7 @@
             -73.649
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "141": {
       "recurring": {
@@ -426,8 +424,7 @@
             -73.649
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "144": {
       "recurring": {
@@ -589,8 +586,7 @@
             -73.615
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "VM": {
       "recurring": {
@@ -956,8 +952,7 @@
             -73.5433
           ]
         ]
-      ],
-      "label": "Zone 8"
+      ]
     },
     "VM-1": {
       "recurring": {
@@ -1303,8 +1298,7 @@
             -73.5848
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "VM-1a": {
       "recurring": {
@@ -1634,8 +1628,7 @@
             -73.5727
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "VM-1b": {
       "recurring": {
@@ -1937,8 +1930,7 @@
             -73.5698
           ]
         ]
-      ],
-      "label": "Zone 7"
+      ]
     },
     "VM-1c": {
       "recurring": {
@@ -2268,8 +2260,7 @@
             -73.5689
           ]
         ]
-      ],
-      "label": "Zone 9"
+      ]
     },
     "VM-2": {
       "recurring": {
@@ -2851,8 +2842,7 @@
             -73.535
           ]
         ]
-      ],
-      "label": "Zone 13"
+      ]
     },
     "VM-2a": {
       "recurring": {
@@ -3286,8 +3276,7 @@
             -73.535
           ]
         ]
-      ],
-      "label": "Zone 14"
+      ]
     },
     "VM-2b": {
       "recurring": {
@@ -3489,8 +3478,7 @@
             -73.5613
           ]
         ]
-      ],
-      "label": "Zone 10"
+      ]
     },
     "VM-3": {
       "recurring": {
@@ -3824,8 +3812,7 @@
             -73.5598
           ]
         ]
-      ],
-      "label": "Zone 11"
+      ]
     },
     "VM-4": {
       "recurring": {
@@ -4175,8 +4162,7 @@
             -73.5476
           ]
         ]
-      ],
-      "label": "Zone 12"
+      ]
     }
   }
 }

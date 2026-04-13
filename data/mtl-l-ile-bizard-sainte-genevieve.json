@@ -1,7 +1,7 @@
 {
   "id": "mtl-l-ile-bizard-sainte-genevieve",
   "name": "L'Île-Bizard–Sainte-Geneviève",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "IBSG-1": {
@@ -757,8 +757,7 @@
             -73.8953
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "IBSG-2": {
       "recurring": {
@@ -1367,8 +1366,7 @@
             -73.8587
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "IBSG-3": {
       "recurring": {
@@ -1793,8 +1791,7 @@
             -73.8581
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "IBSG-4": {
       "recurring": {
@@ -2163,8 +2160,7 @@
             -73.8774
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "IBSGaPIRO-1": {
       "recurring": {
@@ -2225,8 +2221,7 @@
             -73.8771
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "IBSGaPIRO-2": {
       "recurring": {
@@ -2295,8 +2290,7 @@
             -73.8728
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "mtl-anjou",
   "name": "Anjou",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "ANJ": {
@@ -264,8 +264,7 @@
             -73.5372
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "ANJ-1": {
       "recurring": {
@@ -359,8 +358,7 @@
             -73.5483
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "ANJ-2": {
       "recurring": {
@@ -575,8 +573,7 @@
             -73.5422
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "ANJ-3": {
       "recurring": {
@@ -654,8 +651,7 @@
             -73.5665
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "ANJ-4": {
       "recurring": {
@@ -814,8 +810,7 @@
             -73.5436
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     }
   }
 }

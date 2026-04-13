@@ -1,7 +1,7 @@
 {
   "id": "mtl-saint-leonard",
   "name": "Saint-Léonard",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "SLE": {
@@ -254,8 +254,7 @@
             -73.6288
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "SLE-1": {
       "recurring": {
@@ -403,8 +402,7 @@
             -73.6014
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "SLE-2": {
       "recurring": {
@@ -540,8 +538,7 @@
             -73.6031
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "SLE-3": {
       "recurring": {
@@ -935,8 +932,7 @@
             -73.5718
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "SLE-4": {
       "recurring": {
@@ -1352,8 +1348,7 @@
             -73.5718
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     }
   }
 }

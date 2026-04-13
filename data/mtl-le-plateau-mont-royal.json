@@ -1,7 +1,7 @@
 {
   "id": "mtl-le-plateau-mont-royal",
   "name": "Le Plateau-Mont-Royal",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "PMR-1": {
@@ -247,8 +247,7 @@
             -73.5866
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "PMR-2": {
       "recurring": {
@@ -561,8 +560,7 @@
             -73.5696
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "PMR-3": {
       "recurring": {
@@ -1067,8 +1065,7 @@
             -73.5621
           ]
         ]
-      ],
-      "label": "Zone 7"
+      ]
     },
     "PMR-4": {
       "recurring": {
@@ -1481,8 +1478,7 @@
             -73.5612
           ]
         ]
-      ],
-      "label": "Zone 8"
+      ]
     },
     "PMR-5": {
       "recurring": {
@@ -1871,8 +1867,7 @@
             -73.6025
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "PMR-6": {
       "recurring": {
@@ -2055,8 +2050,7 @@
             -73.5992
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "PMR-7": {
       "recurring": {
@@ -2353,8 +2347,7 @@
             -73.5843
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "PMR-8": {
       "recurring": {
@@ -2627,8 +2620,7 @@
             -73.5875
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     }
   }
 }

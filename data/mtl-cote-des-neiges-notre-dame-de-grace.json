@@ -1,7 +1,7 @@
 {
   "id": "mtl-cote-des-neiges-notre-dame-de-grace",
   "name": "Côte-des-Neiges–Notre-Dame-de-Grâce",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "CD-E-1": {
@@ -186,8 +186,7 @@
             -73.5104
           ]
         ]
-      ],
-      "label": "Zone 18"
+      ]
     },
     "CD-E-2": {
       "recurring": {
@@ -439,8 +438,7 @@
             -73.5985
           ]
         ]
-      ],
-      "label": "Zone 15"
+      ]
     },
     "CD-E-3": {
       "recurring": {
@@ -620,8 +618,7 @@
             -73.5834
           ]
         ]
-      ],
-      "label": "Zone 17"
+      ]
     },
     "CD-E-4": {
       "recurring": {
@@ -634,7 +631,7 @@
           "frequency": "weekly"
         },
         "leaves": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 2,
           "frequency": "weekly",
           "dates": [
             "2026-04-21",
@@ -901,8 +898,7 @@
             -73.5984
           ]
         ]
-      ],
-      "label": "Zone 16"
+      ]
     },
     "CD-R-1": {
       "recurring": {
@@ -1238,8 +1234,7 @@
             -73.5025
           ]
         ]
-      ],
-      "label": "Zone 19"
+      ]
     },
     "CD-R-2": {
       "recurring": {
@@ -1515,8 +1510,7 @@
             -73.5042
           ]
         ]
-      ],
-      "label": "Zone 20"
+      ]
     },
     "CD-R-3": {
       "recurring": {
@@ -1748,8 +1742,7 @@
             -73.5089
           ]
         ]
-      ],
-      "label": "Zone 22"
+      ]
     },
     "CD-R-4": {
       "recurring": {
@@ -1762,7 +1755,7 @@
           "frequency": "weekly"
         },
         "leaves": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 2,
           "frequency": "weekly",
           "dates": [
             "2026-04-21",
@@ -2021,8 +2014,7 @@
             -73.4875
           ]
         ]
-      ],
-      "label": "Zone 21"
+      ]
     },
     "CDN": {
       "recurring": {
@@ -2637,8 +2629,7 @@
             -73.6776
           ]
         ]
-      ],
-      "label": "Zone 7"
+      ]
     },
     "CDNNDG-1": {
       "recurring": {
@@ -2996,8 +2987,7 @@
             -73.6158
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "CDNNDG-2": {
       "recurring": {
@@ -3355,8 +3345,7 @@
             -73.642
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "CDNNDG-3": {
       "recurring": {
@@ -3822,8 +3811,7 @@
             -73.642
           ]
         ]
-      ],
-      "label": "Zone 11"
+      ]
     },
     "CDNNDG-4": {
       "recurring": {
@@ -4089,8 +4077,7 @@
             -73.6158
           ]
         ]
-      ],
-      "label": "Zone 14"
+      ]
     },
     "CDNNDG-5": {
       "recurring": {
@@ -4745,8 +4732,7 @@
             -73.6423
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "CDNNDG-6": {
       "recurring": {
@@ -4861,8 +4847,7 @@
             -73.6316
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "CDNNDG-7": {
       "recurring": {
@@ -5293,8 +5278,7 @@
             -73.6316
           ]
         ]
-      ],
-      "label": "Zone 12"
+      ]
     },
     "CDNNDG-8": {
       "recurring": {
@@ -5493,8 +5477,7 @@
             -73.6277
           ]
         ]
-      ],
-      "label": "Zone 9"
+      ]
     },
     "CN_CS-11": {
       "recurring": {
@@ -5720,8 +5703,7 @@
             -73.6414
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "CN_CS-12": {
       "recurring": {
@@ -6195,8 +6177,7 @@
             -73.6172
           ]
         ]
-      ],
-      "label": "Zone 13"
+      ]
     },
     "CN_CS-14-1": {
       "recurring": {
@@ -6663,8 +6644,7 @@
             -73.6253
           ]
         ]
-      ],
-      "label": "Zone 8"
+      ]
     },
     "CN_CS-14-2": {
       "recurring": {
@@ -6871,8 +6851,7 @@
             -73.6268
           ]
         ]
-      ],
-      "label": "Zone 10"
+      ]
     },
     "CN_CS-15": {
       "recurring": {
@@ -7511,8 +7490,7 @@
             -73.6405
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "mtl-lasalle",
   "name": "LaSalle",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "LSL": {
@@ -484,8 +484,7 @@
             -73.5912
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "LSL1": {
       "recurring": {
@@ -617,8 +616,7 @@
             -73.5989
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "LSL2": {
       "recurring": {
@@ -782,8 +780,7 @@
             -73.649
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "LSL3": {
       "recurring": {
@@ -919,8 +916,7 @@
             -73.6344
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "LSL4": {
       "recurring": {
@@ -1060,8 +1056,7 @@
             -73.6344
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     }
   }
 }

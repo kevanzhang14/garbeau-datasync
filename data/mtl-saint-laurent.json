@@ -1,7 +1,7 @@
 {
   "id": "mtl-saint-laurent",
   "name": "Saint-Laurent",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "SLR-1": {
@@ -604,8 +604,7 @@
             -73.7231
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "SLR-2": {
       "recurring": {
@@ -1059,8 +1058,7 @@
             -73.6987
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "SLR-3": {
       "recurring": {
@@ -1402,8 +1400,7 @@
             -73.7231
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "SLR-4": {
       "recurring": {
@@ -1597,8 +1594,7 @@
             -73.6987
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     }
   }
 }

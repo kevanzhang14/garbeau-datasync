@@ -1,7 +1,7 @@
 {
   "id": "mtl-montreal-nord",
   "name": "Montréal-Nord",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "MTN": {
@@ -182,8 +182,7 @@
             -73.6543
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "MTN-1": {
       "recurring": {
@@ -315,8 +314,7 @@
             -73.6458
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "MTN-2": {
       "recurring": {
@@ -508,8 +506,7 @@
             -73.6405
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "MTN-3": {
       "recurring": {
@@ -785,8 +782,7 @@
             -73.6279
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "MTN-4": {
       "recurring": {
@@ -958,8 +954,7 @@
             -73.6208
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "MTN-4_CSE": {
       "recurring": {
@@ -1043,8 +1038,7 @@
             -73.6174
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     }
   }
 }

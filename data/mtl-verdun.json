@@ -1,7 +1,7 @@
 {
   "id": "mtl-verdun",
   "name": "Verdun",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "VRD": {
@@ -304,8 +304,7 @@
             -73.5591
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "VRD-1": {
       "recurring": {
@@ -501,8 +500,7 @@
             -73.5356
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "VRD-2": {
       "recurring": {
@@ -929,8 +927,7 @@
             -73.5614
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "VRD-3": {
       "recurring": {
@@ -1304,8 +1301,7 @@
             -73.5647
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "VRD-4": {
       "recurring": {
@@ -1498,8 +1494,7 @@
             -73.5677
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "VRD-5": {
       "recurring": {
@@ -2116,8 +2111,7 @@
             -73.5671
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     }
   }
 }

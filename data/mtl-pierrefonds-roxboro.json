@@ -1,7 +1,7 @@
 {
   "id": "mtl-pierrefonds-roxboro",
   "name": "Pierrefonds-Roxboro",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "PIRO-1": {
@@ -463,8 +463,7 @@
             -73.9258
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "PIRO-2": {
       "recurring": {
@@ -790,8 +789,7 @@
             -73.8756
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "PIRO-3": {
       "recurring": {
@@ -1026,8 +1024,7 @@
             -73.841
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "PIRO-4": {
       "recurring": {
@@ -1361,8 +1358,7 @@
             -73.8193
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "PIROaIBSG-4": {
       "recurring": {
@@ -1598,8 +1594,7 @@
             -73.8628
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "mtl-le-sud-ouest",
   "name": "Le Sud-Ouest",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-13",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "SO": {
@@ -393,8 +393,7 @@
             -73.6291
           ]
         ]
-      ],
-      "label": "Zone 6"
+      ]
     },
     "SO-1": {
       "recurring": {
@@ -585,8 +584,7 @@
             -73.567
           ]
         ]
-      ],
-      "label": "Zone 9"
+      ]
     },
     "SO-2": {
       "recurring": {
@@ -829,8 +827,7 @@
             -73.5403
           ]
         ]
-      ],
-      "label": "Zone 10"
+      ]
     },
     "SO-3": {
       "recurring": {
@@ -1073,8 +1070,7 @@
             -73.581
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "SO-4": {
       "recurring": {
@@ -1289,8 +1285,7 @@
             -73.5978
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "SO-5-R1": {
       "recurring": {
@@ -1533,8 +1528,7 @@
             -73.5753
           ]
         ]
-      ],
-      "label": "Zone 5"
+      ]
     },
     "SO-5-R2": {
       "recurring": {
@@ -1725,8 +1719,7 @@
             -73.5756
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     },
     "SO-5-R3": {
       "recurring": {
@@ -2017,8 +2010,7 @@
             -73.5721
           ]
         ]
-      ],
-      "label": "Zone 7"
+      ]
     },
     "SO-5-R3-MR": {
       "recurring": {
@@ -2369,8 +2361,7 @@
             -73.5721
           ]
         ]
-      ],
-      "label": "Zone 8"
+      ]
     },
     "SO-5-R4": {
       "recurring": {
@@ -2561,8 +2552,7 @@
             -73.591
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     }
   }
 }
