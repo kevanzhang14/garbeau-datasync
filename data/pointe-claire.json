@@ -1,7 +1,7 @@
 {
   "id": "pointe-claire",
   "name": "Pointe-Claire",
-  "lastUpdated": "2026-04-01",
+  "lastUpdated": "2026-04-14",
   "source": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
   "zones": {
     "Sector A": {
@@ -16,7 +16,7 @@
             "endDate": "2026-08-26",
             "frequency": "weekly"
           },
-          "notes": "Biweekly Tuesdays (Sep\u00e2\u20ac\u201cMay), weekly Tuesdays (Jun\u00e2\u20ac\u201cAug)"
+          "notes": "Biweekly Tuesdays (Sep\u2013May), weekly Tuesdays (Jun\u2013Aug)"
         },
         "recycling": {
           "dayOfWeek": 4,
@@ -210,7 +210,7 @@
             "frequency": "weekly",
             "dayOfWeek": 3
           },
-          "notes": "Biweekly Tuesdays (Sep\u00e2\u20ac\u201cMay), weekly Wednesdays (Jun\u00e2\u20ac\u201cAug)"
+          "notes": "Biweekly Tuesdays (Sep\u2013May), weekly Wednesdays (Jun\u2013Aug)"
         },
         "recycling": {
           "dayOfWeek": 4,
