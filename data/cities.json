@@ -185,13 +185,6 @@
     "sourceUrl": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection"
   },
   {
-    "id": "valleyfield",
-    "name": "Salaberry-de-Valleyfield",
-    "file": "valleyfield.json",
-    "sourceType": "scrape",
-    "sourceUrl": "https://www.ville.valleyfield.qc.ca/collecte"
-  },
-  {
     "id": "senneville",
     "name": "Senneville",
     "file": "senneville.json",
