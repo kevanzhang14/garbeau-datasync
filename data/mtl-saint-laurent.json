@@ -1,13 +1,13 @@
 {
   "id": "mtl-saint-laurent",
   "name": "Saint-Laurent",
-  "lastUpdated": "2026-04-13",
+  "lastUpdated": "2026-04-15",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "SLR-1": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 5,
           "frequency": "weekly"
         },
         "recycling": {
@@ -20,12 +20,12 @@
           "notes": "Included in organics collection"
         },
         "bulky": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 5,
           "frequency": "monthly",
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         }
       },
@@ -609,7 +609,7 @@
     "SLR-2": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "recycling": {
@@ -627,7 +627,7 @@
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 5,
           "frequency": "weekly"
         }
       },
@@ -1081,7 +1081,7 @@
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -1405,7 +1405,7 @@
     "SLR-4": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "recycling": {
@@ -1423,7 +1423,7 @@
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
