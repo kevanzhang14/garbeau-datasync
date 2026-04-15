@@ -1,13 +1,13 @@
 {
   "id": "mtl-saint-leonard",
   "name": "Saint-Léonard",
-  "lastUpdated": "2026-04-13",
+  "lastUpdated": "2026-04-15",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "SLE": {
       "recurring": {
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 1,
           "frequency": "weekly"
         },
         "bulky": {
@@ -59,7 +59,7 @@
           ]
         },
         "recycling": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -937,7 +937,7 @@
     "SLE-4": {
       "recurring": {
         "recycling": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 1,
           "frequency": "weekly"
         },
         "organics": {
