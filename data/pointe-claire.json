@@ -16,7 +16,7 @@
             "endDate": "2026-08-26",
             "frequency": "weekly"
           },
-          "notes": "Biweekly Tuesdays (Sep\u2013May), weekly Tuesdays (Jun\u2013Aug)"
+          "notes": "Biweekly Tuesdays (Sep–May), weekly Tuesdays (Jun–Aug)"
         },
         "recycling": {
           "dayOfWeek": 4,
@@ -38,7 +38,7 @@
             "2026-09-09",
             "2026-10-14"
           ],
-          "notes": "2nd Wednesday of the month, April\u00e2\u20ac\u201cOctober"
+          "notes": "2nd Wednesday of the month, Aprilâ€“October"
         },
         "leaves": {
           "dayOfWeek": 1,
@@ -210,7 +210,7 @@
             "frequency": "weekly",
             "dayOfWeek": 3
           },
-          "notes": "Biweekly Tuesdays (Sep\u2013May), weekly Wednesdays (Jun\u2013Aug)"
+          "notes": "Biweekly Tuesdays (Sep–May), weekly Wednesdays (Jun–Aug)"
         },
         "recycling": {
           "dayOfWeek": 4,
@@ -232,7 +232,7 @@
             "2026-09-09",
             "2026-10-14"
           ],
-          "notes": "2nd Wednesday of the month, April\u00e2\u20ac\u201cOctober"
+          "notes": "2nd Wednesday of the month, Aprilâ€“October"
         },
         "leaves": {
           "dayOfWeek": 1,
