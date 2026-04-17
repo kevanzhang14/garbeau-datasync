@@ -1,0 +1,189 @@
+{
+  "description": "Tracks data freshness for each city. Updated by CI workflows and extraction scripts.",
+  "cities": {
+    "baie-durfe": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "beaconsfield": {
+      "lastUpdated": "2026-04-16",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "cote-saint-luc": {
+      "lastUpdated": "2026-04-01",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "dollard-des-ormeaux": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "dorval": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "hampstead": {
+      "lastUpdated": "2026-04-01",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "kirkland": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "mont-royal": {
+      "lastUpdated": "2026-04-02",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "montreal-est": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "montreal-ouest": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "mtl-ahuntsic-cartierville": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-anjou": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-cote-des-neiges-notre-dame-de-grace": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-l-ile-bizard-sainte-genevieve": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-lachine": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-lasalle": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-le-plateau-mont-royal": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-le-sud-ouest": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-mercier-hochelaga-maisonneuve": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-montreal-nord": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-outremont": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-pierrefonds-roxboro": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-riviere-des-prairies-pointe-aux-trembles": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-rosemont-la-petite-patrie": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-saint-laurent": {
+      "lastUpdated": "2026-04-15",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-saint-leonard": {
+      "lastUpdated": "2026-04-15",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-verdun": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-ville-marie": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "mtl-villeray-saint-michel-parc-extension": {
+      "lastUpdated": "2026-04-13",
+      "sourceType": "geojson",
+      "scheduleYear": 2026
+    },
+    "pointe-claire": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "sainte-anne-de-bellevue": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "st-lazare": {
+      "lastUpdated": "2026-04-08",
+      "sourceType": "image",
+      "scheduleYear": 2026
+    },
+    "senneville": {
+      "lastUpdated": "2026-04-14",
+      "sourceType": "manual",
+      "scheduleYear": 2026
+    },
+    "vaudreuil-dorion": {
+      "lastUpdated": "2026-04-01",
+      "sourceType": "image",
+      "scheduleYear": 2026
+    },
+    "westmount": {
+      "lastUpdated": "2026-04-01",
+      "sourceType": "pdf",
+      "scheduleYear": 2026
+    },
+    "laval": {
+      "lastUpdated": "2026-04-08"
+    },
+    "notre-dame-de-lile-perrot": {
+      "lastUpdated": "2026-04-14"
+    },
+    "ile-perrot": {
+      "lastUpdated": "2026-04-17"
+    }
+  }
+}
