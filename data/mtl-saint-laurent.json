@@ -1,13 +1,13 @@
 {
   "id": "mtl-saint-laurent",
   "name": "Saint-Laurent",
-  "lastUpdated": "2026-04-09",
+  "lastUpdated": "2026-04-15",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "zones": {
     "SLR-1": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 5,
           "frequency": "weekly"
         },
         "recycling": {
@@ -20,12 +20,12 @@
           "notes": "Included in organics collection"
         },
         "bulky": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 5,
           "frequency": "monthly",
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         }
       },
@@ -604,13 +604,12 @@
             -73.7231
           ]
         ]
-      ],
-      "label": "Zone 1"
+      ]
     },
     "SLR-2": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "recycling": {
@@ -628,7 +627,7 @@
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 5,
           "frequency": "weekly"
         }
       },
@@ -1059,8 +1058,7 @@
             -73.6987
           ]
         ]
-      ],
-      "label": "Zone 2"
+      ]
     },
     "SLR-3": {
       "recurring": {
@@ -1083,7 +1081,7 @@
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -1402,13 +1400,12 @@
             -73.7231
           ]
         ]
-      ],
-      "label": "Zone 3"
+      ]
     },
     "SLR-4": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "recycling": {
@@ -1426,7 +1423,7 @@
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -1597,8 +1594,73 @@
             -73.6987
           ]
         ]
-      ],
-      "label": "Zone 4"
+      ]
     }
-  }
+  },
+  "cityBoundary": [
+    [
+      45.46020955526981,
+      -73.7497954230609
+    ],
+    [
+      45.468427727369324,
+      -73.76256083431673
+    ],
+    [
+      45.4818,
+      -73.7742
+    ],
+    [
+      45.5005,
+      -73.7739
+    ],
+    [
+      45.5025,
+      -73.7725
+    ],
+    [
+      45.5034,
+      -73.771
+    ],
+    [
+      45.5237,
+      -73.7317
+    ],
+    [
+      45.5267,
+      -73.7217
+    ],
+    [
+      45.5323,
+      -73.6748
+    ],
+    [
+      45.5323,
+      -73.6727
+    ],
+    [
+      45.5322,
+      -73.6717
+    ],
+    [
+      45.5321,
+      -73.671
+    ],
+    [
+      45.5318,
+      -73.6697
+    ],
+    [
+      45.5264,
+      -73.651
+    ],
+    [
+      45.46297360366819,
+      -73.68473674647123
+    ],
+    [
+      45.46020955526981,
+      -73.7497954230609
+    ]
+  ]
 }

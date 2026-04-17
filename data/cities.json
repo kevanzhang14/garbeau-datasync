@@ -127,6 +127,13 @@
     "sourceUrl": "https://montreal-ouest.ca/en/resident-services/waste-collection/"
   },
   {
+    "id": "notre-dame-de-lile-perrot",
+    "name": "Notre-Dame-de-l'Ile-Perrot",
+    "file": "notre-dame-de-lile-perrot.json",
+    "sourceType": "pdf",
+    "sourceUrl": "https://www.ndip.org/calendrier-des-collectes"
+  },
+  {
     "id": "mtl-outremont",
     "name": "Outremont",
     "file": "mtl-outremont.json"
@@ -178,13 +185,6 @@
     "sourceUrl": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection"
   },
   {
-    "id": "valleyfield",
-    "name": "Salaberry-de-Valleyfield",
-    "file": "valleyfield.json",
-    "sourceType": "scrape",
-    "sourceUrl": "https://www.ville.valleyfield.qc.ca/collecte"
-  },
-  {
     "id": "senneville",
     "name": "Senneville",
     "file": "senneville.json",
@@ -219,5 +219,13 @@
     "file": "westmount.json",
     "sourceType": "scrape",
     "sourceUrl": "https://westmount.org/en/services/municipal-services/waste-collection"
+  }
+  ,
+  {
+    "id": "ile-perrot",
+    "name": "L'Île-Perrot",
+    "file": "ile-perrot.json",
+    "sourceType": "csv",
+    "sourceUrl": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles"
   }
 ]
