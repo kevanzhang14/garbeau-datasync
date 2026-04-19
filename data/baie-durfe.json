@@ -1,7 +1,7 @@
 {
   "id": "baie-durfe",
   "name": "Baie-D'Urfe",
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-04-18",
   "source": "https://www.baie-durfe.qc.ca/en/citizen-services/page/collection-calendar",
   "zones": {
     "BDU": {
@@ -16,13 +16,8 @@
         },
         "organics": {
           "dayOfWeek": 2,
-          "frequency": "biweekly",
-          "seasonalOverride": {
-            "startDate": "2026-04-07",
-            "endDate": "2026-11-24",
-            "frequency": "weekly"
-          },
-          "notes": "Weekly April–November; biweekly Jan 6–Mar 31 and Dec 1–Dec 29"
+          "frequency": "weekly",
+          "notes": "Has seasonal override - update dates manually from PDF calendar"
         },
         "bulky": {
           "dayOfWeek": null,
@@ -37,7 +32,7 @@
             "2026-10-13",
             "2026-11-09"
           ],
-          "notes": "Monthly bulky collection, 2nd Monday, April–November"
+          "notes": "Monthly bulky collection, 2nd Monday, April\u2013November"
         },
         "branches": {
           "dayOfWeek": null,

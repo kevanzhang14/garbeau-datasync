@@ -69,6 +69,13 @@
     "file": "mtl-l-ile-bizard-sainte-genevieve.json"
   },
   {
+    "id": "ile-perrot",
+    "name": "L'Île-Perrot",
+    "file": "ile-perrot.json",
+    "sourceType": "csv",
+    "sourceUrl": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles"
+  },
+  {
     "id": "mtl-lasalle",
     "name": "LaSalle",
     "file": "mtl-lasalle.json"
@@ -219,13 +226,5 @@
     "file": "westmount.json",
     "sourceType": "scrape",
     "sourceUrl": "https://westmount.org/en/services/municipal-services/waste-collection"
-  }
-  ,
-  {
-    "id": "ile-perrot",
-    "name": "L'Île-Perrot",
-    "file": "ile-perrot.json",
-    "sourceType": "csv",
-    "sourceUrl": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "id": "senneville",
   "name": "Senneville",
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-04-18",
   "source": "https://www.senneville.ca/en/services/waste-collection/",
   "zones": {
     "SENNEVILLE": {
@@ -256,6 +256,17 @@
           ]
         ]
       ]
+    }
+  },
+  "special": {
+    "bulky": {
+      "dates": [
+        "2026-01-09",
+        "2026-05-08",
+        "2026-07-10",
+        "2026-09-11"
+      ],
+      "notes": "4 collections scheduled for 2026"
     }
   }
 }
