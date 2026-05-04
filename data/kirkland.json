@@ -3,6 +3,13 @@
   "name": "Kirkland",
   "lastUpdated": "2026-04-14",
   "source": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
+  "resources": {
+    "general": {
+      "title": "Kirkland Collection Information",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
+      "icon": "info"
+    }
+  },
   "zones": {
     "KIRKLAND": {
       "recurring": {

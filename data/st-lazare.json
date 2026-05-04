@@ -3,6 +3,13 @@
   "name": "Saint-Lazare",
   "lastUpdated": "2026-04-08",
   "source": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/collection-calendar",
+  "resources": {
+    "general": {
+      "title": "Saint-Lazare Collection Information",
+      "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/collection-calendar",
+      "icon": "info"
+    }
+  },
   "zones": {
     "EAST": {
       "label": "Eastern sector",

@@ -3,6 +3,13 @@
   "name": "Notre-Dame-de-l'Ile-Perrot",
   "lastUpdated": "2026-04-14",
   "source": "https://www.ndip.org/calendrier-des-collectes",
+  "resources": {
+    "general": {
+      "title": "Notre-Dame-de-l'Ile-Perrot Collection Information",
+      "url": "https://www.ndip.org/calendrier-des-collectes",
+      "icon": "info"
+    }
+  },
   "zones": {
     "NDIP": {
       "recurring": {

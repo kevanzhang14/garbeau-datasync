@@ -3,6 +3,13 @@
   "name": "Dollard-des-Ormeaux",
   "lastUpdated": "2026-04-14",
   "source": "https://ville.ddo.qc.ca/en/live/collection-2/",
+  "resources": {
+    "general": {
+      "title": "Dollard-des-Ormeaux Collection Information",
+      "url": "https://ville.ddo.qc.ca/en/live/collection-2/",
+      "icon": "info"
+    }
+  },
   "zones": {
     "DDO": {
       "recurring": {

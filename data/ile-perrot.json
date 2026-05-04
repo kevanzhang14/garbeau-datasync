@@ -3,6 +3,13 @@
   "name": "L'Île-Perrot",
   "lastUpdated": "2026-04-17",
   "source": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+  "resources": {
+    "general": {
+      "title": "L'Île-Perrot Collection Information",
+      "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+      "icon": "info"
+    }
+  },
   "zones": {
     "Citywide": {
       "label": "Citywide",

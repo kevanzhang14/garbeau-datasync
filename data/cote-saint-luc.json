@@ -3,6 +3,13 @@
   "name": "Côte-Saint-Luc",
   "lastUpdated": "2026-04-01",
   "source": "https://cotesaintluc.org/en/waste-collection/schedule/",
+  "resources": {
+    "general": {
+      "title": "Côte-Saint-Luc Collection Information",
+      "url": "https://cotesaintluc.org/en/waste-collection/schedule/",
+      "icon": "info"
+    }
+  },
   "externalApp": {
     "name": "CSL Collecte",
     "url": "https://cotesaintluc.org/en/waste-collection/csl-collecte-application/",

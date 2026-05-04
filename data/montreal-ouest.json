@@ -3,6 +3,13 @@
   "name": "Montréal-Ouest",
   "lastUpdated": "2026-04-14",
   "source": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
+  "resources": {
+    "general": {
+      "title": "Montréal-Ouest Collection Information",
+      "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
+      "icon": "info"
+    }
+  },
   "zones": {
     "MO": {
       "recurring": {

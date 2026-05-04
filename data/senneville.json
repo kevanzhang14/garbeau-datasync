@@ -3,6 +3,13 @@
   "name": "Senneville",
   "lastUpdated": "2026-04-18",
   "source": "https://www.senneville.ca/en/services/waste-collection/",
+  "resources": {
+    "general": {
+      "title": "Senneville Collection Information",
+      "url": "https://www.senneville.ca/en/services/waste-collection/",
+      "icon": "info"
+    }
+  },
   "zones": {
     "SENNEVILLE": {
       "recurring": {

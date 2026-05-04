@@ -3,6 +3,13 @@
   "name": "Sainte-Anne-de-Bellevue",
   "lastUpdated": "2026-04-14",
   "source": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+  "resources": {
+    "general": {
+      "title": "Sainte-Anne-de-Bellevue Collection Information",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "icon": "info"
+    }
+  },
   "zones": {
     "SAB": {
       "recurring": {

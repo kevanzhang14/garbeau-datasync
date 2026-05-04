@@ -3,6 +3,13 @@
   "name": "Vaudreuil-Dorion",
   "lastUpdated": "2026-04-01",
   "source": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
+  "resources": {
+    "general": {
+      "title": "Vaudreuil-Dorion Collection Information",
+      "url": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
+      "icon": "info"
+    }
+  },
   "zones": {
     "A": {
       "label": "Sector A",

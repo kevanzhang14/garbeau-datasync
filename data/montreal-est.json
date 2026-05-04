@@ -3,6 +3,13 @@
   "name": "Montréal-Est",
   "lastUpdated": "2026-04-14",
   "source": "https://ville.montreal-est.qc.ca/environnement/collectes/",
+  "resources": {
+    "general": {
+      "title": "Montréal-Est Collection Information",
+      "url": "https://ville.montreal-est.qc.ca/environnement/collectes/",
+      "icon": "info"
+    }
+  },
   "zones": {
     "ME": {
       "recurring": {

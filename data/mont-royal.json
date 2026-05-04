@@ -3,6 +3,13 @@
   "name": "Mont-Royal",
   "lastUpdated": "2026-04-02",
   "source": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
+  "resources": {
+    "general": {
+      "title": "Mont-Royal Collection Information",
+      "url": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
+      "icon": "info"
+    }
+  },
   "zones": {
     "TMR": {
       "recurring": {

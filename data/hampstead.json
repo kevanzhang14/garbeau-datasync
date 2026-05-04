@@ -44,7 +44,7 @@
           "dayOfWeek": 4,
           "frequency": "biweekly",
           "anchorDate": "2025-05-22",
-          "notes": "Free branch collection service (registration required). Place bundled branches at curb the evening before pickup. Season shown on source page: May 22 to October 30, 2025. Confirm current dates via municipal link in app."
+          "notes": "Branch collection requires registration."
         },
         "bulky": {
           "dayOfWeek": null,
