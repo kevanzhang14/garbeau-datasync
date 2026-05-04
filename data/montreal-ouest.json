@@ -8,6 +8,16 @@
       "title": "Montréal-Ouest Collection Information",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
       "icon": "info"
+    },
+    "leaves": {
+      "title": "Organics and Green Waste Details",
+      "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
+      "icon": "info"
+    },
+    "christmas_tree": {
+      "title": "Christmas Tree Collection Details",
+      "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
+      "icon": "info"
     }
   },
   "zones": {
@@ -24,6 +34,16 @@
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Put surplus green waste such as leaves and garden waste beside the brown bin for organics pickup."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "notes": "Natural Christmas trees can be placed out throughout January and are collected by Public Works during the weekly rounds."
         }
       },
       "centroid": {

@@ -1,13 +1,33 @@
 {
   "id": "kirkland",
   "name": "Kirkland",
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-05-04",
   "source": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
   "resources": {
     "general": {
       "title": "Kirkland Collection Information",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
       "icon": "info"
+    },
+    "leaves": {
+      "title": "Organic, Leaves and Green Waste Details",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/leaves",
+      "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulky Items Collection Details",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/bulky-items",
+      "icon": "external-link"
+    },
+    "branches": {
+      "title": "Branch Collection Details",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/branches",
+      "icon": "external-link"
+    },
+    "christmas_tree": {
+      "title": "Christmas Tree Collection Details",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/christmas-trees",
+      "icon": "external-link"
     }
   },
   "zones": {
@@ -24,6 +44,44 @@
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Leaves and green waste are handled with organics collection."
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Bulky items are collected by sector on predetermined dates. Recoverable bulky waste is available on request only."
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected free of charge on predetermined spring and fall dates, with on-demand pickup outside those periods."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-11",
+            "2026-01-12",
+            "2026-01-13",
+            "2026-01-14",
+            "2026-01-15",
+            "2026-01-16",
+            "2026-01-17",
+            "2026-01-18",
+            "2026-01-19",
+            "2026-01-20",
+            "2026-01-21",
+            "2026-01-22",
+            "2026-01-23"
+          ],
+          "notes": "Natural Christmas trees are collected during the published January pickup window."
         }
       },
       "centroid": {
