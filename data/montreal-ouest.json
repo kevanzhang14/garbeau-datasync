@@ -1,11 +1,11 @@
 {
   "id": "montreal-ouest",
-  "name": "Montréal-Ouest",
-  "lastUpdated": "2026-04-14",
+  "name": "Montr\u00e9al-Ouest",
+  "lastUpdated": "2026-05-04",
   "source": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
   "resources": {
     "general": {
-      "title": "Montréal-Ouest Collection Information",
+      "title": "Montr\u00e9al-Ouest Collection Information",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
       "icon": "info"
     },
@@ -18,6 +18,21 @@
       "title": "Christmas Tree Collection Details",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Special Pickup Service Details",
+      "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/special-pickups/",
+      "icon": "external-link"
+    },
+    "special_pickup_contact": {
+      "title": "Contact Public Works",
+      "url": "https://montreal-west.ca/en/our-town/contact-the-town-and-opening-hours/?service=Public%20Works",
+      "icon": "external-link"
+    },
+    "appliance_pickup": {
+      "title": "GoRecycle Appliance Pickup",
+      "url": "https://www.gorecycle.com/en/free-appliance-pickup/",
+      "icon": "external-link"
     }
   },
   "zones": {
@@ -44,6 +59,12 @@
           "dayOfWeek": null,
           "frequency": "monthly",
           "notes": "Natural Christmas trees can be placed out throughout January and are collected by Public Works during the weekly rounds."
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "notes": "Special pickup is a paid on-request service for construction materials and permanent fixtures. Contact Public Works for pricing and scheduling.",
+          "informationalCard": true
         }
       },
       "centroid": {
