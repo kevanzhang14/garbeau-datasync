@@ -3,6 +3,18 @@
   "name": "Dorval",
   "lastUpdated": "2026-04-14",
   "source": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+  "resources": {
+    "general": {
+      "title": "Dorval Collection Services",
+      "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+      "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulky Waste Placement Guidelines",
+      "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+      "icon": "external-link"
+    }
+  },
   "zones": {
     "DORVAL": {
       "recurring": {

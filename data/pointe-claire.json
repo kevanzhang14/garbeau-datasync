@@ -3,6 +3,18 @@
   "name": "Pointe-Claire",
   "lastUpdated": "2026-04-14",
   "source": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
+  "resources": {
+    "general": {
+      "title": "Pointe-Claire Collection Services",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
+      "icon": "info"
+    },
+    "garbage": {
+      "title": "Seasonal Garbage Collection (Weekly in Summer)",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
+      "icon": "external-link"
+    }
+  },
   "zones": {
     "Sector A": {
       "label": "Sector A",
@@ -38,7 +50,7 @@
             "2026-09-09",
             "2026-10-14"
           ],
-          "notes": "2nd Wednesday of the month, Aprilâ€“October"
+          "notes": "2nd Wednesday of the month, April–October"
         },
         "leaves": {
           "dayOfWeek": 1,
@@ -232,7 +244,7 @@
             "2026-09-09",
             "2026-10-14"
           ],
-          "notes": "2nd Wednesday of the month, Aprilâ€“October"
+          "notes": "2nd Wednesday of the month, April–October"
         },
         "leaves": {
           "dayOfWeek": 1,

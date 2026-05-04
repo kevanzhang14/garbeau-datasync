@@ -3,6 +3,23 @@
   "name": "Baie-D'Urfe",
   "lastUpdated": "2026-05-02",
   "source": "https://www.baie-durfe.qc.ca/en/citizen-services/page/collection-calendar",
+  "resources": {
+    "general": {
+      "title": "Baie-D'Urfe Collection Calendar",
+      "url": "https://www.baie-durfe.qc.ca/en/citizen-services/page/collection-calendar",
+      "icon": "info"
+    },
+    "christmas_tree": {
+      "title": "Seasonal Christmas Tree Collection",
+      "url": "https://www.baie-durfe.qc.ca/en/citizen-services/collection-services",
+      "icon": "external-link"
+    },
+    "branches": {
+      "title": "Branch & Debris Pickup",
+      "url": "https://www.baie-durfe.qc.ca/en/citizen-services/collection-services",
+      "icon": "external-link"
+    }
+  },
   "zones": {
     "BDU": {
       "recurring": {

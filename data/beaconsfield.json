@@ -3,6 +3,18 @@
   "name": "Beaconsfield",
   "lastUpdated": "2026-04-16",
   "source": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
+  "resources": {
+    "general": {
+      "title": "Beaconsfield Collection Services",
+      "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
+      "icon": "info"
+    },
+    "leaves": {
+      "title": "Leaf & Organics Collection",
+      "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
+      "icon": "external-link"
+    }
+  },
   "zones": {
     "NORTH": {
       "recurring": {

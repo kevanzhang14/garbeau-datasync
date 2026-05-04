@@ -8,6 +8,23 @@
     "url": "https://www.laval.ca/recherche-par-adresse/",
     "message": "Laval schedules are currently provided via the official address lookup. Use the City of Laval tool to get your exact collection calendar."
   },
+  "resources": {
+    "general": {
+      "title": "Laval Collection Calendar",
+      "url": "https://www.laval.ca/environnement/collectes/calendrier-collectes/",
+      "icon": "info"
+    },
+    "christmas_tree": {
+      "title": "Holiday Tree Collection Details",
+      "url": "https://www.laval.ca/environnement/collectes/sapins/",
+      "icon": "external-link"
+    },
+    "bulky": {
+      "title": "Bulky Waste Collection Info",
+      "url": "https://www.laval.ca/environnement/collectes/encombrants/",
+      "icon": "external-link"
+    }
+  },
   "zones": {
     "LAVAL-01": {
       "label": "Zone 1",
