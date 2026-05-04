@@ -1,8 +1,30 @@
 {
   "id": "hampstead",
   "name": "Hampstead",
-  "lastUpdated": "2026-04-01",
+  "lastUpdated": "2026-05-04",
   "source": "https://www.hampstead.qc.ca/en/collections/",
+  "resources": {
+    "general": {
+      "title": "Hampstead Collection Services",
+      "url": "https://www.hampstead.qc.ca/en/collections/",
+      "icon": "info"
+    },
+    "branches": {
+      "title": "Request Branch Collection",
+      "url": "https://hampstead.portailcitoyen.com/en/requete?cat=collection&souscat=collection-of-branches",
+      "icon": "registration"
+    },
+    "bulky": {
+      "title": "Request Bulky Item Pickup",
+      "url": "https://hampstead.portailcitoyen.com/en/requete?cat=collection&souscat=collection-of-bulky-items",
+      "icon": "registration"
+    },
+    "registration": {
+      "title": "Hampstead Collection Request Portal",
+      "url": "https://hampstead.portailcitoyen.com/en/requete?cat=collection",
+      "icon": "external-link"
+    }
+  },
   "zones": {
     "HAMPSTEAD": {
       "recurring": {
@@ -17,11 +39,22 @@
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly"
+        },
+        "branches": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "anchorDate": "2025-05-22",
+          "notes": "Free branch collection service (registration required). Place bundled branches at curb the evening before pickup. Season shown on source page: May 22 to October 30, 2025. Confirm current dates via municipal link in app."
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "notes": "Bulky pickup is request-based and subject to a fee; use the city request form to get an estimate and schedule pickup."
         }
       },
       "centroid": {
-        "lat": 45.4786,
-        "lng": -73.6394
+        "lat": 45.4826,
+        "lng": -73.6277
       },
       "label": "Hampstead",
       "boundary": [
