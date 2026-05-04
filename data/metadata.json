@@ -2,7 +2,7 @@
   "description": "Tracks data freshness for each city. Updated by CI workflows and extraction scripts.",
   "cities": {
     "baie-durfe": {
-      "lastUpdated": "2026-04-25",
+      "lastUpdated": "2026-05-02",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
@@ -52,97 +52,97 @@
       "scheduleYear": 2026
     },
     "mtl-ahuntsic-cartierville": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-anjou": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-cote-des-neiges-notre-dame-de-grace": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-l-ile-bizard-sainte-genevieve": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-lachine": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-lasalle": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-le-plateau-mont-royal": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-le-sud-ouest": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-mercier-hochelaga-maisonneuve": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-montreal-nord": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-outremont": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-pierrefonds-roxboro": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-riviere-des-prairies-pointe-aux-trembles": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-rosemont-la-petite-patrie": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-saint-laurent": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-saint-leonard": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-verdun": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-ville-marie": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
     "mtl-villeray-saint-michel-parc-extension": {
-      "lastUpdated": "2026-04-19",
+      "lastUpdated": "2026-05-02",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
@@ -177,7 +177,7 @@
       "scheduleYear": 2026
     },
     "laval": {
-      "lastUpdated": "2026-04-08"
+      "lastUpdated": "2026-05-01"
     },
     "notre-dame-de-lile-perrot": {
       "lastUpdated": "2026-04-14"
