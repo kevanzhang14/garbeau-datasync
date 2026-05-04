@@ -1,11 +1,26 @@
 {
   "id": "montreal-est",
-  "name": "Montréal-Est",
-  "lastUpdated": "2026-04-14",
+  "name": "Montr\u00e9al-Est",
+  "lastUpdated": "2026-05-04",
   "source": "https://ville.montreal-est.qc.ca/environnement/collectes/",
   "resources": {
     "general": {
-      "title": "Montréal-Est Collection Information",
+      "title": "Montr\u00e9al-Est Collection Information",
+      "url": "https://ville.montreal-est.qc.ca/environnement/collectes/",
+      "icon": "info"
+    },
+    "branches": {
+      "title": "Branch Pickup Dates and Registration",
+      "url": "https://ville.montreal-est.qc.ca/collectes-de-branches-2/",
+      "icon": "external-link"
+    },
+    "yard_waste": {
+      "title": "Green Waste Collection Dates",
+      "url": "https://ville.montreal-est.qc.ca/collecte-residus-verts/",
+      "icon": "external-link"
+    },
+    "bulky": {
+      "title": "Bulky Item Collection Details",
       "url": "https://ville.montreal-est.qc.ca/environnement/collectes/",
       "icon": "info"
     }
@@ -26,21 +41,33 @@
           "frequency": "weekly"
         },
         "bulky": {
-          "dayOfWeek": null,
-          "frequency": "monthly",
-          "notes": "Check ville.montreal-est.qc.ca for bulky item collection schedule"
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "notes": "Bulky items can be set out with household garbage collection, up to the municipal weekly volume limit."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Leaves are collected with organics (brown bin)"
+          "notes": "Leaves are accepted with organics collection in the brown bin."
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "notes": "Branch pickup runs from May to October and requires registration by the Monday before collection.",
+          "informationalCard": true
+        },
+        "yard_waste": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "notes": "Green waste pickup occurs in May, October, and November.",
+          "informationalCard": true
         }
       },
       "centroid": {
         "lat": 45.626,
         "lng": -73.518
       },
-      "label": "Montréal-Est",
+      "label": "Montr\u00e9al-Est",
       "boundary": [
         [
           [
