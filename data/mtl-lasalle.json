@@ -1,7 +1,7 @@
 {
   "id": "mtl-lasalle",
   "name": "LaSalle",
-  "lastUpdated": "2026-05-02",
+  "lastUpdated": "2026-05-06",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -14,7 +14,7 @@
     "LSL": {
       "recurring": {
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "bulky": {
@@ -26,6 +26,10 @@
           ]
         },
         "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
         },
@@ -46,6 +50,10 @@
     "LSL1": {
       "recurring": {
         "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
         },
@@ -81,6 +89,10 @@
           "dayOfWeek": 2,
           "frequency": "weekly"
         },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly"
@@ -110,7 +122,11 @@
     "LSL3": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "organics": {
@@ -142,6 +158,10 @@
     "LSL4": {
       "recurring": {
         "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
+        "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
         },
