@@ -206,6 +206,13 @@
     "sourceUrl": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules"
   },
   {
+    "id": "vaudreuil-sur-le-lac",
+    "name": "Vaudreuil-sur-le-Lac",
+    "file": "vaudreuil-sur-le-lac.json",
+    "sourceType": "pdf",
+    "sourceUrl": "https://www.vsll.ca/pages-services-aux-citoyens/dechets-et-recyclage"
+  },
+  {
     "id": "mtl-verdun",
     "name": "Verdun",
     "file": "mtl-verdun.json"
