@@ -1,7 +1,7 @@
 {
   "id": "mtl-riviere-des-prairies-pointe-aux-trembles",
   "name": "Rivière-des-Prairies–Pointe-aux-Trembles",
-  "lastUpdated": "2026-05-06",
+  "lastUpdated": "2026-05-09",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -13,25 +13,13 @@
   "zones": {
     "RDPPAT-E-1": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": 2,
+          "dayOfWeek": null,
           "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-11-24"
-          ]
         }
       },
       "centroid": {
@@ -1787,25 +1775,13 @@
     },
     "RDPPAT-E-2": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": 3,
+          "dayOfWeek": null,
           "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-22",
-            "2026-11-25"
-          ]
         }
       },
       "centroid": {
@@ -1815,25 +1791,13 @@
     },
     "RDPPAT-E-3": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": 1,
+          "dayOfWeek": null,
           "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-20",
-            "2026-11-23"
-          ]
         }
       },
       "centroid": {
@@ -1843,25 +1807,13 @@
     },
     "RDPPAT-E-4": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": 1,
+          "dayOfWeek": null,
           "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-20",
-            "2026-11-23"
-          ]
         }
       },
       "centroid": {

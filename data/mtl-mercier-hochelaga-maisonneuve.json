@@ -1,7 +1,7 @@
 {
   "id": "mtl-mercier-hochelaga-maisonneuve",
   "name": "Mercier–Hochelaga-Maisonneuve",
-  "lastUpdated": "2026-05-02",
+  "lastUpdated": "2026-05-09",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -26,8 +26,8 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         },
         "leaves": {
           "dayOfWeek": 2,
@@ -545,6 +545,10 @@
           "dayOfWeek": 5,
           "frequency": "weekly"
         },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "leaves": {
           "dayOfWeek": 4,
           "frequency": "weekly",
@@ -583,72 +587,12 @@
         },
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
       "centroid": {
-        "lat": 45.551797,
-        "lng": -73.545203
-      }
-    },
-    "MHM-41-PP": {
-      "recurring": {
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.55382,
-        "lng": -73.539939
+        "lat": 45.550258,
+        "lng": -73.54491
       }
     },
     "MHM-41-S": {
@@ -657,6 +601,10 @@
           "dayOfWeek": 1,
           "frequency": "weekly"
         },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "leaves": {
           "dayOfWeek": 4,
           "frequency": "weekly",
@@ -695,128 +643,12 @@
         },
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "biweekly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
       "centroid": {
-        "lat": 45.547129,
-        "lng": -73.53989
-      }
-    },
-    "MHM-41N": {
-      "recurring": {
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "biweekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.551671,
-        "lng": -73.547078
-      }
-    },
-    "MHM-41S": {
-      "recurring": {
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "biweekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.542357,
-        "lng": -73.54201
+        "lat": 45.547043,
+        "lng": -73.539674
       }
     },
     "MHM-42-N": {
@@ -826,7 +658,7 @@
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "leaves": {
@@ -870,13 +702,13 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "centroid": {
-        "lat": 45.577713,
-        "lng": -73.540514
+        "lat": 45.582171,
+        "lng": -73.539545
       }
     },
     "MHM-42-S": {
@@ -886,7 +718,7 @@
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "leaves": {
@@ -930,13 +762,13 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "centroid": {
-        "lat": 45.566166,
-        "lng": -73.527682
+        "lat": 45.566609,
+        "lng": -73.526892
       }
     },
     "MHM-43-E": {
@@ -991,7 +823,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "biweekly"
+          "frequency": "weekly"
         }
       },
       "centroid": {
@@ -1051,7 +883,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "biweekly"
+          "frequency": "weekly"
         }
       },
       "centroid": {
@@ -1111,1179 +943,19 @@
         },
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "biweekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.603637,
-        "lng": -73.519211
-      }
-    },
-    "MHM_41-1_A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
           "frequency": "weekly"
         }
       },
       "centroid": {
-        "lat": 45.544762,
-        "lng": -73.55329
-      }
-    },
-    "MHM_41-2_A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.551622,
-        "lng": -73.550243
-      }
-    },
-    "MHM_41-2_B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.558435,
-        "lng": -73.547009
-      }
-    },
-    "MHM_41-3et4A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.54451,
-        "lng": -73.550512
-      }
-    },
-    "MHM_41-3et4B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.543859,
-        "lng": -73.547529
-      }
-    },
-    "MHM_41-5_B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.554272,
-        "lng": -73.542639
-      }
-    },
-    "MHM_41-6et7A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.541506,
-        "lng": -73.540398
-      }
-    },
-    "MHM_41-6et7B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.542425,
-        "lng": -73.543335
-      }
-    },
-    "MHM_41-8a10A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.55169,
-        "lng": -73.534722
-      }
-    },
-    "MHM_41-8a10B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-23",
-            "2026-04-30",
-            "2026-05-07",
-            "2026-05-14",
-            "2026-05-21",
-            "2026-05-28",
-            "2026-06-04",
-            "2026-06-11",
-            "2026-06-25",
-            "2026-07-09",
-            "2026-07-23",
-            "2026-08-06",
-            "2026-08-20",
-            "2026-08-27",
-            "2026-09-03",
-            "2026-09-10",
-            "2026-09-17",
-            "2026-09-24",
-            "2026-10-01",
-            "2026-10-08",
-            "2026-10-15",
-            "2026-10-22",
-            "2026-10-29",
-            "2026-11-05",
-            "2026-11-12",
-            "2026-11-19"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.552776,
-        "lng": -73.537243
-      }
-    },
-    "MHM_42-1_B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.568335,
-        "lng": -73.54483
-      }
-    },
-    "MHM_42-2_B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.575573,
-        "lng": -73.540568
-      }
-    },
-    "MHM_42-3_A1": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.579576,
-        "lng": -73.539689
-      }
-    },
-    "MHM_42-3_A2": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.579404,
-        "lng": -73.533979
-      }
-    },
-    "MHM_42-4_A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.587534,
-        "lng": -73.535233
-      }
-    },
-    "MHM_42-4_B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.582,
-        "lng": -73.537083
-      }
-    },
-    "MHM_42-5_A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.559765,
-        "lng": -73.529836
-      }
-    },
-    "MHM_42-5_B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.572151,
-        "lng": -73.532131
-      }
-    },
-    "MHM_42-6_A": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.583235,
-        "lng": -73.516669
-      }
-    },
-    "MHM_42-6_B": {
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "biweekly"
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-21",
-            "2026-04-28",
-            "2026-05-05",
-            "2026-05-12",
-            "2026-05-19",
-            "2026-05-26",
-            "2026-06-02",
-            "2026-06-09",
-            "2026-06-23",
-            "2026-07-07",
-            "2026-07-21",
-            "2026-08-04",
-            "2026-08-18",
-            "2026-08-25",
-            "2026-09-01",
-            "2026-09-08",
-            "2026-09-15",
-            "2026-09-22",
-            "2026-09-29",
-            "2026-10-06",
-            "2026-10-13",
-            "2026-10-20",
-            "2026-10-27",
-            "2026-11-03",
-            "2026-11-10",
-            "2026-11-17"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        }
-      },
-      "centroid": {
-        "lat": 45.573168,
-        "lng": -73.522442
+        "lat": 45.603441,
+        "lng": -73.518733
       }
     },
     "MHM_43E_A": {
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "biweekly"
+          "frequency": "weekly"
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -2343,7 +1015,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "biweekly"
+          "frequency": "weekly"
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -2395,15 +1067,15 @@
         }
       },
       "centroid": {
-        "lat": 45.58235,
-        "lng": -73.557523
+        "lat": 45.582348,
+        "lng": -73.557518
       }
     },
     "MHM_44_A": {
       "recurring": {
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "biweekly"
+          "frequency": "weekly"
         },
         "bulky": {
           "dayOfWeek": 4,
@@ -2463,7 +1135,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "biweekly"
+          "frequency": "weekly"
         },
         "bulky": {
           "dayOfWeek": 4,
@@ -2517,6 +1189,466 @@
       "centroid": {
         "lat": 45.600073,
         "lng": -73.50999
+      }
+    },
+    "MHM-1-A": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": [
+            1,
+            3
+          ]
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-21",
+            "2026-04-28",
+            "2026-05-05",
+            "2026-05-12",
+            "2026-05-19",
+            "2026-05-26",
+            "2026-06-02",
+            "2026-06-09",
+            "2026-06-23",
+            "2026-07-07",
+            "2026-07-21",
+            "2026-08-04",
+            "2026-08-18",
+            "2026-08-25",
+            "2026-09-01",
+            "2026-09-08",
+            "2026-09-15",
+            "2026-09-22",
+            "2026-09-29",
+            "2026-10-06",
+            "2026-10-13",
+            "2026-10-20",
+            "2026-10-27",
+            "2026-11-03",
+            "2026-11-10",
+            "2026-11-17"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": null,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.585734,
+        "lng": -73.53686
+      }
+    },
+    "MHM-1-B": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": [
+            1,
+            3
+          ]
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-21",
+            "2026-04-28",
+            "2026-05-05",
+            "2026-05-12",
+            "2026-05-19",
+            "2026-05-26",
+            "2026-06-02",
+            "2026-06-09",
+            "2026-06-23",
+            "2026-07-07",
+            "2026-07-21",
+            "2026-08-04",
+            "2026-08-18",
+            "2026-08-25",
+            "2026-09-01",
+            "2026-09-08",
+            "2026-09-15",
+            "2026-09-22",
+            "2026-09-29",
+            "2026-10-06",
+            "2026-10-13",
+            "2026-10-20",
+            "2026-10-27",
+            "2026-11-03",
+            "2026-11-10",
+            "2026-11-17"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.57328,
+        "lng": -73.542654
+      }
+    },
+    "MHM-2-A": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-23",
+            "2026-04-30",
+            "2026-05-07",
+            "2026-05-14",
+            "2026-05-21",
+            "2026-05-28",
+            "2026-06-04",
+            "2026-06-11",
+            "2026-06-25",
+            "2026-07-09",
+            "2026-07-23",
+            "2026-08-06",
+            "2026-08-20",
+            "2026-08-27",
+            "2026-09-03",
+            "2026-09-10",
+            "2026-09-17",
+            "2026-09-24",
+            "2026-10-01",
+            "2026-10-08",
+            "2026-10-15",
+            "2026-10-22",
+            "2026-10-29",
+            "2026-11-05",
+            "2026-11-12",
+            "2026-11-19"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.552885,
+        "lng": -73.535881
+      }
+    },
+    "MHM-2-B": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-23",
+            "2026-04-30",
+            "2026-05-07",
+            "2026-05-14",
+            "2026-05-21",
+            "2026-05-28",
+            "2026-06-04",
+            "2026-06-11",
+            "2026-06-25",
+            "2026-07-09",
+            "2026-07-23",
+            "2026-08-06",
+            "2026-08-20",
+            "2026-08-27",
+            "2026-09-03",
+            "2026-09-10",
+            "2026-09-17",
+            "2026-09-24",
+            "2026-10-01",
+            "2026-10-08",
+            "2026-10-15",
+            "2026-10-22",
+            "2026-10-29",
+            "2026-11-05",
+            "2026-11-12",
+            "2026-11-19"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.545397,
+        "lng": -73.539515
+      }
+    },
+    "MHM-3-A": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-23",
+            "2026-04-30",
+            "2026-05-07",
+            "2026-05-14",
+            "2026-05-21",
+            "2026-05-28",
+            "2026-06-04",
+            "2026-06-11",
+            "2026-06-25",
+            "2026-07-09",
+            "2026-07-23",
+            "2026-08-06",
+            "2026-08-20",
+            "2026-08-27",
+            "2026-09-03",
+            "2026-09-10",
+            "2026-09-17",
+            "2026-09-24",
+            "2026-10-01",
+            "2026-10-08",
+            "2026-10-15",
+            "2026-10-22",
+            "2026-10-29",
+            "2026-11-05",
+            "2026-11-12",
+            "2026-11-19"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.540249,
+        "lng": -73.547961
+      }
+    },
+    "MHM-3-B": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-23",
+            "2026-04-30",
+            "2026-05-07",
+            "2026-05-14",
+            "2026-05-21",
+            "2026-05-28",
+            "2026-06-04",
+            "2026-06-11",
+            "2026-06-25",
+            "2026-07-09",
+            "2026-07-23",
+            "2026-08-06",
+            "2026-08-20",
+            "2026-08-27",
+            "2026-09-03",
+            "2026-09-10",
+            "2026-09-17",
+            "2026-09-24",
+            "2026-10-01",
+            "2026-10-08",
+            "2026-10-15",
+            "2026-10-22",
+            "2026-10-29",
+            "2026-11-05",
+            "2026-11-12",
+            "2026-11-19"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.548333,
+        "lng": -73.547107
+      }
+    },
+    "MHM-4-A": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-23",
+            "2026-04-30",
+            "2026-05-07",
+            "2026-05-14",
+            "2026-05-21",
+            "2026-05-28",
+            "2026-06-04",
+            "2026-06-11",
+            "2026-06-25",
+            "2026-07-09",
+            "2026-07-23",
+            "2026-08-06",
+            "2026-08-20",
+            "2026-08-27",
+            "2026-09-03",
+            "2026-09-10",
+            "2026-09-17",
+            "2026-09-24",
+            "2026-10-01",
+            "2026-10-08",
+            "2026-10-15",
+            "2026-10-22",
+            "2026-10-29",
+            "2026-11-05",
+            "2026-11-12",
+            "2026-11-19"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.556536,
+        "lng": -73.543053
+      }
+    },
+    "MHM-4-B": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 2,
+          "frequency": "monthly",
+          "weekOfMonth": [
+            1,
+            3
+          ]
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "dates": [
+            "2026-04-21",
+            "2026-04-28",
+            "2026-05-05",
+            "2026-05-12",
+            "2026-05-19",
+            "2026-05-26",
+            "2026-06-02",
+            "2026-06-09",
+            "2026-06-23",
+            "2026-07-07",
+            "2026-07-21",
+            "2026-08-04",
+            "2026-08-18",
+            "2026-08-25",
+            "2026-09-01",
+            "2026-09-08",
+            "2026-09-15",
+            "2026-09-22",
+            "2026-09-29",
+            "2026-10-06",
+            "2026-10-13",
+            "2026-10-20",
+            "2026-10-27",
+            "2026-11-03",
+            "2026-11-10",
+            "2026-11-17"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        }
+      },
+      "centroid": {
+        "lat": 45.566331,
+        "lng": -73.527247
       }
     }
   }
