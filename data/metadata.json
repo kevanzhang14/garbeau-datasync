@@ -1,8 +1,9 @@
 {
   "description": "Tracks data freshness for each city. Updated by CI workflows and extraction scripts.",
+  "dataVersion": "1.0.1",
   "cities": {
     "baie-durfe": {
-      "lastUpdated": "2026-05-02",
+      "lastUpdated": "2026-05-09",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
