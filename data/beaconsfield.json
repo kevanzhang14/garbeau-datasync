@@ -51,10 +51,6 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "centroid": {
-        "lat": 45.433,
-        "lng": -73.877
-      },
       "label": "NORTH",
       "boundary": [
         [
@@ -243,10 +239,6 @@
           "frequency": "weekly",
           "notes": "Leaves are collected with organics (brown bin)"
         }
-      },
-      "centroid": {
-        "lat": 45.433,
-        "lng": -73.87
       },
       "label": "SOUTH",
       "boundary": [

@@ -42,10 +42,6 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "centroid": {
-        "lat": 45.429,
-        "lng": -73.966
-      },
       "label": "Senneville",
       "boundary": [
         [

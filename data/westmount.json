@@ -44,10 +44,6 @@
           "notes": "Garden waste (leaves, grass, branches) collected weekly mid-April to end of November"
         }
       },
-      "centroid": {
-        "lat": 45.481,
-        "lng": -73.597
-      },
       "boundary": [
         [
           [
@@ -660,10 +656,6 @@
           "frequency": "weekly",
           "notes": "Garden waste (leaves, grass, branches) collected weekly mid-April to end of November"
         }
-      },
-      "centroid": {
-        "lat": 45.488,
-        "lng": -73.6
       },
       "boundary": [
         [

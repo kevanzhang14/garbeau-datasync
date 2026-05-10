@@ -44,10 +44,6 @@
           "notes": "Date-based bulky collection for Eastern sector from the 2026 city calendar"
         }
       },
-      "centroid": {
-        "lat": 45.40741,
-        "lng": -74.146793
-      },
       "boundary": [
         [
           [
@@ -498,10 +494,6 @@
           "notes": "Date-based bulky collection for Western sector from the 2026 city calendar"
         }
       },
-      "centroid": {
-        "lat": 45.411529,
-        "lng": -74.167084
-      },
       "boundary": [
         [
           [
@@ -911,10 +903,6 @@
           "notes": "Leaf pickup starts on these dates. Each collection cycle takes approximately one week."
         }
       },
-      "centroid": {
-        "lat": 45.416715,
-        "lng": -74.155578
-      },
       "boundary": [
         [
           [
@@ -1023,10 +1011,6 @@
           ],
           "notes": "Leaf pickup starts on these dates. Each collection cycle takes approximately one week."
         }
-      },
-      "centroid": {
-        "lat": 45.395048,
-        "lng": -74.171203
       },
       "boundary": [
         [

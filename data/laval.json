@@ -28,10 +28,6 @@
   "zones": {
     "LAVAL-01": {
       "label": "Zone 1",
-      "centroid": {
-        "lat": 45.563914,
-        "lng": -73.849007
-      },
       "boundary": [
         [
           [
@@ -161,10 +157,6 @@
     },
     "LAVAL-02": {
       "label": "Zone 2",
-      "centroid": {
-        "lat": 45.546155,
-        "lng": -73.821179
-      },
       "boundary": [
         [
           [
@@ -250,10 +242,6 @@
     },
     "LAVAL-03": {
       "label": "Zone 3",
-      "centroid": {
-        "lat": 45.5566,
-        "lng": -73.835782
-      },
       "boundary": [
         [
           [
@@ -503,10 +491,6 @@
     },
     "LAVAL-04": {
       "label": "Zone 4",
-      "centroid": {
-        "lat": 45.525141,
-        "lng": -73.796868
-      },
       "boundary": [
         [
           [
@@ -712,10 +696,6 @@
     },
     "LAVAL-05": {
       "label": "Zone 5",
-      "centroid": {
-        "lat": 45.59112,
-        "lng": -73.808968
-      },
       "boundary": [
         [
           [
@@ -1073,10 +1053,6 @@
     },
     "LAVAL-06": {
       "label": "Zone 6",
-      "centroid": {
-        "lat": 45.633735,
-        "lng": -73.760218
-      },
       "boundary": [
         [
           [
@@ -1302,10 +1278,6 @@
     },
     "LAVAL-07": {
       "label": "Zone 7",
-      "centroid": {
-        "lat": 45.600077,
-        "lng": -73.76508
-      },
       "boundary": [
         [
           [
@@ -1599,10 +1571,6 @@
     },
     "LAVAL-08": {
       "label": "Zone 8",
-      "centroid": {
-        "lat": 45.626532,
-        "lng": -73.73578
-      },
       "boundary": [
         [
           [
@@ -1868,10 +1836,6 @@
     },
     "LAVAL-09": {
       "label": "Zone 9",
-      "centroid": {
-        "lat": 45.543106,
-        "lng": -73.751113
-      },
       "boundary": [
         [
           [
@@ -2129,10 +2093,6 @@
     },
     "LAVAL-10": {
       "label": "Zone 10",
-      "centroid": {
-        "lat": 45.544615,
-        "lng": -73.779604
-      },
       "boundary": [
         [
           [
@@ -2282,10 +2242,6 @@
     },
     "LAVAL-11": {
       "label": "Zone 11",
-      "centroid": {
-        "lat": 45.532373,
-        "lng": -73.744158
-      },
       "boundary": [
         [
           [
@@ -2483,10 +2439,6 @@
     },
     "LAVAL-12": {
       "label": "Zone 12",
-      "centroid": {
-        "lat": 45.560175,
-        "lng": -73.763799
-      },
       "boundary": [
         [
           [
@@ -2636,10 +2588,6 @@
     },
     "LAVAL-13": {
       "label": "Zone 13",
-      "centroid": {
-        "lat": 45.555924,
-        "lng": -73.701267
-      },
       "boundary": [
         [
           [
@@ -2969,10 +2917,6 @@
     },
     "LAVAL-14": {
       "label": "Zone 14",
-      "centroid": {
-        "lat": 45.57814,
-        "lng": -73.725215
-      },
       "boundary": [
         [
           [
@@ -3334,10 +3278,6 @@
     },
     "LAVAL-15": {
       "label": "Zone 15",
-      "centroid": {
-        "lat": 45.575399,
-        "lng": -73.68701
-      },
       "boundary": [
         [
           [
@@ -3863,10 +3803,6 @@
     },
     "LAVAL-16": {
       "label": "Zone 16",
-      "centroid": {
-        "lat": 45.602657,
-        "lng": -73.711715
-      },
       "boundary": [
         [
           [
@@ -4064,10 +4000,6 @@
     },
     "LAVAL-17": {
       "label": "Zone 17",
-      "centroid": {
-        "lat": 45.594903,
-        "lng": -73.674315
-      },
       "boundary": [
         [
           [
@@ -4309,10 +4241,6 @@
     },
     "LAVAL-18": {
       "label": "Zone 18",
-      "centroid": {
-        "lat": 45.662776,
-        "lng": -73.653505
-      },
       "boundary": [
         [
           [
@@ -4418,10 +4346,6 @@
     },
     "LAVAL-19": {
       "label": "Zone 19",
-      "centroid": {
-        "lat": 45.614808,
-        "lng": -73.66995
-      },
       "boundary": [
         [
           [
@@ -4823,10 +4747,6 @@
     },
     "LAVAL-20": {
       "label": "Zone 20",
-      "centroid": {
-        "lat": 45.650343,
-        "lng": -73.619447
-      },
       "boundary": [
         [
           [

@@ -52,10 +52,6 @@
           "notes": "Bulky pickup is request-based and subject to a fee; use the city request form to get an estimate and schedule pickup."
         }
       },
-      "centroid": {
-        "lat": 45.4826,
-        "lng": -73.6277
-      },
       "label": "Hampstead",
       "boundary": [
         [

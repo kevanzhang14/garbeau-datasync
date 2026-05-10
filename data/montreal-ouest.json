@@ -1,11 +1,11 @@
 {
   "id": "montreal-ouest",
-  "name": "Montr\u00e9al-Ouest",
+  "name": "Montréal-Ouest",
   "lastUpdated": "2026-05-04",
   "source": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
   "resources": {
     "general": {
-      "title": "Montr\u00e9al-Ouest Collection Information",
+      "title": "Montréal-Ouest Collection Information",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
       "icon": "info"
     },
@@ -66,10 +66,6 @@
           "notes": "Special pickup is a paid on-request service for construction materials and permanent fixtures. Contact Public Works for pricing and scheduling.",
           "informationalCard": true
         }
-      },
-      "centroid": {
-        "lat": 45.4534,
-        "lng": -73.6494
       },
       "boundary": [
         [

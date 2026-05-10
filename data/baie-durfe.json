@@ -49,7 +49,7 @@
             "2026-10-13",
             "2026-11-09"
           ],
-          "notes": "Monthly bulky collection, 2nd Monday, April\u2013November"
+          "notes": "Monthly bulky collection, 2nd Monday, April–November"
         },
         "branches": {
           "dayOfWeek": null,
@@ -84,10 +84,6 @@
           "frequency": "weekly",
           "notes": "Leaves are collected with organics (brown bin)"
         }
-      },
-      "centroid": {
-        "lat": 45.4144,
-        "lng": -73.9156
       },
       "label": "Baie-D'Urfe",
       "boundary": [
