@@ -1,7 +1,7 @@
 {
   "id": "mtl-pierrefonds-roxboro",
   "name": "Pierrefonds-Roxboro",
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-05-10",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -10779,28 +10779,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            2,
-            4,
-            1
-          ]
-        },
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
-        "organics": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },

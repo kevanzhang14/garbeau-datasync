@@ -1,7 +1,7 @@
 {
   "id": "mtl-lachine",
   "name": "Lachine",
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-05-10",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -22,13 +22,8 @@
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 4,
           "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
         },
         "bulky": {
           "dayOfWeek": 4,
@@ -6766,11 +6761,6 @@
           "dayOfWeek": 4,
           "frequency": "weekly"
         },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -7506,27 +7496,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 4,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            1,
-            3
-          ]
-        },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
-        "organics": {
-          "dayOfWeek": null,
           "frequency": "weekly"
         }
       },
@@ -13891,28 +13860,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 4,
-          "frequency": "monthly",
-          "weekOfMonth": [
-            2,
-            4,
-            3
-          ]
-        },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
-        "organics": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },

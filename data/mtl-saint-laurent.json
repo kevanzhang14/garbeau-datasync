@@ -1,7 +1,7 @@
 {
   "id": "mtl-saint-laurent",
   "name": "Saint-Laurent",
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-05-10",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -21,18 +21,13 @@
           "dayOfWeek": 2,
           "frequency": "weekly"
         },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "monthly",
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         }
       },
@@ -955,18 +950,13 @@
           "dayOfWeek": 5,
           "frequency": "weekly"
         },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "monthly",
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 5,
           "frequency": "weekly"
         }
       },
@@ -1773,18 +1763,13 @@
           "dayOfWeek": 4,
           "frequency": "weekly"
         },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "monthly",
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -2355,18 +2340,13 @@
           "dayOfWeek": 1,
           "frequency": "weekly"
         },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "weekly",
-          "notes": "Included in organics collection"
-        },
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "monthly",
           "weekOfMonth": 1
         },
         "organics": {
-          "dayOfWeek": null,
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },

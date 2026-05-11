@@ -1,7 +1,7 @@
 {
   "id": "mtl-rosemont-la-petite-patrie",
   "name": "Rosemont–La Petite-Patrie",
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-05-10",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -12,43 +12,7 @@
   },
   "zones": {
     "RPP": {
-      "recurring": {
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-08",
-            "2026-05-27",
-            "2026-06-03",
-            "2026-06-17",
-            "2026-07-01",
-            "2026-07-15",
-            "2026-07-29",
-            "2026-08-12",
-            "2026-08-26",
-            "2026-09-09",
-            "2026-09-23",
-            "2026-09-30",
-            "2026-11-25"
-          ]
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        }
-      },
+      "recurring": {},
       "boundary": [
         [
           [
@@ -2542,37 +2506,6 @@
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-08",
-            "2026-05-27",
-            "2026-06-03",
-            "2026-06-17",
-            "2026-07-01",
-            "2026-07-15",
-            "2026-07-29",
-            "2026-08-12",
-            "2026-08-26",
-            "2026-09-09",
-            "2026-09-23",
-            "2026-09-30",
-            "2026-11-25"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": null,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -2904,37 +2837,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-08",
-            "2026-05-27",
-            "2026-06-03",
-            "2026-06-17",
-            "2026-07-01",
-            "2026-07-15",
-            "2026-07-29",
-            "2026-08-12",
-            "2026-08-26",
-            "2026-09-09",
-            "2026-09-23",
-            "2026-09-30",
-            "2026-11-25"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -4047,10 +3949,6 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4397,10 +4295,6 @@
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -4837,10 +4731,6 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -5147,10 +5037,6 @@
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
           "frequency": "weekly"
         }
       },
@@ -5533,10 +5419,6 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
         }

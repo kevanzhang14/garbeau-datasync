@@ -1,7 +1,7 @@
 {
   "id": "mtl-riviere-des-prairies-pointe-aux-trembles",
   "name": "Rivière-des-Prairies–Pointe-aux-Trembles",
-  "lastUpdated": "2026-05-09",
+  "lastUpdated": "2026-05-10",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -15,10 +15,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": null,
           "frequency": "weekly"
         }
       },
@@ -1903,10 +1899,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": null,
           "frequency": "weekly"
         }
       },
@@ -4075,10 +4067,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": null,
           "frequency": "weekly"
         }
       },
@@ -8759,10 +8747,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": null,
           "frequency": "weekly"
         }
       },
