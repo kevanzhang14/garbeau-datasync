@@ -26,16 +26,21 @@
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "anchorDate": "2026-01-05"
         },
         "bulky": {
           "dayOfWeek": null,
           "frequency": "weekly",
           "dates": [
+            "2026-01-07",
             "2026-02-04",
             "2026-03-04",
+            "2026-04-01",
             "2026-05-13",
+            "2026-06-10",
             "2026-07-08",
+            "2026-08-05",
             "2026-09-02",
             "2026-10-14",
             "2026-11-11",
@@ -461,9 +466,9 @@
       "label": "Western sector",
       "recurring": {
         "garbage": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-08"
+          "anchorDate": "2026-01-14"
         },
         "recycling": {
           "dayOfWeek": 2,
@@ -471,8 +476,10 @@
           "anchorDate": "2026-01-13"
         },
         "organics": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "anchorDate": "2026-01-08",
+          "extraDates": ["2026-01-02"]
         },
         "bulky": {
           "dayOfWeek": null,
@@ -894,8 +901,8 @@
           "dayOfWeek": null,
           "frequency": "weekly",
           "dates": [
-            "2026-05-19",
-            "2026-06-02",
+            "2026-04-27",
+            "2026-05-11",
             "2026-10-27",
             "2026-11-10",
             "2026-11-24"
@@ -1003,8 +1010,8 @@
           "dayOfWeek": null,
           "frequency": "weekly",
           "dates": [
-            "2026-05-12",
-            "2026-05-26",
+            "2026-05-04",
+            "2026-05-18",
             "2026-10-20",
             "2026-11-03",
             "2026-11-17"
