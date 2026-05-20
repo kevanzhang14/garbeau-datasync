@@ -907,6 +907,7 @@
             "2026-11-10",
             "2026-11-24"
           ],
+          "cycleDays": 5,
           "notes": "Leaf pickup starts on these dates. Each collection cycle takes approximately one week."
         }
       },
@@ -1016,6 +1017,7 @@
             "2026-11-03",
             "2026-11-17"
           ],
+          "cycleDays": 5,
           "notes": "Leaf pickup starts on these dates. Each collection cycle takes approximately one week."
         }
       },
