@@ -1,8 +1,8 @@
 {
   "id": "hampstead",
   "name": "Hampstead",
-  "lastUpdated": "2026-05-09",
-  "source": "https://www.hampstead.qc.ca/en/collections/",
+  "lastUpdated": "2026-05-23",
+  "source": "https://www.hampstead.qc.ca/en/environment/waste-collection/",
   "resources": {
     "general": {
       "title": "Hampstead Collection Services",
@@ -33,7 +33,7 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 3,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "organics": {
@@ -424,7 +424,11 @@
             -73.6561
           ]
         ]
-      ]
+      ],
+      "centroid": {
+        "lat": 45.4826,
+        "lng": -73.6277
+      }
     }
   }
 }
