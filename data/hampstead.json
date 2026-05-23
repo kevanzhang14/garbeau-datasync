@@ -33,7 +33,7 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 3,
           "frequency": "weekly"
         },
         "organics": {
@@ -41,14 +41,15 @@
           "frequency": "weekly"
         },
         "branches": {
-          "dayOfWeek": 4,
-          "frequency": "biweekly",
-          "anchorDate": "2026-01-01",
-          "notes": "Branch collection requires registration."
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Free biweekly Thursday pickup, May–October. Register to be added to the collection list."
         },
         "bulky": {
           "dayOfWeek": null,
           "frequency": "monthly",
+          "informationalCard": true,
           "notes": "Bulky pickup is request-based and subject to a fee; use the city request form to get an estimate and schedule pickup."
         }
       },
@@ -424,11 +425,7 @@
             -73.6561
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4826,
-        "lng": -73.6277
-      }
+      ]
     }
   }
 }
