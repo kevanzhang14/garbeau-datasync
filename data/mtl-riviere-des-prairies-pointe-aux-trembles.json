@@ -16,6 +16,14 @@
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1899,6 +1907,14 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
           "frequency": "weekly"
         }
       },
@@ -4067,6 +4083,14 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -8747,6 +8771,14 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },

@@ -36,6 +36,10 @@
             1,
             3
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4216,6 +4220,10 @@
             1,
             3
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6920,6 +6928,10 @@
             2,
             4
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8376,6 +8388,10 @@
             2,
             4
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
         }
       },
       "boundary": [
