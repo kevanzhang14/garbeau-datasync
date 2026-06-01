@@ -16,20 +16,20 @@
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-02",
-          "notes": "Biweekly Thursday schedule anchored to the Jan 2 holiday-shift week."
+          "anchorDate": "2026-01-15",
+          "extraDates": [
+            "2026-01-02"
+          ],
+          "notes": "Biweekly Thursday schedule anchored to the first regular Thursday cycle after the Jan 2 holiday pickup."
         },
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-12"
         },
         "organics": {
           "dayOfWeek": 3,
-          "frequency": "weekly",
-          "extraDates": [
-            "2026-01-03"
-          ],
-          "notes": "Weekly Wednesday schedule with a one-off holiday pickup on 2026-01-03."
+          "frequency": "weekly"
         },
         "bulky": {
           "dayOfWeek": 4,
@@ -41,23 +41,23 @@
           "dayOfWeek": null,
           "frequency": "biweekly",
           "dates": [
-            "2026-05-07",
-            "2026-05-21",
-            "2026-06-04",
-            "2026-06-18",
-            "2026-07-02",
-            "2026-07-16",
-            "2026-07-30",
-            "2026-08-13",
-            "2026-08-27",
-            "2026-09-10",
-            "2026-09-24",
-            "2026-10-08",
-            "2026-10-22",
-            "2026-11-05",
-            "2026-11-19"
+            "2026-05-06",
+            "2026-05-20",
+            "2026-06-03",
+            "2026-06-17",
+            "2026-07-01",
+            "2026-07-15",
+            "2026-07-29",
+            "2026-08-12",
+            "2026-08-26",
+            "2026-09-09",
+            "2026-09-23",
+            "2026-10-07",
+            "2026-10-21",
+            "2026-11-04",
+            "2026-11-18"
           ],
-          "notes": "Biweekly leaves collection window: May 7 to Nov 19."
+          "notes": "Biweekly leaves collection window: May 6 to Nov 18."
         }
       },
       "label": "Notre-Dame-de-l'Ile-Perrot",

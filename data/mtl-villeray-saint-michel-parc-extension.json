@@ -1,7 +1,7 @@
 {
   "id": "mtl-villeray-saint-michel-parc-extension",
   "name": "Villeray–Saint-Michel–Parc-Extension",
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-30",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -32,6 +32,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -644,6 +648,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1152,6 +1160,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1840,6 +1852,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -2172,6 +2188,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -3072,6 +3092,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -3924,6 +3948,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4280,6 +4308,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -5004,6 +5036,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -5556,6 +5600,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6208,6 +6264,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6960,6 +7028,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -7724,6 +7804,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8820,6 +8912,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -9400,6 +9504,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -9744,6 +9860,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [

@@ -1,7 +1,7 @@
 {
   "id": "mtl-riviere-des-prairies-pointe-aux-trembles",
   "name": "Rivière-des-Prairies–Pointe-aux-Trembles",
-  "lastUpdated": "2026-05-25",
+  "lastUpdated": "2026-05-30",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -19,10 +19,6 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "bulky": {
@@ -66,6 +62,10 @@
             "2026-11-17",
             "2026-11-24"
           ]
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1955,10 +1955,6 @@
           "dayOfWeek": 1,
           "frequency": "weekly"
         },
-        "organics": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -2000,6 +1996,10 @@
             "2026-11-18",
             "2026-11-25"
           ]
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4173,10 +4173,6 @@
           "dayOfWeek": 3,
           "frequency": "weekly"
         },
-        "organics": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -4218,6 +4214,10 @@
             "2026-11-16",
             "2026-11-23"
           ]
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8903,10 +8903,6 @@
           "dayOfWeek": 3,
           "frequency": "weekly"
         },
-        "organics": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -8948,6 +8944,10 @@
             "2026-11-16",
             "2026-11-23"
           ]
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
