@@ -1,0 +1,148 @@
+{
+  "id": "rigaud",
+  "name": "Rigaud",
+  "lastUpdated": "2026-06-03",
+  "source": "https://www.ville.rigaud.qc.ca/matieres-residuelles",
+  "resources": {
+    "general": {
+      "title": "Rigaud Waste Collection",
+      "url": "https://www.ville.rigaud.qc.ca/matieres-residuelles",
+      "icon": "info"
+    },
+    "branches": {
+      "title": "Rigaud Branch Pickup Registration",
+      "url": "https://www.ville.rigaud.qc.ca/branches",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "bulky": {
+      "title": "Rigaud Bulky Waste Collection",
+      "url": "https://www.ville.rigaud.qc.ca/encombrants",
+      "icon": "external-link",
+      "showLink": true
+    }
+  },
+  "zones": {
+    "RGD": {
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-02"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-05"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "custom",
+          "dates": [
+            "2026-05-06",
+            "2026-05-27",
+            "2026-10-14",
+            "2026-11-04",
+            "2026-11-18"
+          ],
+          "notes": "Leaf collection in May, October, and November."
+        },
+        "bulky": {
+          "dayOfWeek": null,
+          "frequency": "custom",
+          "dates": [
+            "2026-05-01",
+            "2026-07-03",
+            "2026-10-02"
+          ],
+          "notes": "1st Friday of May, July, and October."
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "custom",
+          "dates": [
+            "2026-05-07",
+            "2026-06-04",
+            "2026-07-02",
+            "2026-08-06",
+            "2026-09-03",
+            "2026-10-01"
+          ],
+          "notes": "Branch pickup runs from May to October and requires registration."
+        }
+      },
+      "boundary": [
+        [
+          [
+            45.486022,
+            -74.333808
+          ],
+          [
+            45.470702,
+            -74.327901
+          ],
+          [
+            45.468282,
+            -74.31097
+          ],
+          [
+            45.468188,
+            -74.298619
+          ],
+          [
+            45.458835,
+            -74.276757
+          ],
+          [
+            45.454468,
+            -74.248061
+          ],
+          [
+            45.470534,
+            -74.236176
+          ],
+          [
+            45.478631,
+            -74.249284
+          ],
+          [
+            45.47957,
+            -74.251152
+          ],
+          [
+            45.480876,
+            -74.254697
+          ],
+          [
+            45.482428,
+            -74.267651
+          ],
+          [
+            45.481905,
+            -74.287011
+          ],
+          [
+            45.483999,
+            -74.291021
+          ],
+          [
+            45.488161,
+            -74.307059
+          ],
+          [
+            45.488379,
+            -74.309869
+          ],
+          [
+            45.486022,
+            -74.333808
+          ]
+        ]
+      ]
+    }
+  }
+}

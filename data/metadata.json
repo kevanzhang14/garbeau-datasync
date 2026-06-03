@@ -152,6 +152,11 @@
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
+    "rigaud": {
+      "lastUpdated": "2026-06-03",
+      "sourceType": "scrape",
+      "scheduleYear": 2026
+    },
     "sainte-anne-de-bellevue": {
       "lastUpdated": "2026-04-14",
       "sourceType": "pdf",

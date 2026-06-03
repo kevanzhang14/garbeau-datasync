@@ -158,6 +158,13 @@
     "sourceUrl": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections"
   },
   {
+    "id": "rigaud",
+    "name": "Rigaud",
+    "file": "rigaud.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://www.ville.rigaud.qc.ca/matieres-residuelles"
+  },
+  {
     "id": "mtl-riviere-des-prairies-pointe-aux-trembles",
     "name": "Rivière-des-Prairies–Pointe-aux-Trembles",
     "file": "mtl-riviere-des-prairies-pointe-aux-trembles.json"
