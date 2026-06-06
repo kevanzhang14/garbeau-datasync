@@ -165,6 +165,13 @@
     "sourceUrl": "https://www.ville.rigaud.qc.ca/matieres-residuelles"
   },
   {
+    "id": "salaberry-de-valleyfield",
+    "name": "Salaberry-de-Valleyfield",
+    "file": "salaberry-de-valleyfield.json",
+    "sourceType": "ics",
+    "sourceUrl": "https://www.ville.valleyfield.qc.ca/calendrier-electronique-collecte"
+  },
+  {
     "id": "mtl-riviere-des-prairies-pointe-aux-trembles",
     "name": "Rivière-des-Prairies–Pointe-aux-Trembles",
     "file": "mtl-riviere-des-prairies-pointe-aux-trembles.json"
