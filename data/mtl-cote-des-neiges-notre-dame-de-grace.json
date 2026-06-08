@@ -44,7 +44,8 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 1
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1225,7 +1226,8 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 1
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -3310,7 +3312,8 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 2
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4983,7 +4986,8 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 2
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6105,7 +6109,8 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 5
+          "dayOfWeek": 5,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8704,7 +8709,7 @@
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "biweekly"
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8994,10 +8999,12 @@
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 4
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": 4
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [

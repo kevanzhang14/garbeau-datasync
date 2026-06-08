@@ -58,7 +58,8 @@
           "frequency": "weekly"
         },
         "garbage": {
-          "dayOfWeek": 3
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -2557,7 +2558,8 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 1
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4080,7 +4082,8 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 4
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -5215,7 +5218,8 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 4
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6514,7 +6518,8 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 4
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -7801,7 +7806,8 @@
           ]
         },
         "garbage": {
-          "dayOfWeek": 5
+          "dayOfWeek": 5,
+          "frequency": "weekly"
         }
       },
       "boundary": [
