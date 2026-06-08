@@ -1,7 +1,7 @@
 {
   "id": "mtl-lasalle",
   "name": "LaSalle",
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-08",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -13,10 +13,6 @@
   "zones": {
     "LSL1": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -36,10 +32,6 @@
             1,
             3
           ]
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4197,10 +4189,6 @@
     },
     "LSL2": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly"
@@ -4220,10 +4208,6 @@
             1,
             3
           ]
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6905,10 +6889,6 @@
     },
     "LSL3": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -6928,10 +6908,6 @@
             2,
             4
           ]
-        },
-        "recycling": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8365,10 +8341,6 @@
     },
     "LSL4": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -8388,10 +8360,6 @@
             2,
             4
           ]
-        },
-        "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
         }
       },
       "boundary": [

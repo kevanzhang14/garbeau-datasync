@@ -1,7 +1,7 @@
 {
   "id": "mtl-rosemont-la-petite-patrie",
   "name": "Rosemont–La Petite-Patrie",
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-08",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -38,10 +38,6 @@
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "recycling": {
@@ -933,10 +929,6 @@
           "dayOfWeek": 3,
           "frequency": "weekly"
         },
-        "garbage": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -1302,10 +1294,6 @@
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "recycling": {
@@ -1727,32 +1715,6 @@
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 5,
-          "frequency": "monthly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-08",
-            "2026-04-15",
-            "2026-04-22",
-            "2026-04-29",
-            "2026-05-06",
-            "2026-05-13",
-            "2026-05-20",
-            "2026-05-27"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 2,
-          "frequency": "monthly"
         }
       },
       "boundary": [
@@ -2084,32 +2046,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "dates": [
-            "2026-04-08",
-            "2026-04-15",
-            "2026-04-22",
-            "2026-04-29",
-            "2026-05-06",
-            "2026-05-13",
-            "2026-05-20",
-            "2026-05-27"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -3192,10 +3128,6 @@
     },
     "RPP-RE-15": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -3221,10 +3153,6 @@
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -3543,10 +3471,6 @@
     },
     "RPP-RE-16": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -3572,10 +3496,6 @@
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -3982,10 +3902,6 @@
     },
     "RPP-RE-17": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -4011,10 +3927,6 @@
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 5,
           "frequency": "weekly"
         }
       },
@@ -4293,10 +4205,6 @@
     },
     "RPP-RE-22": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -4321,10 +4229,6 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
         }
@@ -4680,10 +4584,6 @@
     },
     "RPP-RE-23": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -4708,10 +4608,6 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
         }

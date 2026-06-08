@@ -1,7 +1,7 @@
 {
   "id": "mtl-verdun",
   "name": "Verdun",
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-08",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -13,10 +13,6 @@
   "zones": {
     "VRD-1": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -1133,10 +1129,6 @@
     },
     "VRD-2": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -3812,10 +3804,6 @@
     },
     "VRD-3": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -4902,10 +4890,6 @@
     },
     "VRD-4": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -5363,10 +5347,6 @@
     },
     "VRD-5": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"

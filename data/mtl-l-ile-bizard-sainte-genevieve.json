@@ -1,7 +1,7 @@
 {
   "id": "mtl-l-ile-bizard-sainte-genevieve",
   "name": "L'Île-Bizard–Sainte-Geneviève",
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-08",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -13,10 +13,6 @@
   "zones": {
     "IBSG-1": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -7044,10 +7040,6 @@
     },
     "IBSG-2": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -9753,10 +9745,6 @@
     },
     "IBSG-3": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -12122,10 +12110,6 @@
     },
     "IBSG-4": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -13774,18 +13758,6 @@
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "organics": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -13873,18 +13845,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },

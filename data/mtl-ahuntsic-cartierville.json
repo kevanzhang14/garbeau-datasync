@@ -1,7 +1,7 @@
 {
   "id": "mtl-ahuntsic-cartierville",
   "name": "Ahuntsic-Cartierville",
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-08",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -13,10 +13,6 @@
   "zones": {
     "AC-1": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -1111,22 +1107,6 @@
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "leaves": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1416,10 +1396,6 @@
     },
     "AC-2": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -3791,10 +3767,6 @@
     },
     "AC-3": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -6614,10 +6586,6 @@
     },
     "AC-4": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -7831,22 +7799,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -9884,22 +9836,6 @@
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -10600,22 +10536,6 @@
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -10931,22 +10851,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "leaves": {
-          "dayOfWeek": 2,
           "frequency": "weekly"
         }
       },
@@ -11483,22 +11387,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly"
-        },
-        "leaves": {
-          "dayOfWeek": 2,
           "frequency": "weekly"
         }
       },

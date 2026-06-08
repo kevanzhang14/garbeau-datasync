@@ -1,7 +1,7 @@
 {
   "id": "mtl-lachine",
   "name": "Lachine",
-  "lastUpdated": "2026-05-30",
+  "lastUpdated": "2026-06-08",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -13,10 +13,6 @@
   "zones": {
     "LCH-1": {
       "recurring": {
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -6761,10 +6757,6 @@
           "dayOfWeek": 4,
           "frequency": "weekly"
         },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "monthly",
@@ -7496,18 +7488,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 4,
-          "frequency": "monthly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -13872,18 +13852,6 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly"
-        },
-        "bulky": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "organics": {
-          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
