@@ -40,7 +40,7 @@
     "name": "Dollard-des-Ormeaux",
     "file": "dollard-des-ormeaux.json",
     "sourceType": "scrape",
-    "sourceUrl": "https://ville.ddo.qc.ca/en/live/collection-2/"
+    "sourceUrl": "https://ville.ddo.qc.ca/en/live/collection/"
   },
   {
     "id": "dorval",
