@@ -13,6 +13,10 @@
   "zones": {
     "VRD-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -1129,6 +1133,10 @@
     },
     "VRD-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -3804,6 +3812,10 @@
     },
     "VRD-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -4890,6 +4902,10 @@
     },
     "VRD-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -5347,6 +5363,10 @@
     },
     "VRD-5": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"

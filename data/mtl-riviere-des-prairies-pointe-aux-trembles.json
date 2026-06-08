@@ -16,6 +16,22 @@
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1899,6 +1915,22 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
           "frequency": "weekly"
         }
       },
@@ -4067,6 +4099,22 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -8748,6 +8796,22 @@
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -11053,6 +11117,10 @@
     },
     "CD-E-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -11066,6 +11134,14 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
           "dayOfWeek": 3,
           "frequency": "weekly"
         }
@@ -12309,8 +12385,12 @@
     },
     "CD-E-2": {
       "recurring": {
-        "organics": {
+        "garbage": {
           "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "leaves": {
@@ -12322,7 +12402,15 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
+          "dayOfWeek": 2,
           "frequency": "weekly"
         }
       },
@@ -13665,6 +13753,10 @@
     },
     "CD-E-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -13678,6 +13770,14 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
           "dayOfWeek": 1,
           "frequency": "weekly"
         }
@@ -14853,6 +14953,10 @@
     },
     "CD-E-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -14866,6 +14970,14 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
           "dayOfWeek": 2,
           "frequency": "weekly"
         }
@@ -16385,8 +16497,12 @@
     },
     "CD-R-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "organics": {
-          "dayOfWeek": 3,
+          "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "leaves": {
@@ -16398,7 +16514,15 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 3,
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
+          "dayOfWeek": 2,
           "frequency": "weekly"
         }
       },
@@ -18421,6 +18545,10 @@
     },
     "CD-R-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -18434,6 +18562,14 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
           "dayOfWeek": 4,
           "frequency": "weekly"
         }
@@ -21453,6 +21589,10 @@
     },
     "CD-R-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -21466,6 +21606,14 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
           "dayOfWeek": 1,
           "frequency": "weekly"
         }
@@ -24337,8 +24485,12 @@
     },
     "CD-R-4": {
       "recurring": {
-        "organics": {
+        "garbage": {
           "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "leaves": {
@@ -24350,7 +24502,15 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
           "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "yard_waste": {
+          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },

@@ -13,6 +13,10 @@
   "zones": {
     "PIRO-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -5458,6 +5462,10 @@
     },
     "PIRO-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -6332,6 +6340,10 @@
     },
     "PIRO-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -8831,6 +8843,10 @@
     },
     "PIRO-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"

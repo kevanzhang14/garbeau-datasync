@@ -13,6 +13,10 @@
   "zones": {
     "IBSG-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -7040,6 +7044,10 @@
     },
     "IBSG-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -9745,6 +9753,10 @@
     },
     "IBSG-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -12110,6 +12122,10 @@
     },
     "IBSG-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"

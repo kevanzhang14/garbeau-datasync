@@ -13,6 +13,10 @@
   "zones": {
     "LSL1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -4189,6 +4193,10 @@
     },
     "LSL2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly"
@@ -6889,6 +6897,10 @@
     },
     "LSL3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -8341,6 +8353,10 @@
     },
     "LSL4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly"

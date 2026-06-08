@@ -13,6 +13,10 @@
   "zones": {
     "SO-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -644,6 +648,10 @@
     },
     "SO-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -2161,6 +2169,10 @@
     },
     "SO-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -2748,6 +2760,10 @@
     },
     "SO-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
@@ -3355,6 +3371,10 @@
     },
     "SO-5-R1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -4150,6 +4170,10 @@
     },
     "SO-5-R2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -4765,6 +4789,10 @@
     },
     "SO-5-R3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -5964,6 +5992,10 @@
     },
     "SO-5-R4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"

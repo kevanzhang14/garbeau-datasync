@@ -13,6 +13,10 @@
   "zones": {
     "ANJ-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -339,6 +343,10 @@
     },
     "ANJ-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
@@ -1030,6 +1038,10 @@
     },
     "ANJ-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -1384,6 +1396,10 @@
     },
     "ANJ-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"

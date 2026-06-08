@@ -13,6 +13,10 @@
   "zones": {
     "PMR-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -1338,6 +1342,10 @@
     },
     "PMR-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -3047,6 +3055,10 @@
     },
     "PMR-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -4260,6 +4272,10 @@
     },
     "PMR-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
@@ -5465,6 +5481,10 @@
     },
     "PMR-5": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -6874,6 +6894,10 @@
     },
     "PMR-6": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -8005,6 +8029,10 @@
     },
     "PMR-7": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"
@@ -9062,6 +9090,10 @@
     },
     "PMR-8": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly"

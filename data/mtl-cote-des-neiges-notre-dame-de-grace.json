@@ -13,6 +13,10 @@
   "zones": {
     "CDNNDG-1": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -1187,6 +1191,10 @@
     },
     "CDNNDG-2": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -3265,6 +3273,10 @@
     },
     "CDNNDG-3": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -4931,6 +4943,10 @@
     },
     "CDNNDG-4": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly"
@@ -6045,6 +6061,10 @@
     },
     "CDNNDG-5": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly"
@@ -8636,6 +8656,10 @@
     },
     "CDNNDG-6": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
@@ -8923,6 +8947,10 @@
     },
     "CDNNDG-7": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
@@ -10966,6 +10994,10 @@
     },
     "CDNNDG-8": {
       "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
