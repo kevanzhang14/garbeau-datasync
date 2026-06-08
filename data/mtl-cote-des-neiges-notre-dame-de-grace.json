@@ -11020,7 +11020,7 @@
     "CDNNDG-8": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 1,
           "frequency": "weekly"
         },
         "leaves": {
@@ -11043,15 +11043,15 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "recycling": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         },
         "organics": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
