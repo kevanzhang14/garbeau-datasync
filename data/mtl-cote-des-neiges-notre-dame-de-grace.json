@@ -42,6 +42,9 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1
         }
       },
       "boundary": [
@@ -1220,6 +1223,9 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1
         }
       },
       "boundary": [
@@ -3302,6 +3308,9 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2
         }
       },
       "boundary": [
@@ -4972,6 +4981,9 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2
         }
       },
       "boundary": [
@@ -6091,6 +6103,9 @@
         "bulky": {
           "dayOfWeek": 5,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 5
         }
       },
       "boundary": [
@@ -8686,6 +8701,10 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly"
         }
       },
       "boundary": [
@@ -8973,6 +8992,12 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4
+        },
+        "organics": {
+          "dayOfWeek": 4
         }
       },
       "boundary": [
@@ -11020,6 +11045,12 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4
+        },
+        "organics": {
+          "dayOfWeek": 4
         }
       },
       "boundary": [
