@@ -13774,6 +13774,18 @@
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -13861,6 +13873,18 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
           "frequency": "weekly"
         }
       },

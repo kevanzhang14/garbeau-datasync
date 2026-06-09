@@ -42,6 +42,10 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1219,6 +1223,10 @@
         },
         "bulky": {
           "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -3302,6 +3310,10 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4972,6 +4984,10 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6089,6 +6105,10 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
+        },
+        "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
         }
@@ -8686,6 +8706,10 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8971,6 +8995,14 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
         }
@@ -11018,6 +11050,14 @@
           ]
         },
         "bulky": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
+        },
+        "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
         }

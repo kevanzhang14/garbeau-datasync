@@ -64,6 +64,10 @@
             1,
             3
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -436,6 +440,10 @@
             1,
             3
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -900,6 +908,10 @@
             1,
             3
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -2678,6 +2690,10 @@
             1,
             3
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [

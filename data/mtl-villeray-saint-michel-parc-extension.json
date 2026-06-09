@@ -1852,6 +1852,10 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -9500,6 +9504,18 @@
             "2026-04-15",
             "2026-11-18"
           ]
+        },
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
