@@ -31,13 +31,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 1,
@@ -654,13 +648,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 1,
@@ -1173,13 +1161,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 4,
@@ -1872,13 +1854,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 4,
@@ -2215,13 +2191,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 2,
@@ -3126,13 +3096,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 2,
@@ -3989,13 +3953,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -4356,13 +4314,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -5089,13 +5041,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 1,
@@ -5660,13 +5606,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 5,
@@ -6331,13 +6271,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 5,
@@ -7102,13 +7036,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 4,
@@ -7885,13 +7813,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 1,
@@ -9000,13 +8922,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 5,
@@ -9599,13 +9515,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 5,
@@ -9962,13 +9872,7 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "dates": [
-            "2026-04-15",
-            "2026-04-18",
-            "2026-11-15",
-            "2026-11-18"
-          ],
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
         },
         "garbage": {
           "dayOfWeek": 4,

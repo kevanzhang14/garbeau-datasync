@@ -56,7 +56,7 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "organics": {
           "dayOfWeek": 4,
@@ -4246,7 +4246,7 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -6960,7 +6960,7 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "organics": {
           "dayOfWeek": 1,
@@ -8426,7 +8426,7 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "organics": {
           "dayOfWeek": 2,

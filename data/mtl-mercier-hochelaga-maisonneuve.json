@@ -55,7 +55,7 @@
             "2026-11-12",
             "2026-11-19"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 1,
@@ -1293,7 +1293,7 @@
             "2026-11-12",
             "2026-11-19"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 2,
@@ -2566,7 +2566,7 @@
             "2026-11-10",
             "2026-11-17"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -4095,7 +4095,7 @@
             "2026-11-10",
             "2026-11-17"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 2,
@@ -5237,7 +5237,7 @@
             "2026-11-09",
             "2026-11-16"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -6543,7 +6543,7 @@
             "2026-11-13",
             "2026-11-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -7837,7 +7837,7 @@
             "2026-11-11",
             "2026-11-18"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaper"
+          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
         },
         "bulky": {
           "dayOfWeek": 4,
