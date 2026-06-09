@@ -1,7 +1,7 @@
 {
   "id": "mtl-mercier-hochelaga-maisonneuve",
   "name": "Mercier–Hochelaga-Maisonneuve",
-  "lastUpdated": "2026-06-08",
+  "lastUpdated": "2026-06-09",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -55,10 +55,6 @@
         },
         "bulky": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
-        },
-        "garbage": {
-          "dayOfWeek": 3,
           "frequency": "weekly"
         }
       },
@@ -2556,10 +2552,6 @@
             1,
             3
           ]
-        },
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4080,10 +4072,6 @@
             1,
             3
           ]
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -5216,10 +5204,6 @@
             1,
             3
           ]
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6516,10 +6500,6 @@
             1,
             3
           ]
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -7804,10 +7784,6 @@
             1,
             3
           ]
-        },
-        "garbage": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
         }
       },
       "boundary": [

@@ -1,7 +1,7 @@
 {
   "id": "mtl-ville-marie",
   "name": "Ville-Marie",
-  "lastUpdated": "2026-06-08",
+  "lastUpdated": "2026-06-09",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -15,6 +15,26 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "dates": {
+            "start": "05-31",
+            "end": "10-01"
+          }
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -8256,6 +8276,22 @@
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -10170,6 +10206,26 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "dates": {
+            "start": "04-15",
+            "end": "06-10"
+          }
         }
       },
       "boundary": [
@@ -10982,6 +11038,26 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "dates": {
+            "start": "04-15",
+            "end": "06-10"
+          }
         }
       },
       "boundary": [
@@ -11286,6 +11362,26 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "dates": {
+            "start": "04-15",
+            "end": "06-10"
+          }
         }
       },
       "boundary": [
@@ -11843,6 +11939,10 @@
         },
         "bulky": {
           "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "organics": {
+          "dayOfWeek": 4,
           "frequency": "weekly"
         }
       },
@@ -15592,6 +15692,26 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "dates": {
+            "start": "04-15",
+            "end": "06-10"
+          }
         }
       },
       "boundary": [
@@ -16624,6 +16744,26 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
+        },
+        "bulky": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
+        },
+        "leaves": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "dates": {
+            "start": "04-15",
+            "end": "06-10"
+          }
         }
       },
       "boundary": [

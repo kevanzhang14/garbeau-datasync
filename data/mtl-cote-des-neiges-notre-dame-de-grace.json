@@ -1,7 +1,7 @@
 {
   "id": "mtl-cote-des-neiges-notre-dame-de-grace",
   "name": "Côte-des-Neiges–Notre-Dame-de-Grâce",
-  "lastUpdated": "2026-06-08",
+  "lastUpdated": "2026-06-09",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -41,10 +41,6 @@
         },
         "bulky": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -1223,10 +1219,6 @@
         },
         "bulky": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 1,
           "frequency": "weekly"
         }
       },
@@ -3310,10 +3302,6 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -4984,10 +4972,6 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -6105,10 +6089,6 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 5,
-          "frequency": "weekly"
-        },
-        "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly"
         }
@@ -8706,10 +8686,6 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -8995,14 +8971,6 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
         }
@@ -11050,14 +11018,6 @@
           ]
         },
         "bulky": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "recycling": {
-          "dayOfWeek": 4,
-          "frequency": "weekly"
-        },
-        "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly"
         }
