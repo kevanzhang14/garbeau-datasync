@@ -13844,7 +13844,11 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "hoursOvernight7pmto7am",
+          "weekOfMonth": [
+            1,
+            3
+          ]
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -13964,7 +13968,12 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "hoursOvernight7pmto7am",
+          "weekOfMonth": [
+            1,
+            2,
+            4
+          ]
         },
         "leaves": {
           "dayOfWeek": 4,

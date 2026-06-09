@@ -1175,7 +1175,11 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage"
+          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage",
+          "weekOfMonth": [
+            1,
+            3
+          ]
         }
       },
       "boundary": [
@@ -7916,7 +7920,11 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage"
+          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage",
+          "weekOfMonth": [
+            2,
+            4
+          ]
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -10007,7 +10015,11 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage"
+          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage",
+          "weekOfMonth": [
+            2,
+            4
+          ]
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -10762,7 +10774,11 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage"
+          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage",
+          "weekOfMonth": [
+            2,
+            4
+          ]
         },
         "leaves": {
           "dayOfWeek": 2,
@@ -11134,7 +11150,11 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage"
+          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage",
+          "weekOfMonth": [
+            2,
+            4
+          ]
         },
         "leaves": {
           "dayOfWeek": 2,
@@ -11726,7 +11746,11 @@
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage"
+          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage",
+          "weekOfMonth": [
+            2,
+            4
+          ]
         },
         "leaves": {
           "dayOfWeek": 2,

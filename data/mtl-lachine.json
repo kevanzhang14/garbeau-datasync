@@ -7520,7 +7520,11 @@
         "bulky": {
           "dayOfWeek": 5,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "hoursOvernight7pmto7am",
+          "weekOfMonth": [
+            1,
+            3
+          ]
         }
       },
       "boundary": [

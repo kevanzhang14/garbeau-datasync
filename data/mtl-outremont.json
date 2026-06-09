@@ -55,7 +55,11 @@
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto8am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
+          "notes": "hoursOvernight7pmto8am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre",
+          "weekOfMonth": [
+            1,
+            3
+          ]
         },
         "garbage": {
           "dayOfWeek": 1,
