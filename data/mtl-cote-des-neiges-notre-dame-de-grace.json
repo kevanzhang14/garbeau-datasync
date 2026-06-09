@@ -15,37 +15,61 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm"
         },
         "organics": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm"
         },
         "leaves": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
           "dates": [
             "2026-04-03",
+            "2026-04-12",
+            "2026-04-26",
+            "2026-04-29",
+            "2026-05-03",
+            "2026-05-12",
+            "2026-05-26",
             "2026-05-29",
+            "2026-06-03",
             "2026-06-12",
             "2026-06-26",
+            "2026-06-29",
             "2026-07-10",
             "2026-07-24",
             "2026-08-07",
             "2026-08-21",
+            "2026-09-02",
             "2026-09-04",
+            "2026-09-08",
             "2026-09-18",
+            "2026-09-27",
             "2026-10-02",
+            "2026-10-04",
+            "2026-10-08",
+            "2026-10-18",
+            "2026-10-27",
+            "2026-11-02",
+            "2026-11-04",
+            "2026-11-08",
+            "2026-11-18",
             "2026-11-27"
-          ]
+          ],
+          "notes": "hoursDaytime8amto4pm | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         }
       },
       "boundary": [
@@ -1197,37 +1221,64 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "organics": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "leaves": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
           "dates": [
             "2026-04-03",
+            "2026-04-12",
+            "2026-04-26",
+            "2026-04-29",
+            "2026-05-03",
+            "2026-05-12",
+            "2026-05-26",
             "2026-05-29",
+            "2026-06-03",
             "2026-06-12",
             "2026-06-26",
+            "2026-06-29",
             "2026-07-10",
             "2026-07-24",
             "2026-08-07",
             "2026-08-21",
+            "2026-09-02",
             "2026-09-04",
+            "2026-09-07",
+            "2026-09-09",
             "2026-09-18",
+            "2026-09-27",
             "2026-10-02",
+            "2026-10-04",
+            "2026-10-07",
+            "2026-10-09",
+            "2026-10-18",
+            "2026-10-27",
+            "2026-11-02",
+            "2026-11-04",
+            "2026-11-07",
+            "2026-11-09",
+            "2026-11-18",
             "2026-11-27"
-          ]
+          ],
+          "notes": "hoursOvernight9pmto7am | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         }
       },
       "boundary": [
@@ -3283,37 +3334,64 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "organics": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "leaves": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
           "dates": [
             "2026-04-03",
+            "2026-04-12",
+            "2026-04-26",
+            "2026-04-29",
+            "2026-05-03",
+            "2026-05-12",
+            "2026-05-26",
             "2026-05-29",
+            "2026-06-03",
             "2026-06-12",
             "2026-06-26",
+            "2026-06-29",
             "2026-07-10",
             "2026-07-24",
             "2026-08-07",
             "2026-08-21",
+            "2026-09-02",
             "2026-09-04",
+            "2026-09-07",
+            "2026-09-09",
             "2026-09-18",
+            "2026-09-27",
             "2026-10-02",
+            "2026-10-04",
+            "2026-10-07",
+            "2026-10-09",
+            "2026-10-18",
+            "2026-10-27",
+            "2026-11-02",
+            "2026-11-04",
+            "2026-11-07",
+            "2026-11-09",
+            "2026-11-18",
             "2026-11-27"
-          ]
+          ],
+          "notes": "hoursOvernight9pmto7am | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         }
       },
       "boundary": [
@@ -4957,37 +5035,61 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm"
         },
         "organics": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm"
         },
         "leaves": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
           "dates": [
             "2026-04-03",
+            "2026-04-12",
+            "2026-04-26",
+            "2026-04-29",
+            "2026-05-03",
+            "2026-05-12",
+            "2026-05-26",
             "2026-05-29",
+            "2026-06-03",
             "2026-06-12",
             "2026-06-26",
+            "2026-06-29",
             "2026-07-10",
             "2026-07-24",
             "2026-08-07",
             "2026-08-21",
+            "2026-09-02",
             "2026-09-04",
+            "2026-09-08",
             "2026-09-18",
+            "2026-09-27",
             "2026-10-02",
+            "2026-10-04",
+            "2026-10-08",
+            "2026-10-18",
+            "2026-10-27",
+            "2026-11-02",
+            "2026-11-04",
+            "2026-11-08",
+            "2026-11-18",
             "2026-11-27"
-          ]
+          ],
+          "notes": "hoursDaytime8amto4pm | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         }
       },
       "boundary": [
@@ -6083,34 +6185,59 @@
         },
         "organics": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
           "dates": [
             "2026-04-01",
+            "2026-04-10",
+            "2026-04-24",
+            "2026-04-27",
+            "2026-05-01",
+            "2026-05-10",
+            "2026-05-24",
             "2026-05-27",
+            "2026-06-01",
             "2026-06-10",
             "2026-06-24",
+            "2026-06-27",
             "2026-07-08",
             "2026-07-22",
             "2026-08-05",
             "2026-08-19",
             "2026-09-02",
+            "2026-09-07",
+            "2026-09-09",
             "2026-09-16",
+            "2026-09-25",
             "2026-09-30",
+            "2026-10-02",
             "2026-10-07",
-            "2026-11-25"
-          ]
+            "2026-10-09",
+            "2026-10-16",
+            "2026-10-25",
+            "2026-10-30",
+            "2026-11-02",
+            "2026-11-07",
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-25",
+            "2026-11-30"
+          ],
+          "notes": "hoursOvernight9pmto7am | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         }
       },
       "boundary": [
@@ -8678,38 +8805,64 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "organics": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm"
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
           "dates": [
             "2026-04-01",
+            "2026-04-10",
+            "2026-04-24",
+            "2026-04-27",
+            "2026-05-01",
+            "2026-05-10",
+            "2026-05-24",
             "2026-05-27",
+            "2026-06-01",
             "2026-06-10",
             "2026-06-24",
+            "2026-06-27",
             "2026-07-08",
             "2026-07-22",
             "2026-08-05",
             "2026-08-19",
             "2026-09-02",
+            "2026-09-07",
+            "2026-09-09",
             "2026-09-16",
+            "2026-09-25",
             "2026-09-30",
+            "2026-10-02",
             "2026-10-07",
-            "2026-11-25"
-          ]
+            "2026-10-09",
+            "2026-10-16",
+            "2026-10-25",
+            "2026-10-30",
+            "2026-11-02",
+            "2026-11-07",
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-25",
+            "2026-11-30"
+          ],
+          "notes": "hoursOvernight9pmto7am | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         }
       },
       "boundary": [
@@ -8973,38 +9126,64 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
           "dates": [
             "2026-04-01",
+            "2026-04-10",
+            "2026-04-24",
+            "2026-04-27",
+            "2026-05-01",
+            "2026-05-10",
+            "2026-05-24",
             "2026-05-27",
+            "2026-06-01",
             "2026-06-10",
             "2026-06-24",
+            "2026-06-27",
             "2026-07-08",
             "2026-07-22",
             "2026-08-05",
             "2026-08-19",
             "2026-09-02",
+            "2026-09-07",
+            "2026-09-09",
             "2026-09-16",
+            "2026-09-25",
             "2026-09-30",
+            "2026-10-02",
             "2026-10-07",
-            "2026-11-25"
-          ]
+            "2026-10-09",
+            "2026-10-16",
+            "2026-10-25",
+            "2026-10-30",
+            "2026-11-02",
+            "2026-11-07",
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-25",
+            "2026-11-30"
+          ],
+          "notes": "hoursOvernight9pmto7am | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am"
         },
         "organics": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm"
         }
       },
       "boundary": [
@@ -11035,31 +11214,56 @@
           "frequency": "biweekly",
           "dates": [
             "2026-04-01",
+            "2026-04-10",
+            "2026-04-24",
+            "2026-04-27",
+            "2026-05-01",
+            "2026-05-10",
+            "2026-05-24",
             "2026-05-27",
+            "2026-06-01",
             "2026-06-10",
             "2026-06-24",
+            "2026-06-27",
             "2026-07-08",
             "2026-07-22",
             "2026-08-05",
             "2026-08-19",
             "2026-09-02",
+            "2026-09-07",
+            "2026-09-09",
             "2026-09-16",
+            "2026-09-25",
             "2026-09-30",
+            "2026-10-02",
             "2026-10-07",
-            "2026-11-25"
-          ]
+            "2026-10-09",
+            "2026-10-16",
+            "2026-10-25",
+            "2026-10-30",
+            "2026-11-02",
+            "2026-11-07",
+            "2026-11-09",
+            "2026-11-16",
+            "2026-11-25",
+            "2026-11-30"
+          ],
+          "notes": "hoursOvernight9pmto7am | containerGreenWastePaper"
         },
         "bulky": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight9pmto6am"
         },
         "organics": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursDaytime8amto4pm"
         }
       },
       "boundary": [

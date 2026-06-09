@@ -15,7 +15,8 @@
       "recurring": {
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight7pmto7am"
         },
         "organics": {
           "dayOfWeek": 4,
@@ -53,7 +54,8 @@
         },
         "bulky": {
           "dayOfWeek": 2,
-          "frequency": "monthly"
+          "frequency": "monthly",
+          "notes": "hoursOvernight7pmto8am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre"
         },
         "garbage": {
           "dayOfWeek": 1,

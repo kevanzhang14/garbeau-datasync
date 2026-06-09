@@ -14,21 +14,24 @@
     "SLR-1": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "notes": "hoursOvernight7pmto7am"
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly"
         },
         "bulky": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 5,
           "frequency": "monthly",
-          "weekOfMonth": 1
+          "weekOfMonth": 1,
+          "notes": "hoursOvernight7pmto7am"
         },
         "organics": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight7pmto7am"
         }
       },
       "boundary": [
@@ -943,8 +946,9 @@
     "SLR-2": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "notes": "hoursOvernight7pmto7am"
         },
         "recycling": {
           "dayOfWeek": 5,
@@ -953,11 +957,13 @@
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "monthly",
-          "weekOfMonth": 1
+          "weekOfMonth": 1,
+          "notes": "hoursOvernight7pmto7am"
         },
         "organics": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight7pmto7am"
         }
       },
       "boundary": [
@@ -1757,7 +1763,8 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "biweekly",
+          "notes": "hoursOvernight7pmto7am"
         },
         "recycling": {
           "dayOfWeek": 4,
@@ -1766,11 +1773,13 @@
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "monthly",
-          "weekOfMonth": 1
+          "weekOfMonth": 1,
+          "notes": "hoursOvernight7pmto7am"
         },
         "organics": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight7pmto7am"
         }
       },
       "boundary": [
@@ -2333,8 +2342,9 @@
     "SLR-4": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly"
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "notes": "hoursOvernight7pmto7am"
         },
         "recycling": {
           "dayOfWeek": 1,
@@ -2343,11 +2353,13 @@
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "monthly",
-          "weekOfMonth": 1
+          "weekOfMonth": 1,
+          "notes": "hoursOvernight7pmto7am"
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "hoursOvernight7pmto7am"
         }
       },
       "boundary": [
