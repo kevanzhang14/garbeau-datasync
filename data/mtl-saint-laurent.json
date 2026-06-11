@@ -1,7 +1,7 @@
 {
   "id": "mtl-saint-laurent",
   "name": "Saint-Laurent",
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-10",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
@@ -31,7 +31,11 @@
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+        },
+        "leaves": {
+          "dayOfWeek": 2,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -963,7 +967,11 @@
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+        },
+        "leaves": {
+          "dayOfWeek": 5,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -1779,7 +1787,11 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+        },
+        "leaves": {
+          "dayOfWeek": 4,
+          "frequency": "weekly"
         }
       },
       "boundary": [
@@ -2359,7 +2371,11 @@
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+        },
+        "leaves": {
+          "dayOfWeek": 1,
+          "frequency": "weekly"
         }
       },
       "boundary": [

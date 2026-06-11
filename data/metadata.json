@@ -1,6 +1,6 @@
 {
   "description": "Tracks data freshness for each city. Updated by CI workflows and extraction scripts.",
-  "dataVersion": "1.2.3",
+  "dataVersion": "1.2.4",
   "cities": {
     "baie-durfe": {
       "lastUpdated": "2026-05-30",
@@ -73,7 +73,7 @@
       "scheduleYear": 2026
     },
     "mtl-lachine": {
-      "lastUpdated": "2026-06-09",
+      "lastUpdated": "2026-06-10",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
@@ -123,7 +123,7 @@
       "scheduleYear": 2026
     },
     "mtl-saint-laurent": {
-      "lastUpdated": "2026-06-09",
+      "lastUpdated": "2026-06-10",
       "sourceType": "geojson",
       "scheduleYear": 2026
     },
