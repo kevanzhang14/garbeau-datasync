@@ -1,7 +1,7 @@
 {
   "id": "rigaud",
   "name": "Rigaud",
-  "lastUpdated": "2026-06-03",
+  "lastUpdated": "2026-06-13",
   "source": "https://www.ville.rigaud.qc.ca/matieres-residuelles",
   "resources": {
     "general": {
@@ -41,7 +41,7 @@
         },
         "leaves": {
           "dayOfWeek": null,
-          "frequency": "custom",
+          "frequency": null,
           "dates": [
             "2026-05-06",
             "2026-05-27",
@@ -53,7 +53,7 @@
         },
         "bulky": {
           "dayOfWeek": null,
-          "frequency": "custom",
+          "frequency": null,
           "dates": [
             "2026-05-01",
             "2026-07-03",
@@ -63,7 +63,7 @@
         },
         "branches": {
           "dayOfWeek": null,
-          "frequency": "custom",
+          "frequency": null,
           "dates": [
             "2026-05-05",
             "2026-06-02",
