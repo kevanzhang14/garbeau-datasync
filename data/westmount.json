@@ -1,7 +1,7 @@
 {
   "id": "westmount",
   "name": "Westmount",
-  "lastUpdated": "2026-04-01",
+  "lastUpdated": "2026-06-14",
   "source": "https://westmount.org/en/services/municipal-services/waste-collection",
   "resources": {
     "general": {
@@ -34,12 +34,12 @@
           "notes": "Tuesdays before 7 a.m."
         },
         "bulky": {
-          "dayOfWeek": null,
+          "dayOfWeek": 2,
           "frequency": "monthly",
-          "notes": "Monthly May–October, by registration only. Register at citoyen.westmount.org"
+          "notes": "First Tuesday of the month, May–October. By registration only at citoyen.westmount.org"
         },
         "yard_waste": {
-          "dayOfWeek": 2,
+          "dayOfWeek": null,
           "frequency": "weekly",
           "notes": "Garden waste (leaves, grass, branches) collected weekly mid-April to end of November"
         }
@@ -647,12 +647,12 @@
           "notes": "Mondays before 7 a.m."
         },
         "bulky": {
-          "dayOfWeek": null,
+          "dayOfWeek": 2,
           "frequency": "monthly",
-          "notes": "Monthly May–October, by registration only. Register at citoyen.westmount.org"
+          "notes": "First Tuesday of the month, May–October. By registration only at citoyen.westmount.org"
         },
         "yard_waste": {
-          "dayOfWeek": 1,
+          "dayOfWeek": null,
           "frequency": "weekly",
           "notes": "Garden waste (leaves, grass, branches) collected weekly mid-April to end of November"
         }
