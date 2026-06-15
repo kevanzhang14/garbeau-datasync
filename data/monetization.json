@@ -1,8 +1,10 @@
 {
 	"adsEnabled": true,
-	"proEnabled": false,
 	"homeBannerEnabled": true,
-	"debugAllowLocalProUnlock": false,
+	"homeTopBannerEnabled": true,
+	"homeInlineAdInterval": 3,
+	"homeMaxInlineAdSlots": 2,
+	"adsKillSwitch": false,
 	"androidBannerAdUnitId": "ca-app-pub-8738991779622972/8444968390",
 	"iosBannerAdUnitId": "ca-app-pub-8738991779622972/3192641715",
 	"androidBannerAdUnitId2": "ca-app-pub-8738991779622972/9954183117",
