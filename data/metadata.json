@@ -182,6 +182,11 @@
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
+    "terrebonne": {
+      "lastUpdated": "2026-06-15",
+      "sourceType": "scrape",
+      "scheduleYear": 2026
+    },
     "westmount": {
       "lastUpdated": "2026-06-14",
       "sourceType": "pdf",

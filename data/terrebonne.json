@@ -1,0 +1,2282 @@
+{
+  "id": "terrebonne",
+  "name": "Terrebonne",
+  "lastUpdated": "2026-06-15",
+  "source": "https://terrebonne.ca/collectes/",
+  "zones": {
+    "A-1": {
+      "label": "Zone A-1",
+      "centroid": {
+        "lat": 45.78001,
+        "lng": -73.72554
+      },
+      "boundary": [
+        [
+          [
+            45.754768,
+            -73.730689
+          ],
+          [
+            45.750681,
+            -73.75107
+          ],
+          [
+            45.738843,
+            -73.748202
+          ],
+          [
+            45.733277,
+            -73.746707
+          ],
+          [
+            45.733007,
+            -73.737276
+          ],
+          [
+            45.73105,
+            -73.7201
+          ],
+          [
+            45.731015,
+            -73.704777
+          ],
+          [
+            45.734646,
+            -73.696071
+          ],
+          [
+            45.737816,
+            -73.688089
+          ],
+          [
+            45.73834,
+            -73.686291
+          ],
+          [
+            45.747369,
+            -73.699831
+          ],
+          [
+            45.748387,
+            -73.698436
+          ],
+          [
+            45.756512,
+            -73.6946
+          ],
+          [
+            45.764944,
+            -73.690279
+          ],
+          [
+            45.765474,
+            -73.692713
+          ],
+          [
+            45.765691,
+            -73.692694
+          ],
+          [
+            45.766642,
+            -73.696783
+          ],
+          [
+            45.766955,
+            -73.696686
+          ],
+          [
+            45.768639,
+            -73.700969
+          ],
+          [
+            45.776639,
+            -73.696608
+          ],
+          [
+            45.77989,
+            -73.695316
+          ],
+          [
+            45.794224,
+            -73.68775
+          ],
+          [
+            45.795408,
+            -73.694134
+          ],
+          [
+            45.796668,
+            -73.693465
+          ],
+          [
+            45.796995,
+            -73.695674
+          ],
+          [
+            45.796014,
+            -73.696076
+          ],
+          [
+            45.796995,
+            -73.701098
+          ],
+          [
+            45.804417,
+            -73.69708
+          ],
+          [
+            45.804815,
+            -73.710184
+          ],
+          [
+            45.805688,
+            -73.738778
+          ],
+          [
+            45.805698,
+            -73.74034
+          ],
+          [
+            45.808586,
+            -73.745632
+          ],
+          [
+            45.810004,
+            -73.747268
+          ],
+          [
+            45.810918,
+            -73.750718
+          ],
+          [
+            45.811721,
+            -73.755708
+          ],
+          [
+            45.813417,
+            -73.755508
+          ],
+          [
+            45.817193,
+            -73.7694
+          ],
+          [
+            45.812319,
+            -73.770814
+          ],
+          [
+            45.812319,
+            -73.774372
+          ],
+          [
+            45.814624,
+            -73.775498
+          ],
+          [
+            45.829517,
+            -73.797928
+          ],
+          [
+            45.821132,
+            -73.810251
+          ],
+          [
+            45.816234,
+            -73.821322
+          ],
+          [
+            45.754768,
+            -73.730689
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-05",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-12",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-29"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-08"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 2,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-14"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    },
+    "A-2": {
+      "label": "Zone A-2",
+      "centroid": {
+        "lat": 45.71264,
+        "lng": -73.75744
+      },
+      "boundary": [
+        [
+          [
+            45.738313,
+            -73.686337
+          ],
+          [
+            45.737817,
+            -73.687891
+          ],
+          [
+            45.73096,
+            -73.704696
+          ],
+          [
+            45.730978,
+            -73.720657
+          ],
+          [
+            45.732894,
+            -73.737373
+          ],
+          [
+            45.73317,
+            -73.74675
+          ],
+          [
+            45.732813,
+            -73.751119
+          ],
+          [
+            45.730797,
+            -73.751633
+          ],
+          [
+            45.730349,
+            -73.754778
+          ],
+          [
+            45.729654,
+            -73.755998
+          ],
+          [
+            45.729744,
+            -73.757635
+          ],
+          [
+            45.727033,
+            -73.759882
+          ],
+          [
+            45.727032,
+            -73.760958
+          ],
+          [
+            45.717316,
+            -73.758449
+          ],
+          [
+            45.714784,
+            -73.7619
+          ],
+          [
+            45.713431,
+            -73.767183
+          ],
+          [
+            45.713562,
+            -73.77843
+          ],
+          [
+            45.715789,
+            -73.786425
+          ],
+          [
+            45.715414,
+            -73.7883
+          ],
+          [
+            45.715915,
+            -73.790354
+          ],
+          [
+            45.716917,
+            -73.793045
+          ],
+          [
+            45.718574,
+            -73.79486
+          ],
+          [
+            45.717474,
+            -73.797831
+          ],
+          [
+            45.719479,
+            -73.826888
+          ],
+          [
+            45.717936,
+            -73.853174
+          ],
+          [
+            45.701816,
+            -73.815964
+          ],
+          [
+            45.683978,
+            -73.789137
+          ],
+          [
+            45.680314,
+            -73.783443
+          ],
+          [
+            45.681503,
+            -73.781691
+          ],
+          [
+            45.680739,
+            -73.780704
+          ],
+          [
+            45.681598,
+            -73.778498
+          ],
+          [
+            45.682551,
+            -73.777541
+          ],
+          [
+            45.686748,
+            -73.777937
+          ],
+          [
+            45.681583,
+            -73.7725
+          ],
+          [
+            45.68626,
+            -73.766419
+          ],
+          [
+            45.682099,
+            -73.761219
+          ],
+          [
+            45.68652,
+            -73.760593
+          ],
+          [
+            45.690732,
+            -73.755848
+          ],
+          [
+            45.711852,
+            -73.714442
+          ],
+          [
+            45.718715,
+            -73.701229
+          ],
+          [
+            45.722772,
+            -73.693091
+          ],
+          [
+            45.723684,
+            -73.689334
+          ],
+          [
+            45.726393,
+            -73.668774
+          ],
+          [
+            45.738313,
+            -73.686337
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-13",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "extraDates": [
+            "2026-01-05"
+          ]
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-06",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-29"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-08"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 2,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-14"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    },
+    "B-1": {
+      "label": "Zone B-1",
+      "centroid": {
+        "lat": 45.68654,
+        "lng": -73.72031
+      },
+      "boundary": [
+        [
+          [
+            45.68211,
+            -73.761195
+          ],
+          [
+            45.680233,
+            -73.759294
+          ],
+          [
+            45.681561,
+            -73.757034
+          ],
+          [
+            45.669861,
+            -73.746548
+          ],
+          [
+            45.671439,
+            -73.744192
+          ],
+          [
+            45.673237,
+            -73.742519
+          ],
+          [
+            45.675935,
+            -73.740492
+          ],
+          [
+            45.676632,
+            -73.738754
+          ],
+          [
+            45.676879,
+            -73.737242
+          ],
+          [
+            45.678565,
+            -73.735054
+          ],
+          [
+            45.679984,
+            -73.731706
+          ],
+          [
+            45.682052,
+            -73.728167
+          ],
+          [
+            45.682697,
+            -73.726154
+          ],
+          [
+            45.682936,
+            -73.725105
+          ],
+          [
+            45.682622,
+            -73.723222
+          ],
+          [
+            45.683026,
+            -73.722023
+          ],
+          [
+            45.683145,
+            -73.721831
+          ],
+          [
+            45.68319,
+            -73.720418
+          ],
+          [
+            45.682966,
+            -73.718449
+          ],
+          [
+            45.681844,
+            -73.715067
+          ],
+          [
+            45.681261,
+            -73.713868
+          ],
+          [
+            45.680872,
+            -73.711386
+          ],
+          [
+            45.681246,
+            -73.709138
+          ],
+          [
+            45.682293,
+            -73.706591
+          ],
+          [
+            45.683085,
+            -73.705179
+          ],
+          [
+            45.683191,
+            -73.703501
+          ],
+          [
+            45.685329,
+            -73.698471
+          ],
+          [
+            45.685783,
+            -73.698079
+          ],
+          [
+            45.687075,
+            -73.697431
+          ],
+          [
+            45.688059,
+            -73.696134
+          ],
+          [
+            45.689649,
+            -73.695454
+          ],
+          [
+            45.690356,
+            -73.695755
+          ],
+          [
+            45.689981,
+            -73.697336
+          ],
+          [
+            45.692013,
+            -73.698395
+          ],
+          [
+            45.691298,
+            -73.700254
+          ],
+          [
+            45.692447,
+            -73.700792
+          ],
+          [
+            45.692856,
+            -73.701581
+          ],
+          [
+            45.693571,
+            -73.699942
+          ],
+          [
+            45.693614,
+            -73.699292
+          ],
+          [
+            45.710286,
+            -73.707608
+          ],
+          [
+            45.710299,
+            -73.710192
+          ],
+          [
+            45.71004,
+            -73.710768
+          ],
+          [
+            45.710559,
+            -73.711363
+          ],
+          [
+            45.711857,
+            -73.714281
+          ],
+          [
+            45.690634,
+            -73.755644
+          ],
+          [
+            45.686486,
+            -73.760296
+          ],
+          [
+            45.68211,
+            -73.761195
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-06",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-13",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics."
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-15"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 4,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-28"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    },
+    "B-2": {
+      "label": "Zone B-2",
+      "centroid": {
+        "lat": 45.70133,
+        "lng": -73.6803
+      },
+      "boundary": [
+        [
+          [
+            45.726199,
+            -73.668596
+          ],
+          [
+            45.723599,
+            -73.689271
+          ],
+          [
+            45.722713,
+            -73.692993
+          ],
+          [
+            45.711897,
+            -73.714059
+          ],
+          [
+            45.710642,
+            -73.711268
+          ],
+          [
+            45.710185,
+            -73.710718
+          ],
+          [
+            45.710436,
+            -73.710232
+          ],
+          [
+            45.710421,
+            -73.707589
+          ],
+          [
+            45.693592,
+            -73.699151
+          ],
+          [
+            45.69352,
+            -73.699899
+          ],
+          [
+            45.692829,
+            -73.701338
+          ],
+          [
+            45.692509,
+            -73.700675
+          ],
+          [
+            45.691424,
+            -73.700192
+          ],
+          [
+            45.692224,
+            -73.698307
+          ],
+          [
+            45.690143,
+            -73.697186
+          ],
+          [
+            45.691619,
+            -73.691354
+          ],
+          [
+            45.692722,
+            -73.690489
+          ],
+          [
+            45.693896,
+            -73.689113
+          ],
+          [
+            45.694501,
+            -73.686898
+          ],
+          [
+            45.694359,
+            -73.682823
+          ],
+          [
+            45.694537,
+            -73.681219
+          ],
+          [
+            45.694234,
+            -73.679028
+          ],
+          [
+            45.694092,
+            -73.672534
+          ],
+          [
+            45.69274,
+            -73.66576
+          ],
+          [
+            45.692455,
+            -73.663442
+          ],
+          [
+            45.691922,
+            -73.659393
+          ],
+          [
+            45.692082,
+            -73.657763
+          ],
+          [
+            45.692793,
+            -73.656363
+          ],
+          [
+            45.694857,
+            -73.653918
+          ],
+          [
+            45.696298,
+            -73.652186
+          ],
+          [
+            45.696582,
+            -73.651473
+          ],
+          [
+            45.703442,
+            -73.652468
+          ],
+          [
+            45.705523,
+            -73.65178
+          ],
+          [
+            45.706732,
+            -73.650609
+          ],
+          [
+            45.717189,
+            -73.655677
+          ],
+          [
+            45.718256,
+            -73.656644
+          ],
+          [
+            45.726199,
+            -73.668596
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-12",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "extraDates": [
+            "2026-01-06"
+          ]
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-05",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-30"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-15"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 4,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-28"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    },
+    "B-3": {
+      "label": "Zone B-3",
+      "centroid": {
+        "lat": 45.69636,
+        "lng": -73.63978
+      },
+      "boundary": [
+        [
+          [
+            45.691351,
+            -73.656797
+          ],
+          [
+            45.691002,
+            -73.656844
+          ],
+          [
+            45.689724,
+            -73.65549
+          ],
+          [
+            45.689791,
+            -73.654824
+          ],
+          [
+            45.688994,
+            -73.652448
+          ],
+          [
+            45.688629,
+            -73.651426
+          ],
+          [
+            45.688579,
+            -73.650619
+          ],
+          [
+            45.689824,
+            -73.648456
+          ],
+          [
+            45.690704,
+            -73.646436
+          ],
+          [
+            45.691036,
+            -73.642468
+          ],
+          [
+            45.690853,
+            -73.639569
+          ],
+          [
+            45.691085,
+            -73.639332
+          ],
+          [
+            45.693891,
+            -73.64387
+          ],
+          [
+            45.694604,
+            -73.643514
+          ],
+          [
+            45.695965,
+            -73.644179
+          ],
+          [
+            45.696579,
+            -73.645462
+          ],
+          [
+            45.696164,
+            -73.649597
+          ],
+          [
+            45.695119,
+            -73.651949
+          ],
+          [
+            45.691351,
+            -73.656797
+          ]
+        ],
+        [
+          [
+            45.696596,
+            -73.65126
+          ],
+          [
+            45.697838,
+            -73.648886
+          ],
+          [
+            45.698108,
+            -73.647158
+          ],
+          [
+            45.698085,
+            -73.646442
+          ],
+          [
+            45.698125,
+            -73.645591
+          ],
+          [
+            45.697835,
+            -73.645037
+          ],
+          [
+            45.697849,
+            -73.644674
+          ],
+          [
+            45.69761,
+            -73.643391
+          ],
+          [
+            45.697626,
+            -73.642699
+          ],
+          [
+            45.697047,
+            -73.641518
+          ],
+          [
+            45.696531,
+            -73.641439
+          ],
+          [
+            45.696081,
+            -73.641267
+          ],
+          [
+            45.695448,
+            -73.641029
+          ],
+          [
+            45.694753,
+            -73.639574
+          ],
+          [
+            45.694712,
+            -73.639303
+          ],
+          [
+            45.694453,
+            -73.638506
+          ],
+          [
+            45.693917,
+            -73.637596
+          ],
+          [
+            45.694823,
+            -73.637672
+          ],
+          [
+            45.695039,
+            -73.634559
+          ],
+          [
+            45.694962,
+            -73.631834
+          ],
+          [
+            45.691074,
+            -73.630403
+          ],
+          [
+            45.690581,
+            -73.629997
+          ],
+          [
+            45.691022,
+            -73.629235
+          ],
+          [
+            45.691686,
+            -73.628512
+          ],
+          [
+            45.692789,
+            -73.626617
+          ],
+          [
+            45.693079,
+            -73.625688
+          ],
+          [
+            45.693148,
+            -73.625332
+          ],
+          [
+            45.693398,
+            -73.624921
+          ],
+          [
+            45.693667,
+            -73.623054
+          ],
+          [
+            45.693601,
+            -73.622833
+          ],
+          [
+            45.693735,
+            -73.622676
+          ],
+          [
+            45.693754,
+            -73.621841
+          ],
+          [
+            45.693533,
+            -73.62151
+          ],
+          [
+            45.703294,
+            -73.622236
+          ],
+          [
+            45.703599,
+            -73.626791
+          ],
+          [
+            45.703517,
+            -73.627267
+          ],
+          [
+            45.703625,
+            -73.627281
+          ],
+          [
+            45.703714,
+            -73.629655
+          ],
+          [
+            45.705411,
+            -73.630171
+          ],
+          [
+            45.705772,
+            -73.630249
+          ],
+          [
+            45.711101,
+            -73.632275
+          ],
+          [
+            45.709878,
+            -73.636639
+          ],
+          [
+            45.708415,
+            -73.645954
+          ],
+          [
+            45.707652,
+            -73.648758
+          ],
+          [
+            45.706669,
+            -73.650499
+          ],
+          [
+            45.705541,
+            -73.651545
+          ],
+          [
+            45.703616,
+            -73.652258
+          ],
+          [
+            45.696596,
+            -73.65126
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-07",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-14",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-30"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-15"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 4,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-28"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    },
+    "C-1": {
+      "label": "Zone C-1",
+      "centroid": {
+        "lat": 45.70292,
+        "lng": -73.61434
+      },
+      "boundary": [
+        [
+          [
+            45.726172,
+            -73.668405
+          ],
+          [
+            45.722698,
+            -73.663231
+          ],
+          [
+            45.718314,
+            -73.656591
+          ],
+          [
+            45.717275,
+            -73.655594
+          ],
+          [
+            45.706852,
+            -73.650505
+          ],
+          [
+            45.707766,
+            -73.64891
+          ],
+          [
+            45.708492,
+            -73.646243
+          ],
+          [
+            45.709939,
+            -73.636809
+          ],
+          [
+            45.71114,
+            -73.63224
+          ],
+          [
+            45.705854,
+            -73.630218
+          ],
+          [
+            45.703759,
+            -73.629601
+          ],
+          [
+            45.703648,
+            -73.627238
+          ],
+          [
+            45.703544,
+            -73.627244
+          ],
+          [
+            45.703637,
+            -73.626759
+          ],
+          [
+            45.703332,
+            -73.622171
+          ],
+          [
+            45.693545,
+            -73.621466
+          ],
+          [
+            45.693464,
+            -73.621031
+          ],
+          [
+            45.693217,
+            -73.619784
+          ],
+          [
+            45.693234,
+            -73.618246
+          ],
+          [
+            45.69353,
+            -73.617879
+          ],
+          [
+            45.693913,
+            -73.617747
+          ],
+          [
+            45.69431,
+            -73.616798
+          ],
+          [
+            45.694377,
+            -73.613841
+          ],
+          [
+            45.694911,
+            -73.612673
+          ],
+          [
+            45.693536,
+            -73.61233
+          ],
+          [
+            45.691525,
+            -73.606808
+          ],
+          [
+            45.691088,
+            -73.603597
+          ],
+          [
+            45.690914,
+            -73.598648
+          ],
+          [
+            45.691552,
+            -73.595462
+          ],
+          [
+            45.692062,
+            -73.593303
+          ],
+          [
+            45.69235,
+            -73.593094
+          ],
+          [
+            45.697014,
+            -73.593879
+          ],
+          [
+            45.698175,
+            -73.594641
+          ],
+          [
+            45.699021,
+            -73.59455
+          ],
+          [
+            45.699768,
+            -73.593098
+          ],
+          [
+            45.700314,
+            -73.586914
+          ],
+          [
+            45.700962,
+            -73.586505
+          ],
+          [
+            45.703162,
+            -73.587357
+          ],
+          [
+            45.704195,
+            -73.586764
+          ],
+          [
+            45.705761,
+            -73.58373
+          ],
+          [
+            45.706921,
+            -73.584499
+          ],
+          [
+            45.707347,
+            -73.586194
+          ],
+          [
+            45.708514,
+            -73.587212
+          ],
+          [
+            45.709857,
+            -73.586115
+          ],
+          [
+            45.714586,
+            -73.585836
+          ],
+          [
+            45.71575,
+            -73.583688
+          ],
+          [
+            45.726172,
+            -73.668405
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-02",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-09",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-29"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-14"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 1,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-07"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    },
+    "C-2": {
+      "label": "Zone C-2",
+      "centroid": {
+        "lat": 45.71189,
+        "lng": -73.54875
+      },
+      "boundary": [
+        [
+          [
+            45.713981,
+            -73.487625
+          ],
+          [
+            45.717276,
+            -73.4884
+          ],
+          [
+            45.72028,
+            -73.492572
+          ],
+          [
+            45.719426,
+            -73.493758
+          ],
+          [
+            45.721999,
+            -73.49705
+          ],
+          [
+            45.726174,
+            -73.49755
+          ],
+          [
+            45.729011,
+            -73.501316
+          ],
+          [
+            45.73543,
+            -73.501112
+          ],
+          [
+            45.744101,
+            -73.517043
+          ],
+          [
+            45.74866,
+            -73.517229
+          ],
+          [
+            45.753882,
+            -73.529526
+          ],
+          [
+            45.754971,
+            -73.554933
+          ],
+          [
+            45.730075,
+            -73.556758
+          ],
+          [
+            45.727723,
+            -73.556962
+          ],
+          [
+            45.727966,
+            -73.564415
+          ],
+          [
+            45.724372,
+            -73.564475
+          ],
+          [
+            45.720965,
+            -73.567114
+          ],
+          [
+            45.71899,
+            -73.581421
+          ],
+          [
+            45.715682,
+            -73.583614
+          ],
+          [
+            45.714551,
+            -73.585737
+          ],
+          [
+            45.709848,
+            -73.585978
+          ],
+          [
+            45.708538,
+            -73.587057
+          ],
+          [
+            45.707402,
+            -73.58603
+          ],
+          [
+            45.706958,
+            -73.584208
+          ],
+          [
+            45.705751,
+            -73.58349
+          ],
+          [
+            45.704141,
+            -73.58665
+          ],
+          [
+            45.703164,
+            -73.587186
+          ],
+          [
+            45.700896,
+            -73.586286
+          ],
+          [
+            45.700168,
+            -73.586807
+          ],
+          [
+            45.699641,
+            -73.593071
+          ],
+          [
+            45.698921,
+            -73.594417
+          ],
+          [
+            45.698177,
+            -73.594505
+          ],
+          [
+            45.696986,
+            -73.593722
+          ],
+          [
+            45.692255,
+            -73.592906
+          ],
+          [
+            45.692488,
+            -73.591475
+          ],
+          [
+            45.695163,
+            -73.583396
+          ],
+          [
+            45.696472,
+            -73.57825
+          ],
+          [
+            45.696737,
+            -73.575207
+          ],
+          [
+            45.69839,
+            -73.569247
+          ],
+          [
+            45.698952,
+            -73.566968
+          ],
+          [
+            45.699115,
+            -73.565472
+          ],
+          [
+            45.700455,
+            -73.561534
+          ],
+          [
+            45.701749,
+            -73.555327
+          ],
+          [
+            45.701465,
+            -73.554458
+          ],
+          [
+            45.699686,
+            -73.543579
+          ],
+          [
+            45.701363,
+            -73.532091
+          ],
+          [
+            45.700998,
+            -73.527783
+          ],
+          [
+            45.703293,
+            -73.518173
+          ],
+          [
+            45.704749,
+            -73.509525
+          ],
+          [
+            45.705832,
+            -73.504742
+          ],
+          [
+            45.708457,
+            -73.498528
+          ],
+          [
+            45.709834,
+            -73.495294
+          ],
+          [
+            45.712852,
+            -73.492017
+          ],
+          [
+            45.713701,
+            -73.489815
+          ],
+          [
+            45.713981,
+            -73.487625
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-09",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "extraDates": [
+            "2026-01-05"
+          ]
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-02",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-29"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-14"
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 1,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-07"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    },
+    "D": {
+      "label": "Zone D",
+      "centroid": {
+        "lat": 45.69291,
+        "lng": -73.63723
+      },
+      "boundary": [
+        [
+          [
+            45.695189,
+            -73.641561
+          ],
+          [
+            45.695098,
+            -73.641693
+          ],
+          [
+            45.694643,
+            -73.641754
+          ],
+          [
+            45.693597,
+            -73.641252
+          ],
+          [
+            45.692626,
+            -73.639784
+          ],
+          [
+            45.692488,
+            -73.639715
+          ],
+          [
+            45.692526,
+            -73.639069
+          ],
+          [
+            45.692432,
+            -73.638332
+          ],
+          [
+            45.692209,
+            -73.638038
+          ],
+          [
+            45.692132,
+            -73.637664
+          ],
+          [
+            45.692302,
+            -73.637602
+          ],
+          [
+            45.692661,
+            -73.638019
+          ],
+          [
+            45.692643,
+            -73.637572
+          ],
+          [
+            45.692157,
+            -73.637199
+          ],
+          [
+            45.691559,
+            -73.636061
+          ],
+          [
+            45.691098,
+            -73.634898
+          ],
+          [
+            45.691215,
+            -73.634071
+          ],
+          [
+            45.691174,
+            -73.633607
+          ],
+          [
+            45.690755,
+            -73.633002
+          ],
+          [
+            45.690467,
+            -73.632311
+          ],
+          [
+            45.690368,
+            -73.631847
+          ],
+          [
+            45.690593,
+            -73.630089
+          ],
+          [
+            45.691051,
+            -73.630467
+          ],
+          [
+            45.694914,
+            -73.631894
+          ],
+          [
+            45.694981,
+            -73.634562
+          ],
+          [
+            45.694774,
+            -73.637605
+          ],
+          [
+            45.693101,
+            -73.637457
+          ],
+          [
+            45.692957,
+            -73.637818
+          ],
+          [
+            45.692968,
+            -73.638026
+          ],
+          [
+            45.69337,
+            -73.638184
+          ],
+          [
+            45.694182,
+            -73.638602
+          ],
+          [
+            45.694528,
+            -73.639461
+          ],
+          [
+            45.694745,
+            -73.640835
+          ],
+          [
+            45.695166,
+            -73.641303
+          ],
+          [
+            45.695189,
+            -73.641561
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "anchorDate": "2026-01-05",
+          "extraDates": [
+            "2026-12-29"
+          ]
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "anchorDate": "2026-01-07",
+          "extraDates": [
+            "2026-12-30"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-08",
+          "extraDates": [
+            "2026-01-02"
+          ]
+        },
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 4,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-28"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        }
+      }
+    }
+  },
+  "lookupStrategy": {
+    "type": "boundary"
+  },
+  "cityBoundary": [
+    [
+      45.659861,
+      -73.863174
+    ],
+    [
+      45.659861,
+      -73.47762499999999
+    ],
+    [
+      45.839517,
+      -73.47762499999999
+    ],
+    [
+      45.839517,
+      -73.863174
+    ]
+  ],
+  "resources": {
+    "general": {
+      "title": "Terrebonne Waste Collection",
+      "url": "https://terrebonne.ca/collectes/",
+      "icon": "info"
+    },
+    "garbage": {
+      "title": "Garbage Collection",
+      "url": "https://terrebonne.ca/collecte-des-dechets/",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "recycling": {
+      "title": "Recycling Collection",
+      "url": "https://terrebonne.ca/recuperation/",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "organics": {
+      "title": "Organics Collection",
+      "url": "https://terrebonne.ca/matieres-organiques-compost/",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "bulky": {
+      "title": "Bulky Waste Collection",
+      "url": "https://terrebonne.ca/encombrants/",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "leaves": {
+      "title": "Leaves Collection",
+      "url": "https://terrebonne.ca/collecte-de-residus-verts/",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "christmas_tree": {
+      "title": "Christmas Tree Collection",
+      "url": "https://terrebonne.ca/collecte-de-sapins/",
+      "icon": "external-link",
+      "showLink": true
+    }
+  },
+  "special": {
+    "leaves": {
+      "dates": [
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-05-14",
+        "2026-05-15",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags."
+    },
+    "christmas_tree": {
+      "dates": [
+        "2026-01-12"
+      ],
+      "notes": "Single annual collection. Remove all decorations, no artificial snow."
+    }
+  }
+}

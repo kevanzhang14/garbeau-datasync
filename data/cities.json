@@ -242,6 +242,13 @@
     "file": "mtl-villeray-saint-michel-parc-extension.json"
   },
   {
+    "id": "terrebonne",
+    "name": "Terrebonne",
+    "file": "terrebonne.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://terrebonne.ca/collectes/"
+  },
+  {
     "id": "westmount",
     "name": "Westmount",
     "file": "westmount.json",
