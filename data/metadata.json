@@ -37,6 +37,11 @@
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
+    "longueuil": {
+      "lastUpdated": "2026-06-19",
+      "sourceType": "ics",
+      "scheduleYear": 2026
+    },
     "mont-royal": {
       "lastUpdated": "2026-04-02",
       "sourceType": "pdf",

@@ -1,0 +1,1837 @@
+{
+  "id": "longueuil",
+  "name": "Longueuil",
+  "lastUpdated": "2026-06-19",
+  "source": "https://longueuil.quebec/fr/services/matieres-residuelles-et-collectes",
+  "lookupStrategy": {
+    "type": "boundary"
+  },
+  "cityBoundary": [
+    [
+      45.4277,
+      -73.53209
+    ],
+    [
+      45.4277,
+      -73.331291
+    ],
+    [
+      45.593901,
+      -73.331291
+    ],
+    [
+      45.593901,
+      -73.53209
+    ],
+    [
+      45.4277,
+      -73.53209
+    ]
+  ],
+  "resources": {
+    "general": {
+      "title": "Matières résiduelles et collectes",
+      "url": "https://longueuil.quebec/fr/services/matieres-residuelles-et-collectes",
+      "icon": "info"
+    },
+    "garbage": {
+      "title": "Collectes des ordures",
+      "url": "https://longueuil.quebec/fr/ordures",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "recycling": {
+      "title": "Collecte des matières recyclables",
+      "url": "https://longueuil.quebec/fr/services/collectes/collecte-des-matieres-recyclables",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "organics": {
+      "title": "Collecte des matières organiques",
+      "url": "https://longueuil.quebec/fr/bac-brun",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "bulky": {
+      "title": "Collecte des encombrants",
+      "url": "https://longueuil.quebec/fr/encombrants",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "leaves": {
+      "title": "Collecte de résidus verts",
+      "url": "https://longueuil.quebec/fr/residus-verts",
+      "icon": "external-link"
+    },
+    "branches": {
+      "title": "Collecte des branches",
+      "url": "https://longueuil.quebec/fr/residus-verts",
+      "icon": "external-link",
+      "showLink": true
+    },
+    "christmas_tree": {
+      "title": "Collecte des sapins de Noël",
+      "url": "https://longueuil.quebec/fr/residus-verts",
+      "icon": "external-link"
+    }
+  },
+  "zones": {
+    "LON-1": {
+      "label": "Sector 1",
+      "centroid": {
+        "lat": 45.515358,
+        "lng": -73.486638
+      },
+      "boundary": [
+        [
+          [
+            45.504709,
+            -73.489341
+          ],
+          [
+            45.504834,
+            -73.488254
+          ],
+          [
+            45.505332,
+            -73.487108
+          ],
+          [
+            45.505969,
+            -73.485368
+          ],
+          [
+            45.506745,
+            -73.474183
+          ],
+          [
+            45.507479,
+            -73.472721
+          ],
+          [
+            45.508684,
+            -73.471179
+          ],
+          [
+            45.517835,
+            -73.464518
+          ],
+          [
+            45.519286,
+            -73.463763
+          ],
+          [
+            45.522161,
+            -73.464449
+          ],
+          [
+            45.530841,
+            -73.485271
+          ],
+          [
+            45.527365,
+            -73.490574
+          ],
+          [
+            45.525604,
+            -73.492779
+          ],
+          [
+            45.524684,
+            -73.493639
+          ],
+          [
+            45.523559,
+            -73.496866
+          ],
+          [
+            45.522582,
+            -73.497435
+          ],
+          [
+            45.520185,
+            -73.496997
+          ],
+          [
+            45.517559,
+            -73.497678
+          ],
+          [
+            45.514673,
+            -73.499073
+          ],
+          [
+            45.512787,
+            -73.500305
+          ],
+          [
+            45.511548,
+            -73.496494
+          ],
+          [
+            45.510275,
+            -73.493283
+          ],
+          [
+            45.508537,
+            -73.491386
+          ],
+          [
+            45.504709,
+            -73.489341
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-05",
+          "notes": "Biweekly Mondays"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-12",
+          "notes": "Biweekly Mondays"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Weekly Tuesdays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-14",
+            "2026-04-28",
+            "2026-05-12",
+            "2026-05-26",
+            "2026-06-02",
+            "2026-06-09",
+            "2026-06-23",
+            "2026-07-07",
+            "2026-07-21",
+            "2026-08-04",
+            "2026-08-18",
+            "2026-09-01",
+            "2026-09-15",
+            "2026-09-29",
+            "2026-10-13",
+            "2026-10-27",
+            "2026-11-10"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-06",
+            "2026-01-20"
+          ]
+        }
+      }
+    },
+    "LON-2": {
+      "label": "Sector 2",
+      "centroid": {
+        "lat": 45.521614,
+        "lng": -73.502744
+      },
+      "boundary": [
+        [
+          [
+            45.530892,
+            -73.48536
+          ],
+          [
+            45.538639,
+            -73.503899
+          ],
+          [
+            45.539498,
+            -73.505004
+          ],
+          [
+            45.540806,
+            -73.508053
+          ],
+          [
+            45.543337,
+            -73.513766
+          ],
+          [
+            45.540344,
+            -73.518416
+          ],
+          [
+            45.536846,
+            -73.519145
+          ],
+          [
+            45.536272,
+            -73.521696
+          ],
+          [
+            45.535187,
+            -73.52248
+          ],
+          [
+            45.533808,
+            -73.52709
+          ],
+          [
+            45.529072,
+            -73.527017
+          ],
+          [
+            45.517888,
+            -73.52452
+          ],
+          [
+            45.516994,
+            -73.518871
+          ],
+          [
+            45.512563,
+            -73.506151
+          ],
+          [
+            45.511554,
+            -73.5036
+          ],
+          [
+            45.510072,
+            -73.499281
+          ],
+          [
+            45.509664,
+            -73.498041
+          ],
+          [
+            45.504778,
+            -73.494432
+          ],
+          [
+            45.50415,
+            -73.494239
+          ],
+          [
+            45.50434,
+            -73.492785
+          ],
+          [
+            45.504639,
+            -73.49042
+          ],
+          [
+            45.504715,
+            -73.4894
+          ],
+          [
+            45.508542,
+            -73.491448
+          ],
+          [
+            45.510252,
+            -73.493335
+          ],
+          [
+            45.511517,
+            -73.49653
+          ],
+          [
+            45.512764,
+            -73.500409
+          ],
+          [
+            45.514797,
+            -73.499063
+          ],
+          [
+            45.517577,
+            -73.497725
+          ],
+          [
+            45.520179,
+            -73.49705
+          ],
+          [
+            45.52261,
+            -73.497476
+          ],
+          [
+            45.5236,
+            -73.496891
+          ],
+          [
+            45.524725,
+            -73.493664
+          ],
+          [
+            45.52568,
+            -73.492769
+          ],
+          [
+            45.527396,
+            -73.490612
+          ],
+          [
+            45.530803,
+            -73.485408
+          ],
+          [
+            45.530892,
+            -73.48536
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-06",
+          "notes": "Biweekly Tuesdays"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-13",
+          "notes": "Biweekly Tuesdays"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "notes": "Weekly Wednesdays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-15",
+            "2026-04-29",
+            "2026-05-13",
+            "2026-05-27",
+            "2026-06-10",
+            "2026-06-24",
+            "2026-07-08",
+            "2026-07-22",
+            "2026-08-05",
+            "2026-08-19",
+            "2026-09-02",
+            "2026-09-16",
+            "2026-09-30",
+            "2026-10-14",
+            "2026-10-28",
+            "2026-11-11"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-07",
+            "2026-01-21"
+          ]
+        }
+      }
+    },
+    "LON-3": {
+      "label": "Sector 3",
+      "centroid": {
+        "lat": 45.544635,
+        "lng": -73.47741
+      },
+      "boundary": [
+        [
+          [
+            45.522221,
+            -73.464489
+          ],
+          [
+            45.525603,
+            -73.465286
+          ],
+          [
+            45.526218,
+            -73.465185
+          ],
+          [
+            45.531645,
+            -73.462226
+          ],
+          [
+            45.533089,
+            -73.461017
+          ],
+          [
+            45.535773,
+            -73.457843
+          ],
+          [
+            45.53742,
+            -73.456875
+          ],
+          [
+            45.539039,
+            -73.456441
+          ],
+          [
+            45.544787,
+            -73.455565
+          ],
+          [
+            45.545634,
+            -73.454583
+          ],
+          [
+            45.547564,
+            -73.456761
+          ],
+          [
+            45.55833,
+            -73.470906
+          ],
+          [
+            45.554859,
+            -73.476535
+          ],
+          [
+            45.551003,
+            -73.48396
+          ],
+          [
+            45.551622,
+            -73.484549
+          ],
+          [
+            45.55226,
+            -73.484908
+          ],
+          [
+            45.553762,
+            -73.48464
+          ],
+          [
+            45.553865,
+            -73.4855
+          ],
+          [
+            45.55491,
+            -73.485244
+          ],
+          [
+            45.555352,
+            -73.488497
+          ],
+          [
+            45.556068,
+            -73.488027
+          ],
+          [
+            45.560538,
+            -73.493847
+          ],
+          [
+            45.561479,
+            -73.500204
+          ],
+          [
+            45.543346,
+            -73.513717
+          ],
+          [
+            45.539528,
+            -73.504928
+          ],
+          [
+            45.538667,
+            -73.503828
+          ],
+          [
+            45.530572,
+            -73.484506
+          ],
+          [
+            45.522221,
+            -73.464489
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-07",
+          "notes": "Biweekly Wednesdays"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-14",
+          "notes": "Biweekly Wednesdays"
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "notes": "Weekly Thursdays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-16",
+            "2026-04-30",
+            "2026-05-14",
+            "2026-05-28",
+            "2026-06-11",
+            "2026-06-25",
+            "2026-07-09",
+            "2026-07-23",
+            "2026-08-06",
+            "2026-08-20",
+            "2026-09-03",
+            "2026-09-17",
+            "2026-10-01",
+            "2026-10-15",
+            "2026-10-29",
+            "2026-11-12"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-08",
+            "2026-01-22"
+          ]
+        }
+      }
+    },
+    "LON-4": {
+      "label": "Sector 4",
+      "centroid": {
+        "lat": 45.552245,
+        "lng": -73.466714
+      },
+      "boundary": [
+        [
+          [
+            45.561526,
+            -73.5002
+          ],
+          [
+            45.560566,
+            -73.493835
+          ],
+          [
+            45.556073,
+            -73.48796
+          ],
+          [
+            45.555389,
+            -73.488422
+          ],
+          [
+            45.554942,
+            -73.485186
+          ],
+          [
+            45.553897,
+            -73.48545
+          ],
+          [
+            45.553777,
+            -73.484559
+          ],
+          [
+            45.552277,
+            -73.484844
+          ],
+          [
+            45.551695,
+            -73.484534
+          ],
+          [
+            45.55108,
+            -73.483926
+          ],
+          [
+            45.554875,
+            -73.476595
+          ],
+          [
+            45.558382,
+            -73.470905
+          ],
+          [
+            45.547593,
+            -73.45671
+          ],
+          [
+            45.545644,
+            -73.454515
+          ],
+          [
+            45.54478,
+            -73.455505
+          ],
+          [
+            45.541411,
+            -73.455995
+          ],
+          [
+            45.539034,
+            -73.456391
+          ],
+          [
+            45.538118,
+            -73.456623
+          ],
+          [
+            45.537628,
+            -73.452959
+          ],
+          [
+            45.537743,
+            -73.451263
+          ],
+          [
+            45.537628,
+            -73.450827
+          ],
+          [
+            45.536346,
+            -73.448679
+          ],
+          [
+            45.535902,
+            -73.446956
+          ],
+          [
+            45.534885,
+            -73.445655
+          ],
+          [
+            45.534413,
+            -73.444857
+          ],
+          [
+            45.533974,
+            -73.443266
+          ],
+          [
+            45.532923,
+            -73.439135
+          ],
+          [
+            45.533244,
+            -73.438989
+          ],
+          [
+            45.537832,
+            -73.43815
+          ],
+          [
+            45.549089,
+            -73.425411
+          ],
+          [
+            45.588901,
+            -73.474106
+          ],
+          [
+            45.585734,
+            -73.4815
+          ],
+          [
+            45.58605,
+            -73.482395
+          ],
+          [
+            45.585453,
+            -73.485011
+          ],
+          [
+            45.587166,
+            -73.494086
+          ],
+          [
+            45.584835,
+            -73.49629
+          ],
+          [
+            45.561526,
+            -73.5002
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-08",
+          "notes": "Biweekly Thursdays"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-15",
+          "notes": "Biweekly Thursdays"
+        },
+        "organics": {
+          "dayOfWeek": 5,
+          "frequency": "weekly",
+          "notes": "Weekly Fridays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-17",
+            "2026-05-01",
+            "2026-05-15",
+            "2026-05-29",
+            "2026-06-12",
+            "2026-06-26",
+            "2026-07-10",
+            "2026-07-24",
+            "2026-08-07",
+            "2026-08-21",
+            "2026-09-04",
+            "2026-09-18",
+            "2026-10-02",
+            "2026-10-16",
+            "2026-10-30",
+            "2026-11-13"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-09",
+            "2026-01-23"
+          ]
+        }
+      }
+    },
+    "LON-5": {
+      "label": "Sector 5",
+      "centroid": {
+        "lat": 45.532535,
+        "lng": -73.441443
+      },
+      "boundary": [
+        [
+          [
+            45.549032,
+            -73.425402
+          ],
+          [
+            45.537817,
+            -73.438034
+          ],
+          [
+            45.533308,
+            -73.43891
+          ],
+          [
+            45.532852,
+            -73.439058
+          ],
+          [
+            45.534348,
+            -73.444938
+          ],
+          [
+            45.534615,
+            -73.445429
+          ],
+          [
+            45.53581,
+            -73.446939
+          ],
+          [
+            45.536266,
+            -73.448768
+          ],
+          [
+            45.537105,
+            -73.450127
+          ],
+          [
+            45.537633,
+            -73.451149
+          ],
+          [
+            45.537556,
+            -73.453052
+          ],
+          [
+            45.537985,
+            -73.456489
+          ],
+          [
+            45.537459,
+            -73.456632
+          ],
+          [
+            45.535626,
+            -73.457671
+          ],
+          [
+            45.533417,
+            -73.460364
+          ],
+          [
+            45.531961,
+            -73.46171
+          ],
+          [
+            45.52757,
+            -73.464171
+          ],
+          [
+            45.525711,
+            -73.465056
+          ],
+          [
+            45.522234,
+            -73.464209
+          ],
+          [
+            45.509744,
+            -73.434698
+          ],
+          [
+            45.508018,
+            -73.431505
+          ],
+          [
+            45.510492,
+            -73.393394
+          ],
+          [
+            45.528418,
+            -73.378044
+          ],
+          [
+            45.552965,
+            -73.410668
+          ],
+          [
+            45.545421,
+            -73.41967
+          ],
+          [
+            45.549032,
+            -73.425402
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-09",
+          "notes": "Biweekly Fridays"
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-02",
+          "notes": "Biweekly Fridays"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Weekly Mondays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-13",
+            "2026-04-27",
+            "2026-05-11",
+            "2026-05-25",
+            "2026-06-08",
+            "2026-06-22",
+            "2026-07-06",
+            "2026-07-20",
+            "2026-08-03",
+            "2026-08-17",
+            "2026-08-31",
+            "2026-09-14",
+            "2026-09-28",
+            "2026-10-12",
+            "2026-10-26",
+            "2026-11-09"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-05",
+            "2026-01-19"
+          ]
+        }
+      }
+    },
+    "LON-6": {
+      "label": "Sector 6",
+      "centroid": {
+        "lat": 45.500868,
+        "lng": -73.470558
+      },
+      "boundary": [
+        [
+          [
+            45.504108,
+            -73.494265
+          ],
+          [
+            45.503395,
+            -73.4937
+          ],
+          [
+            45.502661,
+            -73.492743
+          ],
+          [
+            45.495427,
+            -73.500598
+          ],
+          [
+            45.475641,
+            -73.473008
+          ],
+          [
+            45.478946,
+            -73.467985
+          ],
+          [
+            45.480301,
+            -73.467905
+          ],
+          [
+            45.482353,
+            -73.464675
+          ],
+          [
+            45.483963,
+            -73.465546
+          ],
+          [
+            45.485047,
+            -73.466605
+          ],
+          [
+            45.49527,
+            -73.481991
+          ],
+          [
+            45.498022,
+            -73.478195
+          ],
+          [
+            45.504584,
+            -73.467301
+          ],
+          [
+            45.504971,
+            -73.465845
+          ],
+          [
+            45.505246,
+            -73.462507
+          ],
+          [
+            45.505798,
+            -73.462624
+          ],
+          [
+            45.507095,
+            -73.449031
+          ],
+          [
+            45.508212,
+            -73.431973
+          ],
+          [
+            45.509717,
+            -73.434715
+          ],
+          [
+            45.522161,
+            -73.464317
+          ],
+          [
+            45.51925,
+            -73.463645
+          ],
+          [
+            45.517833,
+            -73.464414
+          ],
+          [
+            45.508579,
+            -73.471172
+          ],
+          [
+            45.507438,
+            -73.472633
+          ],
+          [
+            45.506703,
+            -73.474104
+          ],
+          [
+            45.505932,
+            -73.485324
+          ],
+          [
+            45.504786,
+            -73.488255
+          ],
+          [
+            45.504108,
+            -73.494265
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-05",
+          "notes": "Biweekly Mondays"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-05",
+          "notes": "Biweekly Mondays"
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Weekly Tuesdays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-21",
+            "2026-05-05",
+            "2026-05-19",
+            "2026-06-02",
+            "2026-06-16",
+            "2026-06-30",
+            "2026-07-14",
+            "2026-07-28",
+            "2026-08-11",
+            "2026-08-25",
+            "2026-09-08",
+            "2026-09-22",
+            "2026-10-06",
+            "2026-10-20",
+            "2026-11-03",
+            "2026-11-17"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-13",
+            "2026-01-27"
+          ]
+        }
+      }
+    },
+    "LON-7": {
+      "label": "Sector 7",
+      "centroid": {
+        "lat": 45.492496,
+        "lng": -73.463641
+      },
+      "boundary": [
+        [
+          [
+            45.48237,
+            -73.464614
+          ],
+          [
+            45.485604,
+            -73.459489
+          ],
+          [
+            45.481286,
+            -73.452801
+          ],
+          [
+            45.49133,
+            -73.435693
+          ],
+          [
+            45.505223,
+            -73.46244
+          ],
+          [
+            45.504933,
+            -73.465833
+          ],
+          [
+            45.50455,
+            -73.46727
+          ],
+          [
+            45.497975,
+            -73.478172
+          ],
+          [
+            45.495281,
+            -73.481918
+          ],
+          [
+            45.485029,
+            -73.466468
+          ],
+          [
+            45.483871,
+            -73.465351
+          ],
+          [
+            45.48237,
+            -73.464614
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-06",
+          "notes": "Biweekly Tuesdays"
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-06",
+          "notes": "Biweekly Tuesdays"
+        },
+        "organics": {
+          "dayOfWeek": 3,
+          "frequency": "weekly",
+          "notes": "Weekly Wednesdays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-22",
+            "2026-05-06",
+            "2026-05-20",
+            "2026-06-03",
+            "2026-06-17",
+            "2026-07-01",
+            "2026-07-15",
+            "2026-07-29",
+            "2026-08-12",
+            "2026-08-26",
+            "2026-09-09",
+            "2026-09-23",
+            "2026-10-07",
+            "2026-10-21",
+            "2026-11-04",
+            "2026-11-18"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-14",
+            "2026-01-28"
+          ]
+        }
+      }
+    },
+    "LON-8": {
+      "label": "Sector 8",
+      "centroid": {
+        "lat": 45.499101,
+        "lng": -73.422875
+      },
+      "boundary": [
+        [
+          [
+            45.505736,
+            -73.462521
+          ],
+          [
+            45.505283,
+            -73.462411
+          ],
+          [
+            45.50145,
+            -73.454995
+          ],
+          [
+            45.498115,
+            -73.448644
+          ],
+          [
+            45.493718,
+            -73.440091
+          ],
+          [
+            45.48945,
+            -73.432096
+          ],
+          [
+            45.495206,
+            -73.427968
+          ],
+          [
+            45.494903,
+            -73.426937
+          ],
+          [
+            45.494175,
+            -73.425126
+          ],
+          [
+            45.493026,
+            -73.42386
+          ],
+          [
+            45.491449,
+            -73.419386
+          ],
+          [
+            45.490879,
+            -73.41832
+          ],
+          [
+            45.488949,
+            -73.413148
+          ],
+          [
+            45.494915,
+            -73.408873
+          ],
+          [
+            45.498219,
+            -73.406502
+          ],
+          [
+            45.500462,
+            -73.405264
+          ],
+          [
+            45.500863,
+            -73.404837
+          ],
+          [
+            45.50134,
+            -73.403985
+          ],
+          [
+            45.501696,
+            -73.402956
+          ],
+          [
+            45.502284,
+            -73.39342
+          ],
+          [
+            45.502234,
+            -73.384207
+          ],
+          [
+            45.510332,
+            -73.393346
+          ],
+          [
+            45.507839,
+            -73.431696
+          ],
+          [
+            45.508057,
+            -73.432163
+          ],
+          [
+            45.506935,
+            -73.449129
+          ],
+          [
+            45.505736,
+            -73.462521
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 3,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-07",
+          "notes": "Biweekly Wednesdays"
+        },
+        "recycling": {
+          "dayOfWeek": 3,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-07",
+          "notes": "Biweekly Wednesdays"
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "notes": "Weekly Thursdays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-23",
+            "2026-05-07",
+            "2026-05-21",
+            "2026-06-04",
+            "2026-06-18",
+            "2026-07-02",
+            "2026-07-16",
+            "2026-07-30",
+            "2026-08-13",
+            "2026-08-27",
+            "2026-09-10",
+            "2026-09-24",
+            "2026-10-08",
+            "2026-10-22",
+            "2026-11-05",
+            "2026-11-19"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-15",
+            "2026-01-29"
+          ]
+        }
+      }
+    },
+    "LON-9": {
+      "label": "Sector 9",
+      "centroid": {
+        "lat": 45.487053,
+        "lng": -73.395674
+      },
+      "boundary": [
+        [
+          [
+            45.502043,
+            -73.383951
+          ],
+          [
+            45.502193,
+            -73.3842
+          ],
+          [
+            45.502232,
+            -73.393131
+          ],
+          [
+            45.501642,
+            -73.402918
+          ],
+          [
+            45.501129,
+            -73.4043
+          ],
+          [
+            45.500428,
+            -73.405206
+          ],
+          [
+            45.498223,
+            -73.406301
+          ],
+          [
+            45.488853,
+            -73.413103
+          ],
+          [
+            45.490847,
+            -73.418455
+          ],
+          [
+            45.491348,
+            -73.419385
+          ],
+          [
+            45.492954,
+            -73.423928
+          ],
+          [
+            45.494126,
+            -73.425182
+          ],
+          [
+            45.494835,
+            -73.426948
+          ],
+          [
+            45.495109,
+            -73.427905
+          ],
+          [
+            45.489203,
+            -73.432165
+          ],
+          [
+            45.478594,
+            -73.412737
+          ],
+          [
+            45.475538,
+            -73.406962
+          ],
+          [
+            45.470008,
+            -73.396662
+          ],
+          [
+            45.46393,
+            -73.385378
+          ],
+          [
+            45.46015,
+            -73.379161
+          ],
+          [
+            45.448751,
+            -73.360333
+          ],
+          [
+            45.465232,
+            -73.348018
+          ],
+          [
+            45.467192,
+            -73.346654
+          ],
+          [
+            45.481526,
+            -73.336291
+          ],
+          [
+            45.510916,
+            -73.371818
+          ],
+          [
+            45.49638,
+            -73.376427
+          ],
+          [
+            45.502043,
+            -73.383951
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-08",
+          "notes": "Biweekly Thursdays"
+        },
+        "recycling": {
+          "dayOfWeek": 4,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-08",
+          "notes": "Biweekly Thursdays"
+        },
+        "organics": {
+          "dayOfWeek": 5,
+          "frequency": "weekly",
+          "notes": "Weekly Fridays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-24",
+            "2026-05-08",
+            "2026-05-22",
+            "2026-06-05",
+            "2026-06-19",
+            "2026-07-03",
+            "2026-07-17",
+            "2026-07-31",
+            "2026-08-14",
+            "2026-08-28",
+            "2026-09-11",
+            "2026-09-25",
+            "2026-10-09",
+            "2026-10-23",
+            "2026-11-06",
+            "2026-11-20"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-16",
+            "2026-01-30"
+          ]
+        }
+      }
+    },
+    "LON-10": {
+      "label": "Sector 10",
+      "centroid": {
+        "lat": 45.459668,
+        "lng": -73.400998
+      },
+      "boundary": [
+        [
+          [
+            45.4327,
+            -73.37994
+          ],
+          [
+            45.433495,
+            -73.378619
+          ],
+          [
+            45.433962,
+            -73.379035
+          ],
+          [
+            45.434646,
+            -73.378013
+          ],
+          [
+            45.435551,
+            -73.379318
+          ],
+          [
+            45.436401,
+            -73.377148
+          ],
+          [
+            45.438608,
+            -73.380324
+          ],
+          [
+            45.438575,
+            -73.374993
+          ],
+          [
+            45.448629,
+            -73.360525
+          ],
+          [
+            45.463919,
+            -73.385593
+          ],
+          [
+            45.47516,
+            -73.406429
+          ],
+          [
+            45.480564,
+            -73.416522
+          ],
+          [
+            45.481947,
+            -73.418984
+          ],
+          [
+            45.484259,
+            -73.423196
+          ],
+          [
+            45.489212,
+            -73.432257
+          ],
+          [
+            45.489414,
+            -73.432106
+          ],
+          [
+            45.491303,
+            -73.435649
+          ],
+          [
+            45.481177,
+            -73.452713
+          ],
+          [
+            45.464164,
+            -73.427594
+          ],
+          [
+            45.4327,
+            -73.37994
+          ]
+        ]
+      ],
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-02",
+          "notes": "Biweekly Fridays"
+        },
+        "recycling": {
+          "dayOfWeek": 5,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-09",
+          "notes": "Biweekly Fridays"
+        },
+        "organics": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Weekly Mondays"
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Biweekly green waste collection, approximately April–November. Use paper bags or reusable rigid containers — no plastic bags. Deposit after 8 p.m. the night before or before 7 a.m. on collection day.",
+          "dates": [
+            "2026-04-20",
+            "2026-05-04",
+            "2026-05-18",
+            "2026-06-01",
+            "2026-06-15",
+            "2026-06-29",
+            "2026-07-13",
+            "2026-07-27",
+            "2026-08-10",
+            "2026-08-24",
+            "2026-09-07",
+            "2026-09-21",
+            "2026-10-05",
+            "2026-10-19",
+            "2026-11-02",
+            "2026-11-16"
+          ]
+        },
+        "branches": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Branches are collected with green waste on the same dates. Tie bundles with jute rope (no metal wire). Branches max 5 cm diameter. Bundles: 30 cm diameter × 1 m length, max 15 kg. No stumps or trunks."
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Two January collections per sector. Remove all decorations. Place horizontally (not planted in snow), free of snow and ice. Trunk max 10 cm diameter.",
+          "dates": [
+            "2026-01-12",
+            "2026-01-26"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -2,7 +2,7 @@
 	"adsEnabled": true,
 	"homeBannerEnabled": true,
 	"homeTopBannerEnabled": true,
-	"homeInlineAdInterval": 3,
+	"homeInlineAdInterval": 2,
 	"homeMaxInlineAdSlots": 2,
 	"adsKillSwitch": false,
 	"androidBannerAdUnitId": "ca-app-pub-8738991779622972/8444968390",

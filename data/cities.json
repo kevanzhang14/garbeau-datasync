@@ -64,6 +64,13 @@
     "sourceUrl": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services"
   },
   {
+    "id": "longueuil",
+    "name": "Longueuil",
+    "file": "longueuil.json",
+    "sourceType": "ics",
+    "sourceUrl": "https://longueuil.quebec/fr/services/matieres-residuelles-et-collectes"
+  },
+  {
     "id": "mtl-l-ile-bizard-sainte-genevieve",
     "name": "L'Île-Bizard–Sainte-Geneviève",
     "file": "mtl-l-ile-bizard-sainte-genevieve.json"
