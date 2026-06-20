@@ -64,13 +64,6 @@
     "sourceUrl": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services"
   },
   {
-    "id": "longueuil",
-    "name": "Longueuil",
-    "file": "longueuil.json",
-    "sourceType": "ics",
-    "sourceUrl": "https://longueuil.quebec/fr/services/matieres-residuelles-et-collectes"
-  },
-  {
     "id": "mtl-l-ile-bizard-sainte-genevieve",
     "name": "L'Île-Bizard–Sainte-Geneviève",
     "file": "mtl-l-ile-bizard-sainte-genevieve.json"
@@ -108,6 +101,13 @@
     "id": "mtl-le-sud-ouest",
     "name": "Le Sud-Ouest",
     "file": "mtl-le-sud-ouest.json"
+  },
+  {
+    "id": "longueuil",
+    "name": "Longueuil",
+    "file": "longueuil.json",
+    "sourceType": "ics",
+    "sourceUrl": "https://longueuil.quebec/fr/services/matieres-residuelles-et-collectes"
   },
   {
     "id": "mtl-mercier-hochelaga-maisonneuve",
@@ -220,6 +220,13 @@
     "sourceUrl": "https://www.senneville.ca/en/services/waste-collection/"
   },
   {
+    "id": "terrebonne",
+    "name": "Terrebonne",
+    "file": "terrebonne.json",
+    "sourceType": "scrape",
+    "sourceUrl": "https://terrebonne.ca/collectes/"
+  },
+  {
     "id": "vaudreuil-dorion",
     "name": "Vaudreuil-Dorion",
     "file": "vaudreuil-dorion.json",
@@ -247,13 +254,6 @@
     "id": "mtl-villeray-saint-michel-parc-extension",
     "name": "Villeray–Saint-Michel–Parc-Extension",
     "file": "mtl-villeray-saint-michel-parc-extension.json"
-  },
-  {
-    "id": "terrebonne",
-    "name": "Terrebonne",
-    "file": "terrebonne.json",
-    "sourceType": "scrape",
-    "sourceUrl": "https://terrebonne.ca/collectes/"
   },
   {
     "id": "westmount",
