@@ -1,7 +1,7 @@
 {
   "id": "dorval",
   "name": "Dorval",
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
   "resources": {
     "general": {
@@ -12,7 +12,44 @@
     "bulky": {
       "title": "Bulky Waste Placement Guidelines",
       "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
+    },
+    "leaves": {
+      "title": "Leaves Pickup",
+      "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Leaf collection on Fridays, late October through November. Place leaves in paper bags or rigid containers at curb. See city page for exact dates."
+    },
+    "garbage": {
+      "title": "Household Waste Pickup",
+      "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recycling and Recycling Bins",
+      "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Organic Waste Pickup",
+      "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branches Pickup",
+      "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     }
   },
   "zones": {

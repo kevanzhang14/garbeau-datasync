@@ -1,13 +1,55 @@
 {
   "id": "sainte-anne-de-bellevue",
   "name": "Sainte-Anne-de-Bellevue",
-  "lastUpdated": "2026-04-14",
+  "lastUpdated": "2026-06-22",
   "source": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
   "resources": {
     "general": {
       "title": "Sainte-Anne-de-Bellevue Collection Information",
       "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulky Waste Collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Bulky waste collection dates listed on the annual collection calendar. See city page for accepted items and placement rules."
+    },
+    "leaves": {
+      "title": "Leaves & Green Waste",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Leaves and green waste collected seasonally. See Other Collections section on city page for dates and container requirements."
+    },
+    "garbage": {
+      "title": "Household Waste Collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recyclables Collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Organic Waste Collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branch Collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     }
   },
   "zones": {

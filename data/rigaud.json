@@ -1,7 +1,7 @@
 {
   "id": "rigaud",
   "name": "Rigaud",
-  "lastUpdated": "2026-06-13",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ville.rigaud.qc.ca/matieres-residuelles",
   "resources": {
     "general": {
@@ -13,13 +13,43 @@
       "title": "Rigaud Branch Pickup Registration",
       "url": "https://www.ville.rigaud.qc.ca/branches",
       "icon": "external-link",
-      "showLink": true
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     },
     "bulky": {
       "title": "Rigaud Bulky Waste Collection",
       "url": "https://www.ville.rigaud.qc.ca/encombrants",
       "icon": "external-link",
-      "showLink": true
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
+    },
+    "leaves": {
+      "title": "Leaves and Green Waste",
+      "url": "https://www.ville.rigaud.qc.ca/feuilles-et-autres-residus-verts",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Feuilles collected during spring and autumn collection windows. Place in paper bags or labelled bins. See city page for specific dates."
+    },
+    "garbage": {
+      "title": "Black Bin (Garbage)",
+      "url": "https://www.ville.rigaud.qc.ca/bac-noir",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Blue Bin (Recycling)",
+      "url": "https://www.ville.rigaud.qc.ca/bac-bleu",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Brown Bin (Organics)",
+      "url": "https://www.ville.rigaud.qc.ca/bac-brun",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
     }
   },
   "zones": {

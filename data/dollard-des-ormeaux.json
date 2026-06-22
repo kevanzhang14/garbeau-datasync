@@ -1,13 +1,55 @@
 {
   "id": "dollard-des-ormeaux",
   "name": "Dollard-des-Ormeaux",
-  "lastUpdated": "2026-06-07",
+  "lastUpdated": "2026-06-22",
   "source": "https://ville.ddo.qc.ca/en/live/collection/",
   "resources": {
     "general": {
       "title": "Dollard-des-Ormeaux Collection Information",
       "url": "https://ville.ddo.qc.ca/en/live/collection/",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Waste Collection (Bulky Items)",
+      "url": "https://ville.ddo.qc.ca/en/live/collection/waste-collection/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Bulky items accepted during regular waste collection. See Accepted bulk waste section on city page for item limits and restrictions."
+    },
+    "leaves": {
+      "title": "Organic Material / Green Waste",
+      "url": "https://ville.ddo.qc.ca/en/live/collection-of-organic-material-compost/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Green waste collected with organics (brown bin). Use paper bags, cardboard boxes, or rigid containers. No plastic bags."
+    },
+    "garbage": {
+      "title": "Waste Collection",
+      "url": "https://ville.ddo.qc.ca/en/live/collection/waste-collection/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recyclable Material Collection",
+      "url": "https://ville.ddo.qc.ca/en/live/collection-of-recyclable-material/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Organic Material (Compost) Collection",
+      "url": "https://ville.ddo.qc.ca/en/live/collection-of-organic-material-compost/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branch Pickup",
+      "url": "https://ville.ddo.qc.ca/en/live/collection/branch-pickup/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     }
   },
   "zones": {

@@ -1,7 +1,7 @@
 {
   "id": "montreal-ouest",
   "name": "Montréal-Ouest",
-  "lastUpdated": "2026-05-04",
+  "lastUpdated": "2026-06-22",
   "source": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
   "resources": {
     "general": {
@@ -12,17 +12,23 @@
     "leaves": {
       "title": "Organics and Green Waste Details",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true,
+      "note": "See leaf collection rules and dates on the city website."
     },
     "christmas_tree": {
       "title": "Christmas Tree Collection Details",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true,
+      "note": "See Christmas tree collection dates on the city website."
     },
     "bulky": {
       "title": "Special Pickup Service Details",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/special-pickups/",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
     },
     "special_pickup_contact": {
       "title": "Contact Public Works",
@@ -63,7 +69,7 @@
         "bulky": {
           "dayOfWeek": null,
           "frequency": "monthly",
-          "notes": "Special pickup is a paid on-request service for construction materials and permanent fixtures. Contact Public Works for pricing and scheduling.",
+          "notes": "Paid on-request service for items prohibited in regular garbage: construction material and permanent fixtures (sinks, toilets). Min $20 charge. Contact Public Works after placing materials at curb.",
           "informationalCard": true
         }
       },

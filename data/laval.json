@@ -1,7 +1,7 @@
 {
   "id": "laval",
   "name": "Laval",
-  "lastUpdated": "2026-05-01",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.laval.ca/environnement/collectes/calendrier-collectes/",
   "externalApp": {
     "name": "Laval - Recherche par adresse",
@@ -23,6 +23,41 @@
       "title": "Bulky Waste Collection Info",
       "url": "https://www.laval.ca/environnement/collectes/encombrants/",
       "icon": "external-link"
+    },
+    "garbage": {
+      "title": "Collecte de dechets",
+      "url": "https://www.laval.ca/environnement/collectes/collecte-dechets/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Collecte de recuperation",
+      "url": "https://www.laval.ca/environnement/collectes/collecte-recuperation/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Collecte de matieres organiques",
+      "url": "https://www.laval.ca/environnement/collectes/collecte-matieres-organiques/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "leaves": {
+      "title": "Feuilles mortes et vegetaux",
+      "url": "https://www.laval.ca/environnement/collectes/feuilles-mortes-vegetaux/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See leaf collection rules and dates on the city website."
+    },
+    "branches": {
+      "title": "Branches",
+      "url": "https://www.laval.ca/environnement/collectes/feuilles-mortes-vegetaux/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     }
   },
   "zones": {

@@ -1,13 +1,48 @@
 {
   "id": "mont-royal",
   "name": "Mont-Royal",
-  "lastUpdated": "2026-04-02",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
   "resources": {
     "general": {
       "title": "Mont-Royal Collection Information",
       "url": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulky Waste & CRD Residues",
+      "url": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Bulky waste and CRD residues collected by appointment. See city page for accepted items and scheduling procedure."
+    },
+    "leaves": {
+      "title": "Dead Leaves Collection",
+      "url": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Dead leaves collected seasonally. Place in paper bags or labelled bins at curb. No plastic bags."
+    },
+    "garbage": {
+      "title": "Household Waste Collection",
+      "url": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recycling Collection",
+      "url": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Organic Waste Collection",
+      "url": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
     }
   },
   "zones": {

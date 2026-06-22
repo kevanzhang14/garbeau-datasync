@@ -1,13 +1,55 @@
 {
   "id": "senneville",
   "name": "Senneville",
-  "lastUpdated": "2026-04-18",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.senneville.ca/en/services/waste-collection/",
   "resources": {
     "general": {
       "title": "Senneville Collection Information",
       "url": "https://www.senneville.ca/en/services/waste-collection/",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulk Waste Collection",
+      "url": "https://www.senneville.ca/en/services/waste-collection/bulk-waste-collection/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "4 scheduled collections per year. Accepted: wood, metal, plastic, and recyclable items too large for regular bins. Declined: construction waste, tires, hazardous materials, and electronics."
+    },
+    "leaves": {
+      "title": "Food Waste & Leaves",
+      "url": "https://www.senneville.ca/en/services/waste-collection/food-waste-collection-and-composting/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Leaves picked up with weekly food waste collection. Place in paper bags, cardboard boxes, rigid containers, or brown bin (120L). No plastic bags."
+    },
+    "garbage": {
+      "title": "Garbage Collection",
+      "url": "https://www.senneville.ca/en/services/waste-collection/garbage-collection/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recycling Collection",
+      "url": "https://www.senneville.ca/en/services/waste-collection/recycling-collection/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Food Waste & Composting",
+      "url": "https://www.senneville.ca/en/services/waste-collection/food-waste-collection-and-composting/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branch Collection",
+      "url": "https://www.senneville.ca/en/services/waste-collection/branch-collection/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     }
   },
   "zones": {

@@ -1,13 +1,55 @@
 {
   "id": "st-lazare",
   "name": "Saint-Lazare",
-  "lastUpdated": "2026-04-08",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/collection-calendar",
   "resources": {
     "general": {
       "title": "Saint-Lazare Collection Information",
       "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/collection-calendar",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulky Waste Collection",
+      "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/bulky-waste",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Bulky waste collection by sector on scheduled dates. See city page for accepted items and whether registration is required."
+    },
+    "leaves": {
+      "title": "Leaves and Green Waste",
+      "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/leaves-and-other-green-waste",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Leaves and green waste collected seasonally. Place in paper bags or labelled bins. See city page for collection windows and container requirements."
+    },
+    "garbage": {
+      "title": "Black Bin (Garbage)",
+      "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/black-bin",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Blue Bin (Recycling)",
+      "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/blue-bin",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Brown Bin (Organics)",
+      "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/brown-bin",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branch Collection",
+      "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/branches",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     }
   },
   "zones": {

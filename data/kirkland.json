@@ -1,7 +1,7 @@
 {
   "id": "kirkland",
   "name": "Kirkland",
-  "lastUpdated": "2026-05-04",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
   "resources": {
     "general": {
@@ -12,22 +12,30 @@
     "leaves": {
       "title": "Organic, Leaves and Green Waste Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/leaves",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true,
+      "note": "See leaf collection rules and dates on the city website."
     },
     "bulky": {
       "title": "Bulky Items Collection Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/bulky-items",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
     },
     "branches": {
       "title": "Branch Collection Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/branches",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     },
     "christmas_tree": {
       "title": "Christmas Tree Collection Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/christmas-trees",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See Christmas tree collection dates on the city website."
     }
   },
   "zones": {

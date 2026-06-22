@@ -1,7 +1,7 @@
 {
   "id": "salaberry-de-valleyfield",
   "name": "Salaberry-de-Valleyfield",
-  "lastUpdated": "2026-06-05",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ville.valleyfield.qc.ca/collecte",
   "resources": {
     "general": {
@@ -17,17 +17,37 @@
     "recycling": {
       "title": "Matières recyclables",
       "url": "https://www.ville.valleyfield.qc.ca/matieres-recyclables",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
     },
     "organics": {
       "title": "Matières organiques",
       "url": "https://www.ville.valleyfield.qc.ca/matieres-organiques",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
     },
     "bulky": {
       "title": "Collecte des encombrants",
       "url": "https://www.ville.valleyfield.qc.ca/encombrants",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
+    },
+    "garbage": {
+      "title": "Domestic Waste Collection",
+      "url": "https://www.ville.valleyfield.qc.ca/dechets-domestiques",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Weekly collection in the grey rolling bin. Place at curb after 7 p.m. night before or before 7 a.m. collection day. See city page for accepted and refused materials."
+    },
+    "leaves": {
+      "title": "Green Waste Collection",
+      "url": "https://www.ville.valleyfield.qc.ca/residus-verts",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See leaf collection rules and dates on the city website."
     }
   },
   "zones": {

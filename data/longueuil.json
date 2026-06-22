@@ -1,7 +1,7 @@
 {
   "id": "longueuil",
   "name": "Longueuil",
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-22",
   "source": "https://longueuil.quebec/fr/services/matieres-residuelles-et-collectes",
   "lookupStrategy": {
     "type": "boundary"
@@ -38,41 +38,50 @@
       "title": "Collectes des ordures",
       "url": "https://longueuil.quebec/fr/ordures",
       "icon": "external-link",
-      "showLink": true
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
     },
     "recycling": {
       "title": "Collecte des matières recyclables",
       "url": "https://longueuil.quebec/fr/services/collectes/collecte-des-matieres-recyclables",
       "icon": "external-link",
-      "showLink": true
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
     },
     "organics": {
       "title": "Collecte des matières organiques",
       "url": "https://longueuil.quebec/fr/bac-brun",
       "icon": "external-link",
-      "showLink": true
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
     },
     "bulky": {
       "title": "Collecte des encombrants",
       "url": "https://longueuil.quebec/fr/encombrants",
       "icon": "external-link",
-      "showLink": true
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
     },
     "leaves": {
       "title": "Collecte de résidus verts",
       "url": "https://longueuil.quebec/fr/residus-verts",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See leaf collection rules and dates on the city website."
     },
     "branches": {
       "title": "Collecte des branches",
       "url": "https://longueuil.quebec/fr/residus-verts",
       "icon": "external-link",
-      "showLink": true
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     },
     "christmas_tree": {
       "title": "Collecte des sapins de Noël",
       "url": "https://longueuil.quebec/fr/residus-verts",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See Christmas tree collection dates on the city website."
     }
   },
   "zones": {

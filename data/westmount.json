@@ -1,7 +1,7 @@
 {
   "id": "westmount",
   "name": "Westmount",
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-06-22",
   "source": "https://westmount.org/en/services/municipal-services/waste-collection",
   "resources": {
     "general": {
@@ -11,8 +11,31 @@
     },
     "bulky": {
       "title": "Register for Bulky Waste Pickup",
-      "url": "https://citoyen.westmount.org",
-      "icon": "registration"
+      "url": "https://citoyen.westmount.org/fr/demandes-en-ligne/collecte-des-encombrants-inscription",
+      "icon": "registration",
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
+    },
+    "garbage": {
+      "title": "Household Garbage Collection",
+      "url": "https://westmount.org/en/services/municipal-services/waste-collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Place bins at curb after 5 p.m. night before or before 7 a.m. on collection day. Retrieve bins by 11 p.m. same day. See city page for accepted materials."
+    },
+    "organics": {
+      "title": "Food Waste Collection",
+      "url": "https://westmount.org/en/services/municipal-services/waste-collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Weekly brown bin collection for food waste including meat, dairy, fruits, vegetables, and soiled paper/cardboard. No plastic bags."
+    },
+    "yard_waste": {
+      "title": "Garden Waste & Christmas Trees",
+      "url": "https://westmount.org/en/services/municipal-services/waste-collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Garden waste and branches collected seasonally. Christmas trees collected in January — remove all decorations, tinsel, and garlands."
     }
   },
   "zones": {
@@ -36,7 +59,7 @@
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "monthly",
-          "notes": "First Tuesday of the month, May–October. By registration only at citoyen.westmount.org"
+          "notes": "Bulky items collected once a month from May to October. Registration is required for this collection."
         },
         "yard_waste": {
           "dayOfWeek": null,
@@ -649,7 +672,7 @@
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "monthly",
-          "notes": "First Tuesday of the month, May–October. By registration only at citoyen.westmount.org"
+          "notes": "Bulky items collected once a month from May to October. Registration is required for this collection."
         },
         "yard_waste": {
           "dayOfWeek": null,

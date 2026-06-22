@@ -1,13 +1,55 @@
 {
   "id": "ile-perrot",
   "name": "L'Île-Perrot",
-  "lastUpdated": "2026-04-17",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
   "resources": {
     "general": {
       "title": "L'Île-Perrot Collection Information",
       "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Dechets Volumineux",
+      "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Dechets volumineux collected on a variable schedule. Place items at curb by 7 a.m. See city page for accepted materials and collection dates."
+    },
+    "garbage": {
+      "title": "Dechets (Garbage)",
+      "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recyclage",
+      "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Matieres Organiques",
+      "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branches",
+      "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
+    },
+    "greenWaste": {
+      "title": "Residus Verts et Feuilles",
+      "url": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See green waste collection rules on the city website."
     }
   },
   "zones": {

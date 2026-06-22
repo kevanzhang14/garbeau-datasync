@@ -3,12 +3,12 @@
   "dataVersion": "1.2.4",
   "cities": {
     "baie-durfe": {
-      "lastUpdated": "2026-05-30",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "beaconsfield": {
-      "lastUpdated": "2026-04-16",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
@@ -18,42 +18,42 @@
       "scheduleYear": 2026
     },
     "dollard-des-ormeaux": {
-      "lastUpdated": "2026-06-07",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "dorval": {
-      "lastUpdated": "2026-04-14",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "hampstead": {
-      "lastUpdated": "2026-06-13",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "kirkland": {
-      "lastUpdated": "2026-05-04",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "longueuil": {
-      "lastUpdated": "2026-06-19",
+      "lastUpdated": "2026-06-22",
       "sourceType": "ics",
       "scheduleYear": 2026
     },
     "mont-royal": {
-      "lastUpdated": "2026-04-02",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "montreal-est": {
-      "lastUpdated": "2026-05-04",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "montreal-ouest": {
-      "lastUpdated": "2026-05-04",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
@@ -153,32 +153,32 @@
       "scheduleYear": 2026
     },
     "pointe-claire": {
-      "lastUpdated": "2026-05-09",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "rigaud": {
-      "lastUpdated": "2026-06-13",
+      "lastUpdated": "2026-06-22",
       "sourceType": "scrape",
       "scheduleYear": 2026
     },
     "sainte-anne-de-bellevue": {
-      "lastUpdated": "2026-04-14",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "st-lazare": {
-      "lastUpdated": "2026-04-08",
+      "lastUpdated": "2026-06-22",
       "sourceType": "image",
       "scheduleYear": 2026
     },
     "senneville": {
-      "lastUpdated": "2026-04-18",
+      "lastUpdated": "2026-06-22",
       "sourceType": "manual",
       "scheduleYear": 2026
     },
     "vaudreuil-dorion": {
-      "lastUpdated": "2026-04-01",
+      "lastUpdated": "2026-06-22",
       "sourceType": "image",
       "scheduleYear": 2026
     },
@@ -193,21 +193,21 @@
       "scheduleYear": 2026
     },
     "westmount": {
-      "lastUpdated": "2026-06-14",
+      "lastUpdated": "2026-06-22",
       "sourceType": "pdf",
       "scheduleYear": 2026
     },
     "laval": {
-      "lastUpdated": "2026-05-01"
+      "lastUpdated": "2026-06-22"
     },
     "notre-dame-de-lile-perrot": {
-      "lastUpdated": "2026-06-07"
+      "lastUpdated": "2026-06-22"
     },
     "ile-perrot": {
-      "lastUpdated": "2026-04-17"
+      "lastUpdated": "2026-06-22"
     },
     "salaberry-de-valleyfield": {
-      "lastUpdated": "2026-06-05"
+      "lastUpdated": "2026-06-22"
     }
   }
 }

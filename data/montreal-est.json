@@ -1,7 +1,7 @@
 {
   "id": "montreal-est",
   "name": "Montréal-Est",
-  "lastUpdated": "2026-05-04",
+  "lastUpdated": "2026-06-22",
   "source": "https://ville.montreal-est.qc.ca/environnement/collectes/",
   "resources": {
     "general": {
@@ -12,17 +12,30 @@
     "branches": {
       "title": "Branch Pickup Dates and Registration",
       "url": "https://ville.montreal-est.qc.ca/collectes-de-branches-2/",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     },
     "yard_waste": {
       "title": "Green Waste Collection Dates",
       "url": "https://ville.montreal-est.qc.ca/collecte-residus-verts/",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See yard waste collection rules on the city website."
     },
     "bulky": {
       "title": "Bulky Item Collection Details",
       "url": "https://ville.montreal-est.qc.ca/environnement/collectes/",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
+    },
+    "leaves": {
+      "title": "Green Waste / Leaves Collection",
+      "url": "https://ville.montreal-est.qc.ca/collecte-residus-verts/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Leaves accepted with organics collection in the brown bin year-round. Dedicated green waste pickups also occur in May, October, and November."
     }
   },
   "zones": {

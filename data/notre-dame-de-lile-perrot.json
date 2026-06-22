@@ -1,13 +1,55 @@
 {
   "id": "notre-dame-de-lile-perrot",
   "name": "Notre-Dame-de-l'Ile-Perrot",
-  "lastUpdated": "2026-06-07",
+  "lastUpdated": "2026-06-22",
   "source": "https://www.ndip.org/calendrier-des-collectes",
   "resources": {
     "general": {
       "title": "Notre-Dame-de-l'Ile-Perrot Collection Information",
       "url": "https://www.ndip.org/calendrier-des-collectes",
       "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulky Waste Collection",
+      "url": "https://www.ndip.org/rebuts-volumineux",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Third Thursday of every month. Place items at curb by 7 a.m. See city page for accepted bulky items list."
+    },
+    "garbage": {
+      "title": "Household Garbage Collection",
+      "url": "https://www.ndip.org/ordures-menageres",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Weekly collection in the black bin. Place bin at curb between 7 p.m. night before and 7 a.m. on collection day. Max bin weight: 25 kg."
+    },
+    "leaves": {
+      "title": "Green Waste & Leaves",
+      "url": "https://www.ndip.org/residus-verts-et-feuilles-dautomne",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Green waste and leaves collected seasonally. Use paper bags or labelled bins. No plastic bags accepted."
+    },
+    "recycling": {
+      "title": "Recyclable Materials",
+      "url": "https://www.ndip.org/matieres-recyclables",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Organic Materials",
+      "url": "https://www.ndip.org/matieres-organiques",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branch Collection",
+      "url": "https://www.ndip.org/branches",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
     }
   },
   "zones": {
