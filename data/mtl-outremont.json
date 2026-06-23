@@ -1,13 +1,44 @@
 {
   "id": "mtl-outremont",
   "name": "Outremont",
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-23",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
-      "title": "Outremont Collection Lookup",
-      "url": "https://montreal.ca/en/info-collections",
-      "icon": "info"
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=36&postalCode=H2V+3A6",
+      "title": "Info-Collectes — Collection schedule and rules",
+      "icon": "info",
+      "showLink": false
+    },
+    "garbage": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=36&postalCode=H2V+3A6",
+      "title": "Household waste rules",
+      "icon": "garbage",
+      "showLink": false
+    },
+    "recycling": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=36&postalCode=H2V+3A6",
+      "title": "Recycling rules",
+      "icon": "recycling",
+      "showLink": false
+    },
+    "organics": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=36&postalCode=H2V+3A6",
+      "title": "Organic waste rules",
+      "icon": "organics",
+      "showLink": false
+    },
+    "bulky": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=36&postalCode=H2V+3A6",
+      "title": "Bulky items rules",
+      "icon": "bulky",
+      "showLink": false
+    },
+    "leaves": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=36&postalCode=H2V+3A6",
+      "title": "Green waste rules",
+      "icon": "leaves",
+      "showLink": false
     }
   },
   "zones": {
@@ -16,11 +47,12 @@
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Wednesdays. Place bins curbside between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins between 5:30 a.m. and 8 a.m. Use the city-issued brown bin."
         },
         "leaves": {
           "dayOfWeek": 2,
@@ -50,12 +82,13 @@
             "2026-11-10",
             "2026-11-17",
             "2026-11-24"
-          ]
+          ],
+          "notes": "Seasonal Tuesdays April–November. No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto8am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre",
+          "notes": "1st and 3rd Tuesday. Residential only. Place items in the lane between 7 p.m. night before and 8 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre.",
           "weekOfMonth": [
             1,
             3
@@ -63,7 +96,8 @@
         },
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. Place bins in the lane behind your building between 5:30 a.m. and 8 a.m. If no lane, place at curb in front."
         }
       },
       "boundary": [

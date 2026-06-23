@@ -1,13 +1,44 @@
 {
   "id": "mtl-villeray-saint-michel-parc-extension",
   "name": "Villeray–Saint-Michel–Parc-Extension",
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-23",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
-      "title": "Villeray–Saint-Michel–Parc-Extension Collection Lookup",
-      "url": "https://montreal.ca/en/info-collections",
-      "icon": "info"
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=8404&postalCode=H1Z+2V1",
+      "title": "Info-Collectes — Collection schedule and rules",
+      "icon": "info",
+      "showLink": false
+    },
+    "garbage": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=8404&postalCode=H1Z+2V1",
+      "title": "Household waste rules",
+      "icon": "garbage",
+      "showLink": false
+    },
+    "recycling": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=8404&postalCode=H1Z+2V1",
+      "title": "Recycling rules",
+      "icon": "recycling",
+      "showLink": false
+    },
+    "organics": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=8404&postalCode=H1Z+2V1",
+      "title": "Organic waste rules",
+      "icon": "organics",
+      "showLink": false
+    },
+    "bulky": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=8404&postalCode=H1Z+2V1",
+      "title": "Bulky items rules",
+      "icon": "bulky",
+      "showLink": false
+    },
+    "leaves": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=8404&postalCode=H1Z+2V1",
+      "title": "Green waste rules",
+      "icon": "leaves",
+      "showLink": false
     }
   },
   "zones": {
@@ -16,27 +47,27 @@
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -633,27 +664,27 @@
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -1146,27 +1177,27 @@
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -1839,27 +1870,27 @@
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -2176,27 +2207,27 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -3081,27 +3112,27 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -3938,27 +3969,27 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -4299,27 +4330,27 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -5036,27 +5067,27 @@
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -5601,27 +5632,27 @@
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -6266,27 +6297,27 @@
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -7031,27 +7062,27 @@
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -7808,27 +7839,27 @@
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -8917,27 +8948,27 @@
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -9510,27 +9541,27 @@
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -9867,27 +9898,27 @@
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am"
+          "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight8pmto7am | bulkyResidentialOnly"
+          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         }
       },
       "boundary": [

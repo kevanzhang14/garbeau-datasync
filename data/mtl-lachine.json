@@ -1,13 +1,44 @@
 {
   "id": "mtl-lachine",
   "name": "Lachine",
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-23",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
-      "title": "Lachine Collection Lookup",
-      "url": "https://montreal.ca/en/info-collections",
-      "icon": "info"
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3200&postalCode=H8T+1W6",
+      "title": "Info-Collectes — Collection schedule and rules",
+      "icon": "info",
+      "showLink": false
+    },
+    "garbage": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3200&postalCode=H8T+1W6",
+      "title": "Household waste rules",
+      "icon": "garbage",
+      "showLink": false
+    },
+    "recycling": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3200&postalCode=H8T+1W6",
+      "title": "Recycling rules",
+      "icon": "recycling",
+      "showLink": false
+    },
+    "organics": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3200&postalCode=H8T+1W6",
+      "title": "Organic waste rules",
+      "icon": "organics",
+      "showLink": false
+    },
+    "bulky": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3200&postalCode=H8T+1W6",
+      "title": "Bulky items rules",
+      "icon": "bulky",
+      "showLink": false
+    },
+    "leaves": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3200&postalCode=H8T+1W6",
+      "title": "Green waste rules",
+      "icon": "leaves",
+      "showLink": false
     }
   },
   "zones": {
@@ -16,7 +47,7 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with household garbage."
         },
         "recycling": {
           "dayOfWeek": 2,
@@ -26,7 +57,7 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "bulky": {
           "dayOfWeek": 5,
@@ -35,11 +66,12 @@
             1,
             3
           ],
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "1st and 3rd Thursday. Place items between 7 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [
@@ -6769,7 +6801,7 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "bulky": {
           "dayOfWeek": 5,
@@ -6779,16 +6811,17 @@
             4,
             3
           ],
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "1st and 3rd Thursday. Place items between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with household garbage."
         },
         "leaves": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [
@@ -7518,17 +7551,17 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with household garbage."
         },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "bulky": {
           "dayOfWeek": 5,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am",
+          "notes": "1st and 3rd Thursday. Place items between 7 p.m. night before and 7 a.m.",
           "weekOfMonth": [
             1,
             3
@@ -7536,7 +7569,8 @@
         },
         "leaves": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [
@@ -13906,21 +13940,22 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with household garbage."
         },
         "bulky": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "1st and 3rd Thursday. Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "leaves": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [

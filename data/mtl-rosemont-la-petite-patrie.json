@@ -1,13 +1,44 @@
 {
   "id": "mtl-rosemont-la-petite-patrie",
   "name": "Rosemont–La Petite-Patrie",
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-23",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
-      "title": "Rosemont–La Petite-Patrie Collection Lookup",
-      "url": "https://montreal.ca/en/info-collections",
-      "icon": "info"
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=6571&postalCode=H2S+2Y1",
+      "title": "Info-Collectes — Collection schedule and rules",
+      "icon": "info",
+      "showLink": false
+    },
+    "garbage": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=6571&postalCode=H2S+2Y1",
+      "title": "Household waste rules",
+      "icon": "garbage",
+      "showLink": false
+    },
+    "recycling": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=6571&postalCode=H2S+2Y1",
+      "title": "Recycling rules",
+      "icon": "recycling",
+      "showLink": false
+    },
+    "organics": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=6571&postalCode=H2S+2Y1",
+      "title": "Organic waste rules",
+      "icon": "organics",
+      "showLink": false
+    },
+    "bulky": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=6571&postalCode=H2S+2Y1",
+      "title": "Bulky items rules",
+      "icon": "bulky",
+      "showLink": false
+    },
+    "leaves": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=6571&postalCode=H2S+2Y1",
+      "title": "Green waste rules",
+      "icon": "leaves",
+      "showLink": false
     }
   },
   "zones": {
@@ -15,27 +46,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursMorning5to8 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursMorning5to8"
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
       },
       "boundary": [
@@ -897,26 +929,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursMorning5to8 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
       },
       "boundary": [
@@ -1256,26 +1290,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursMorning5to8 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
       },
       "boundary": [
@@ -1692,25 +1728,27 @@
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursMorning5to8 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         }
       },
       "boundary": [
@@ -2043,25 +2081,27 @@
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursMorning5to8 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -3145,26 +3185,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursEvening3to6 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -3484,26 +3526,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursEvening3to6 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -3911,26 +3955,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursEvening3to6 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -4210,26 +4256,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursMorning5to8 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -4585,26 +4633,28 @@
       "recurring": {
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "notes": "hoursMorning5to8 | containerGreenWastePaperNoPlastic"
+          "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyMattressWithGarbage | bulkyAppliancesEcocentre | bulkyMax5m3"
+          "notes": "Wednesdays. Residential only. Place items between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
       },
       "boundary": [

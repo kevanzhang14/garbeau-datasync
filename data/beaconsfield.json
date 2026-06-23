@@ -1,7 +1,7 @@
 {
   "id": "beaconsfield",
   "name": "Beaconsfield",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
   "resources": {
     "general": {
@@ -57,15 +57,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "bulky": {
           "dayOfWeek": null,
@@ -246,15 +249,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "bulky": {
           "dayOfWeek": null,

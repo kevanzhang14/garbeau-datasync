@@ -1,13 +1,44 @@
 {
   "id": "mtl-ville-marie",
   "name": "Ville-Marie",
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-23",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
-      "title": "Ville-Marie Collection Lookup",
-      "url": "https://montreal.ca/en/info-collections",
-      "icon": "info"
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=7807&postalCode=H8P+3S9",
+      "title": "Info-Collectes — Collection schedule and rules",
+      "icon": "info",
+      "showLink": false
+    },
+    "garbage": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=7807&postalCode=H8P+3S9",
+      "title": "Household waste rules",
+      "icon": "garbage",
+      "showLink": false
+    },
+    "recycling": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=7807&postalCode=H8P+3S9",
+      "title": "Recycling rules",
+      "icon": "recycling",
+      "showLink": false
+    },
+    "organics": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=7807&postalCode=H8P+3S9",
+      "title": "Organic waste rules",
+      "icon": "organics",
+      "showLink": false
+    },
+    "bulky": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=7807&postalCode=H8P+3S9",
+      "title": "Bulky items rules",
+      "icon": "bulky",
+      "showLink": false
+    },
+    "leaves": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=7807&postalCode=H8P+3S9",
+      "title": "Green waste rules",
+      "icon": "leaves",
+      "showLink": false
     }
   },
   "zones": {
@@ -25,12 +56,12 @@
             "start": "05-31",
             "end": "10-01"
           },
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am",
+          "notes": "Place items between 7 p.m. night before and 7 a.m.",
           "weekOfMonth": [
             1,
             3
@@ -56,12 +87,12 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -4219,12 +4250,12 @@
         "garbage": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -4246,12 +4277,12 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am",
+          "notes": "Place items between 7 p.m. night before and 7 a.m.",
           "weekOfMonth": [
             1,
             3
@@ -6929,12 +6960,12 @@
             "start": "05-31",
             "end": "10-01"
           },
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am",
+          "notes": "Place items between 7 p.m. night before and 7 a.m.",
           "weekOfMonth": [
             2,
             4
@@ -6960,12 +6991,12 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -8395,12 +8426,12 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "notes": "hoursOvernight7pmto7am",
+          "notes": "Place items between 7 p.m. night before and 7 a.m.",
           "weekOfMonth": [
             2,
             4
@@ -8426,12 +8457,12 @@
             "2026-12-15",
             "2026-12-20"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -8695,7 +8726,8 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -8710,17 +8742,18 @@
             "2026-06-10",
             "2026-09-16",
             "2026-11-11"
-          ]
+          ],
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -10353,11 +10386,12 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         },
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -10367,7 +10401,7 @@
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -10375,7 +10409,8 @@
           "dates": {
             "start": "04-15",
             "end": "06-10"
-          }
+          },
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -11188,11 +11223,12 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         },
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -11202,7 +11238,7 @@
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -11210,7 +11246,8 @@
           "dates": {
             "start": "04-15",
             "end": "06-10"
-          }
+          },
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -11515,11 +11552,12 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         },
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -11529,7 +11567,7 @@
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -11537,7 +11575,8 @@
           "dates": {
             "start": "04-15",
             "end": "06-10"
-          }
+          },
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -12078,7 +12117,7 @@
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 2,
@@ -12093,17 +12132,18 @@
             "2026-06-10",
             "2026-09-16",
             "2026-11-11"
-          ]
+          ],
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -15852,12 +15892,12 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         },
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 2,
@@ -15867,7 +15907,7 @@
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -15875,7 +15915,8 @@
           "dates": {
             "start": "04-15",
             "end": "06-10"
-          }
+          },
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -16908,12 +16949,12 @@
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         },
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 2,
@@ -16923,7 +16964,7 @@
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -16931,7 +16972,8 @@
           "dates": {
             "start": "04-15",
             "end": "06-10"
-          }
+          },
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -17824,7 +17866,7 @@
         "garbage": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 4,
@@ -17839,17 +17881,18 @@
             "2026-06-10",
             "2026-09-16",
             "2026-11-11"
-          ]
+          ],
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [
@@ -19086,7 +19129,7 @@
         "garbage": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 1,
@@ -19101,17 +19144,18 @@
             "2026-06-10",
             "2026-09-16",
             "2026-11-11"
-          ]
+          ],
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | bulkyMattressWithGarbage"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
       "boundary": [

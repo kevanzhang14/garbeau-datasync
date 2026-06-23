@@ -1,7 +1,7 @@
 {
   "id": "sainte-anne-de-bellevue",
   "name": "Sainte-Anne-de-Bellevue",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
   "resources": {
     "general": {
@@ -58,15 +58,18 @@
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "biweekly",
-          "anchorDate": "2026-04-02"
+          "anchorDate": "2026-04-02",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "bulky": {
           "dayOfWeek": null,

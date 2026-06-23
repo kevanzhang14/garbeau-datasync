@@ -1,7 +1,7 @@
 {
   "id": "mont-royal",
   "name": "Mont-Royal",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.ville.mont-royal.qc.ca/en/services/environment/residual-materials-collection-1",
   "resources": {
     "general": {
@@ -50,15 +50,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "bulky": {
           "dayOfWeek": 3,

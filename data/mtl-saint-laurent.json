@@ -1,13 +1,44 @@
 {
   "id": "mtl-saint-laurent",
   "name": "Saint-Laurent",
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-23",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
-      "title": "Saint-Laurent Collection Lookup",
-      "url": "https://montreal.ca/en/info-collections",
-      "icon": "info"
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3620&postalCode=H4R+3K4",
+      "title": "Info-Collectes — Collection schedule and rules",
+      "icon": "info",
+      "showLink": false
+    },
+    "garbage": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3620&postalCode=H4R+3K4",
+      "title": "Household waste rules",
+      "icon": "garbage",
+      "showLink": false
+    },
+    "recycling": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3620&postalCode=H4R+3K4",
+      "title": "Recycling rules",
+      "icon": "recycling",
+      "showLink": false
+    },
+    "organics": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3620&postalCode=H4R+3K4",
+      "title": "Organic waste rules",
+      "icon": "organics",
+      "showLink": false
+    },
+    "bulky": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3620&postalCode=H4R+3K4",
+      "title": "Bulky items rules",
+      "icon": "bulky",
+      "showLink": false
+    },
+    "leaves": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=3620&postalCode=H4R+3K4",
+      "title": "Green waste rules",
+      "icon": "leaves",
+      "showLink": false
     }
   },
   "zones": {
@@ -16,26 +47,28 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Every other week (see collection calendar). Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins curbside between 7 p.m. night before and 7 a.m. Containers, packaging, and printed materials only."
         },
         "bulky": {
           "dayOfWeek": 5,
           "frequency": "monthly",
           "weekOfMonth": 1,
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "leaves": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [
@@ -952,26 +985,28 @@
         "garbage": {
           "dayOfWeek": 2,
           "frequency": "biweekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Every other week (see collection calendar). Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins curbside between 7 p.m. night before and 7 a.m. Containers, packaging, and printed materials only."
         },
         "bulky": {
           "dayOfWeek": 2,
           "frequency": "monthly",
           "weekOfMonth": 1,
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "leaves": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [
@@ -1772,26 +1807,28 @@
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "biweekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Every other week (see collection calendar). Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins curbside between 7 p.m. night before and 7 a.m. Containers, packaging, and printed materials only."
         },
         "bulky": {
           "dayOfWeek": 1,
           "frequency": "monthly",
           "weekOfMonth": 1,
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "leaves": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [
@@ -2356,26 +2393,28 @@
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "biweekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Every other week (see collection calendar). Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place bins curbside between 7 p.m. night before and 7 a.m. Containers, packaging, and printed materials only."
         },
         "bulky": {
           "dayOfWeek": 4,
           "frequency": "monthly",
           "weekOfMonth": 1,
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place items between 7 p.m. night before and 7 a.m."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am | leavesIncludedWithOrganics"
+          "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "leaves": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Included with organic waste collection."
         }
       },
       "boundary": [

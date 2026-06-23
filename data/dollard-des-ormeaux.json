@@ -1,7 +1,7 @@
 {
   "id": "dollard-des-ormeaux",
   "name": "Dollard-des-Ormeaux",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://ville.ddo.qc.ca/en/live/collection/",
   "resources": {
     "general": {
@@ -57,15 +57,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Tuesdays for single-family homes. Place closed bin or tied bag at curb between 7 p.m. night before and 7 a.m. Bulk items accepted: furniture, appliances, BBQs (no propane), mattresses."
         },
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Blue bin Mondays, curbside from 7 p.m. Sunday. If it's a container, packaging, or printed matter → blue bin. Includes polystyrene trays and coffee cups. Empty, rinse, flatten cardboard."
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Brown bin Mondays, curbside between 7 p.m. Sunday and 7 a.m. Monday. All food waste accepted (meat, bones, dairy). No plastic bags, Styrofoam, or diapers."
         },
         "bulky": {
           "dayOfWeek": 2,

@@ -1,7 +1,7 @@
 {
   "id": "pointe-claire",
   "name": "Pointe-Claire",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
   "zones": {
     "Sector A": {
@@ -16,15 +16,17 @@
             "endDate": "2026-08-26",
             "frequency": "weekly"
           },
-          "notes": "Place bin at edge of road after 6 p.m. night before or before 7 a.m. on collection day. Wheels and handle must face your residence. Bring bins back before 10 p.m. on collection day."
+          "notes": "Weekly June–August, biweekly Sept–May. Place bin in driveway at curb after 6 p.m. night before or by 7 a.m. No mattresses, electronics, tires, or construction materials."
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Thursdays. City-issued blue bin. Container, packaging, or printed item → blue bin. Empty, rinse, flatten cardboard. No Styrofoam, batteries, or aerosol cans."
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Mondays. City-issued green bin only. All food scraps and soiled paper accepted. No plastic bags — even compostable or biodegradable."
         },
         "bulky": {
           "dayOfWeek": null,
@@ -206,15 +208,17 @@
             "frequency": "weekly",
             "dayOfWeek": 3
           },
-          "notes": "Place bin at edge of road after 6 p.m. night before or before 7 a.m. on collection day. Wheels and handle must face your residence. Bring bins back before 10 p.m. on collection day."
+          "notes": "Weekly June–August, biweekly Sept–May. Place bin in driveway at curb after 6 p.m. night before or by 7 a.m. No mattresses, electronics, tires, or construction materials."
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Thursdays. City-issued blue bin. Container, packaging, or printed item → blue bin. Empty, rinse, flatten cardboard. No Styrofoam, batteries, or aerosol cans."
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Mondays. City-issued green bin only. All food scraps and soiled paper accepted. No plastic bags — even compostable or biodegradable."
         },
         "bulky": {
           "dayOfWeek": null,

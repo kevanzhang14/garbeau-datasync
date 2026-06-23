@@ -1,7 +1,7 @@
 {
   "id": "baie-durfe",
   "name": "Baie-D'Urfe",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.baie-durfe.qc.ca/en/citizen-services/page/collection-calendar",
   "resources": {
     "general": {
@@ -62,16 +62,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Place at curb before 7 a.m. Wednesday (or after 8 p.m. Tuesday). Carpets must be cut, rolled, and tied. Items rejected from bulky pickup go with regular garbage."
         },
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly blue bin. If it's a container, packaging, or printed material, it goes in. Includes chip bags, yogurt containers, and beverage cups. Empty, rinse, flatten cardboard."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Has seasonal override - update dates manually from PDF calendar"
+          "notes": "Weekly Tuesdays (biweekly in winter). No plastic bags — use paper bags or newspaper. Keep brown bin away from blue bin."
         },
         "bulky": {
           "dayOfWeek": null,

@@ -1,13 +1,44 @@
 {
   "id": "mtl-saint-leonard",
   "name": "Saint-Léonard",
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-23",
   "source": "https://donnees.montreal.ca/dataset/2df0fa28-7a7b-46c6-912f-93b215bd201e",
   "resources": {
     "general": {
-      "title": "Saint-Léonard Collection Lookup",
-      "url": "https://montreal.ca/en/info-collections",
-      "icon": "info"
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=9004&postalCode=H1R+2W1",
+      "title": "Info-Collectes — Collection schedule and rules",
+      "icon": "info",
+      "showLink": false
+    },
+    "garbage": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=9004&postalCode=H1R+2W1",
+      "title": "Household waste rules",
+      "icon": "garbage",
+      "showLink": false
+    },
+    "recycling": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=9004&postalCode=H1R+2W1",
+      "title": "Recycling rules",
+      "icon": "recycling",
+      "showLink": false
+    },
+    "organics": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=9004&postalCode=H1R+2W1",
+      "title": "Organic waste rules",
+      "icon": "organics",
+      "showLink": false
+    },
+    "bulky": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=9004&postalCode=H1R+2W1",
+      "title": "Bulky items rules",
+      "icon": "bulky",
+      "showLink": false
+    },
+    "leaves": {
+      "url": "https://montreal.ca/en/info-collections/results?civicNumber=9004&postalCode=H1R+2W1",
+      "title": "Green waste rules",
+      "icon": "leaves",
+      "showLink": false
     }
   },
   "zones": {
@@ -21,7 +52,7 @@
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Use the city-issued brown bin. No plastic bags."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -59,7 +90,7 @@
             "2026-11-11",
             "2026-11-18"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -68,12 +99,12 @@
             1,
             3
           ],
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyAppliancesEcocentre"
+          "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -403,7 +434,7 @@
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Use the city-issued brown bin. No plastic bags."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -441,7 +472,7 @@
             "2026-11-11",
             "2026-11-18"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -450,12 +481,12 @@
             1,
             3
           ],
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyAppliancesEcocentre"
+          "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -877,7 +908,7 @@
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Use the city-issued brown bin. No plastic bags."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -915,7 +946,7 @@
             "2026-11-11",
             "2026-11-18"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -924,12 +955,12 @@
             1,
             3
           ],
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyAppliancesEcocentre"
+          "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [
@@ -2665,7 +2696,7 @@
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Use the city-issued brown bin. No plastic bags."
         },
         "leaves": {
           "dayOfWeek": 3,
@@ -2703,7 +2734,7 @@
             "2026-11-11",
             "2026-11-18"
           ],
-          "notes": "hoursOvernight7pmto7am | containerGreenWastePaperNoPlastic"
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -2712,12 +2743,12 @@
             1,
             3
           ],
-          "notes": "hoursOvernight7pmto7am | bulkyResidentialOnly | bulkyAppliancesEcocentre"
+          "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         },
         "garbage": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
       "boundary": [

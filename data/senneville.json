@@ -1,7 +1,7 @@
 {
   "id": "senneville",
   "name": "Senneville",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.senneville.ca/en/services/waste-collection/",
   "resources": {
     "general": {
@@ -57,15 +57,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Thursdays, 7 a.m. Black bin only. For items that can't be recycled or composted. No extra items beside the bin."
         },
         "recycling": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Mondays, 7 a.m. Blue bin. Containers, packaging, and printed paper only. No items beside the bin."
         },
         "organics": {
           "dayOfWeek": 1,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Mondays, 7 a.m. Brown bin, latch unlocked. No plastic bags (even biodegradable) — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": null,

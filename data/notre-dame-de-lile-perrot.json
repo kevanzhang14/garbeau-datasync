@@ -1,7 +1,7 @@
 {
   "id": "notre-dame-de-lile-perrot",
   "name": "Notre-Dame-de-l'Ile-Perrot",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.ndip.org/calendrier-des-collectes",
   "resources": {
     "general": {
@@ -62,16 +62,18 @@
           "extraDates": [
             "2026-01-02"
           ],
-          "notes": "Biweekly Thursday schedule anchored to the first regular Thursday cycle after the Jan 2 holiday pickup."
+          "notes": "Black bin every two weeks. Place from 7 p.m. night before. Only items that can't go in the brown or blue bin belong here."
         },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-12"
+          "anchorDate": "2026-01-12",
+          "notes": "Blue bin every two weeks (since January 2026). Only containers, packaging, and printed materials. Flatten cardboard inside bin with lid closed."
         },
         "organics": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Brown bin collection. Green waste accepted. No plastic bags of any kind — even compostable or biodegradable."
         },
         "bulky": {
           "dayOfWeek": 4,

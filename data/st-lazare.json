@@ -1,7 +1,7 @@
 {
   "id": "st-lazare",
   "name": "Saint-Lazare",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/collection-calendar",
   "resources": {
     "general": {
@@ -59,17 +59,20 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-07"
+          "anchorDate": "2026-01-07",
+          "notes": "Biweekly Wednesdays, alternating by sector. Black bin at private entrance by 7 a.m. For items that can't be recycled or composted. No extra bags beside bin."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-13"
+          "anchorDate": "2026-01-13",
+          "notes": "Biweekly Tuesdays. Blue bin at private entrance by 7 a.m. Containers, packaging, and printed paper only."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "anchorDate": "2026-01-05"
+          "anchorDate": "2026-01-05",
+          "notes": "Weekly — Mondays (east) or Thursdays (west). Brown bin, handle unlocked. No plastic bags (even compostable) — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": null,
@@ -510,12 +513,14 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-14"
+          "anchorDate": "2026-01-14",
+          "notes": "Biweekly Wednesdays, alternating by sector. Black bin at private entrance by 7 a.m. For items that can't be recycled or composted. No extra bags beside bin."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-13"
+          "anchorDate": "2026-01-13",
+          "notes": "Biweekly Tuesdays. Blue bin at private entrance by 7 a.m. Containers, packaging, and printed paper only."
         },
         "organics": {
           "dayOfWeek": 4,
@@ -523,7 +528,8 @@
           "anchorDate": "2026-01-08",
           "extraDates": [
             "2026-01-02"
-          ]
+          ],
+          "notes": "Weekly — Mondays (east) or Thursdays (west). Brown bin, handle unlocked. No plastic bags (even compostable) — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": null,

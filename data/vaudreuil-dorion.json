@@ -1,7 +1,7 @@
 {
   "id": "vaudreuil-dorion",
   "name": "Vaudreuil-Dorion",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
   "resources": {
     "general": {
@@ -59,12 +59,14 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-07"
+          "anchorDate": "2026-01-07",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-09"
+          "anchorDate": "2026-01-09",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 2,
@@ -107,7 +109,8 @@
             "2026-08-31",
             "2026-09-21",
             "2026-10-12"
-          ]
+          ],
+          "notes": "See branch collection rules and dates on the city website."
         }
       },
       "boundary": [
@@ -261,12 +264,14 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-07"
+          "anchorDate": "2026-01-07",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-09"
+          "anchorDate": "2026-01-09",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 2,
@@ -309,7 +314,8 @@
             "2026-08-31",
             "2026-09-21",
             "2026-10-12"
-          ]
+          ],
+          "notes": "See branch collection rules and dates on the city website."
         }
       },
       "boundary": [
@@ -447,12 +453,14 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-14"
+          "anchorDate": "2026-01-14",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-16"
+          "anchorDate": "2026-01-16",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 2,
@@ -495,7 +503,8 @@
             "2026-09-07",
             "2026-09-28",
             "2026-10-19"
-          ]
+          ],
+          "notes": "See branch collection rules and dates on the city website."
         }
       },
       "boundary": [
@@ -629,12 +638,14 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-14"
+          "anchorDate": "2026-01-14",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-16"
+          "anchorDate": "2026-01-16",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 2,
@@ -677,7 +688,8 @@
             "2026-09-14",
             "2026-10-05",
             "2026-10-26"
-          ]
+          ],
+          "notes": "See branch collection rules and dates on the city website."
         }
       },
       "boundary": [
@@ -999,12 +1011,14 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-14"
+          "anchorDate": "2026-01-14",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-16"
+          "anchorDate": "2026-01-16",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 2,
@@ -1047,7 +1061,8 @@
             "2026-09-14",
             "2026-10-05",
             "2026-10-26"
-          ]
+          ],
+          "notes": "See branch collection rules and dates on the city website."
         }
       },
       "boundary": [

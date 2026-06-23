@@ -1,7 +1,7 @@
 {
   "id": "rigaud",
   "name": "Rigaud",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-23",
   "source": "https://www.ville.rigaud.qc.ca/matieres-residuelles",
   "resources": {
     "general": {
@@ -58,16 +58,19 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-02"
+          "anchorDate": "2026-01-02",
+          "notes": "Black bin every two weeks, Fridays. Place in driveway from 7 p.m. night before, lid closed. For items that can't be recycled, composted, or reused (diapers, ceramics, cigarette butts)."
         },
         "recycling": {
           "dayOfWeek": 1,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-05"
+          "anchorDate": "2026-01-05",
+          "notes": "Blue bin every two weeks (since January 2026). Container, packaging, or printed item → blue bin. Flatten cardboard, rinse. Twice yearly, extra cardboard and clear bags of surplus recyclables accepted beside bin."
         },
         "organics": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Weekly Wednesdays. Almost all organic waste accepted: food scraps, meat, dairy, garden waste, pet litter. No plastic bags — even compostable. Items beside the bin will not be picked up."
         },
         "leaves": {
           "dayOfWeek": null,
