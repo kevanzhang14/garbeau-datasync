@@ -3,6 +3,55 @@
   "name": "Terrebonne",
   "lastUpdated": "2026-06-15",
   "source": "https://terrebonne.ca/collectes/",
+  "resources": {
+    "general": {
+      "title": "Terrebonne Waste Collection",
+      "url": "https://terrebonne.ca/collectes/",
+      "icon": "info"
+    },
+    "garbage": {
+      "title": "Garbage Collection",
+      "url": "https://terrebonne.ca/collecte-des-dechets/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recycling Collection",
+      "url": "https://terrebonne.ca/recuperation/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "organics": {
+      "title": "Organics Collection",
+      "url": "https://terrebonne.ca/matieres-organiques-compost/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "bulky": {
+      "title": "Bulky Waste Collection",
+      "url": "https://terrebonne.ca/encombrants/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See bulk item collection rules and dates on the city website."
+    },
+    "leaves": {
+      "title": "Leaves Collection",
+      "url": "https://terrebonne.ca/collecte-de-residus-verts/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See leaf collection rules and dates on the city website."
+    },
+    "christmas_tree": {
+      "title": "Christmas Tree Collection",
+      "url": "https://terrebonne.ca/collecte-de-sapins/",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See Christmas tree collection dates on the city website."
+    }
+  },
   "zones": {
     "A-1": {
       "label": "Zone A-1",
@@ -2185,73 +2234,6 @@
   "lookupStrategy": {
     "type": "boundary"
   },
-  "cityBoundary": [
-    [
-      45.659861,
-      -73.863174
-    ],
-    [
-      45.659861,
-      -73.47762499999999
-    ],
-    [
-      45.839517,
-      -73.47762499999999
-    ],
-    [
-      45.839517,
-      -73.863174
-    ]
-  ],
-  "resources": {
-    "general": {
-      "title": "Terrebonne Waste Collection",
-      "url": "https://terrebonne.ca/collectes/",
-      "icon": "info"
-    },
-    "garbage": {
-      "title": "Garbage Collection",
-      "url": "https://terrebonne.ca/collecte-des-dechets/",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
-    },
-    "recycling": {
-      "title": "Recycling Collection",
-      "url": "https://terrebonne.ca/recuperation/",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
-    },
-    "organics": {
-      "title": "Organics Collection",
-      "url": "https://terrebonne.ca/matieres-organiques-compost/",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
-    },
-    "bulky": {
-      "title": "Bulky Waste Collection",
-      "url": "https://terrebonne.ca/encombrants/",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
-    },
-    "leaves": {
-      "title": "Leaves Collection",
-      "url": "https://terrebonne.ca/collecte-de-residus-verts/",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See leaf collection rules and dates on the city website."
-    },
-    "christmas_tree": {
-      "title": "Christmas Tree Collection",
-      "url": "https://terrebonne.ca/collecte-de-sapins/",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See Christmas tree collection dates on the city website."
-    }
-  },
   "special": {
     "leaves": {
       "dates": [
@@ -2284,5 +2266,23 @@
       ],
       "notes": "Single annual collection. Remove all decorations, no artificial snow."
     }
-  }
+  },
+  "cityBoundary": [
+    [
+      45.659861,
+      -73.863174
+    ],
+    [
+      45.659861,
+      -73.47762499999999
+    ],
+    [
+      45.839517,
+      -73.47762499999999
+    ],
+    [
+      45.839517,
+      -73.863174
+    ]
+  ]
 }

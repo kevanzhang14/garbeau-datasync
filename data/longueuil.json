@@ -3,31 +3,6 @@
   "name": "Longueuil",
   "lastUpdated": "2026-06-22",
   "source": "https://longueuil.quebec/fr/services/matieres-residuelles-et-collectes",
-  "lookupStrategy": {
-    "type": "boundary"
-  },
-  "cityBoundary": [
-    [
-      45.4277,
-      -73.53209
-    ],
-    [
-      45.4277,
-      -73.331291
-    ],
-    [
-      45.593901,
-      -73.331291
-    ],
-    [
-      45.593901,
-      -73.53209
-    ],
-    [
-      45.4277,
-      -73.53209
-    ]
-  ],
   "resources": {
     "general": {
       "title": "Matières résiduelles et collectes",
@@ -1842,5 +1817,30 @@
         }
       }
     }
-  }
+  },
+  "lookupStrategy": {
+    "type": "boundary"
+  },
+  "cityBoundary": [
+    [
+      45.4277,
+      -73.53209
+    ],
+    [
+      45.4277,
+      -73.331291
+    ],
+    [
+      45.593901,
+      -73.331291
+    ],
+    [
+      45.593901,
+      -73.53209
+    ],
+    [
+      45.4277,
+      -73.53209
+    ]
+  ]
 }

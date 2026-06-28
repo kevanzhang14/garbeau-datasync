@@ -3,6 +3,55 @@
   "name": "Pointe-Claire",
   "lastUpdated": "2026-06-23",
   "source": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
+  "resources": {
+    "general": {
+      "title": "Pointe-Claire Collection Services",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
+      "icon": "info"
+    },
+    "garbage": {
+      "title": "Household Waste Collection Rules",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/household-waste",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "bulky": {
+      "title": "Bulky Items Collection",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/bulky-items",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Door-to-door collection April-October, 2nd Wednesday of each month. Non-upholstered items too large for regular bins. Mattresses and box springs have separate collection."
+    },
+    "leaves": {
+      "title": "Leaf Collection",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/leaf-collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "Biweekly Monday collection in spring (Apr-Jun) and autumn. Use paper leaf bags, rigid containers, or green rolling bin. No bags collected outside scheduled dates."
+    },
+    "organics": {
+      "title": "Organic Materials Collection",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/organic-materials",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "recycling": {
+      "title": "Recyclables Collection",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/recyclables",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+    },
+    "branches": {
+      "title": "Branch Collection",
+      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/branch-collection",
+      "icon": "external-link",
+      "showLink": true,
+      "note": "See branch collection rules and dates on the city website."
+    }
+  },
   "zones": {
     "Sector A": {
       "label": "Sector A",
@@ -388,55 +437,6 @@
         "lat": 45.463,
         "lng": -73.8036
       }
-    }
-  },
-  "resources": {
-    "general": {
-      "title": "Pointe-Claire Collection Services",
-      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
-      "icon": "info"
-    },
-    "garbage": {
-      "title": "Household Waste Collection Rules",
-      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/household-waste",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
-    },
-    "bulky": {
-      "title": "Bulky Items Collection",
-      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/bulky-items",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "Door-to-door collection April-October, 2nd Wednesday of each month. Non-upholstered items too large for regular bins. Mattresses and box springs have separate collection."
-    },
-    "leaves": {
-      "title": "Leaf Collection",
-      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/leaf-collection",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "Biweekly Monday collection in spring (Apr-Jun) and autumn. Use paper leaf bags, rigid containers, or green rolling bin. No bags collected outside scheduled dates."
-    },
-    "organics": {
-      "title": "Organic Materials Collection",
-      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/organic-materials",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
-    },
-    "recycling": {
-      "title": "Recyclables Collection",
-      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/recyclables",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
-    },
-    "branches": {
-      "title": "Branch Collection",
-      "url": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections/branch-collection",
-      "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
     }
   },
   "cityBoundary": [
