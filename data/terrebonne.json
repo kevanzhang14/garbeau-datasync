@@ -7,8 +7,8 @@
     "A-1": {
       "label": "Zone A-1",
       "centroid": {
-        "lat": 45.78001,
-        "lng": -73.72554
+        "lat": 45.7804,
+        "lng": -73.7401
       },
       "boundary": [
         [
@@ -266,8 +266,8 @@
     "A-2": {
       "label": "Zone A-2",
       "centroid": {
-        "lat": 45.71264,
-        "lng": -73.75744
+        "lat": 45.711,
+        "lng": -73.7603
       },
       "boundary": [
         [
@@ -528,8 +528,8 @@
     "B-1": {
       "label": "Zone B-1",
       "centroid": {
-        "lat": 45.68654,
-        "lng": -73.72031
+        "lat": 45.6912,
+        "lng": -73.7273
       },
       "boundary": [
         [
@@ -796,8 +796,8 @@
     "B-2": {
       "label": "Zone B-2",
       "centroid": {
-        "lat": 45.70133,
-        "lng": -73.6803
+        "lat": 45.7081,
+        "lng": -73.679
       },
       "boundary": [
         [
@@ -1030,8 +1030,8 @@
     "B-3": {
       "label": "Zone B-3",
       "centroid": {
-        "lat": 45.69636,
-        "lng": -73.63978
+        "lat": 45.6925,
+        "lng": -73.6489
       },
       "boundary": [
         [
@@ -1383,8 +1383,8 @@
     "C-1": {
       "label": "Zone C-1",
       "centroid": {
-        "lat": 45.70292,
-        "lng": -73.61434
+        "lat": 45.7097,
+        "lng": -73.6183
       },
       "boundary": [
         [
@@ -1654,8 +1654,8 @@
     "C-2": {
       "label": "Zone C-2",
       "centroid": {
-        "lat": 45.71189,
-        "lng": -73.54875
+        "lat": 45.7221,
+        "lng": -73.5385
       },
       "boundary": [
         [
@@ -1960,8 +1960,8 @@
     "D": {
       "label": "Zone D",
       "centroid": {
-        "lat": 45.69291,
-        "lng": -73.63723
+        "lat": 45.693,
+        "lng": -73.6352
       },
       "boundary": [
         [

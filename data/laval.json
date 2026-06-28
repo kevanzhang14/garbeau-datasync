@@ -191,6 +191,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5639,
+        "lng": -73.849
       }
     },
     "LAVAL-02": {
@@ -279,6 +283,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5462,
+        "lng": -73.8212
       }
     },
     "LAVAL-03": {
@@ -531,6 +539,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5566,
+        "lng": -73.8358
       }
     },
     "LAVAL-04": {
@@ -739,6 +751,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5251,
+        "lng": -73.7969
       }
     },
     "LAVAL-05": {
@@ -1099,6 +1115,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5911,
+        "lng": -73.809
       }
     },
     "LAVAL-06": {
@@ -1327,6 +1347,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.6337,
+        "lng": -73.7602
       }
     },
     "LAVAL-07": {
@@ -1623,6 +1647,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.6001,
+        "lng": -73.7651
       }
     },
     "LAVAL-08": {
@@ -1891,6 +1919,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.6265,
+        "lng": -73.7358
       }
     },
     "LAVAL-09": {
@@ -2151,6 +2183,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5436,
+        "lng": -73.7492
       }
     },
     "LAVAL-10": {
@@ -2303,6 +2339,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5446,
+        "lng": -73.7796
       }
     },
     "LAVAL-11": {
@@ -2503,6 +2543,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5324,
+        "lng": -73.7442
       }
     },
     "LAVAL-12": {
@@ -2655,6 +2699,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5602,
+        "lng": -73.7638
       }
     },
     "LAVAL-13": {
@@ -2987,6 +3035,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5559,
+        "lng": -73.7013
       }
     },
     "LAVAL-14": {
@@ -3351,6 +3403,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5781,
+        "lng": -73.7252
       }
     },
     "LAVAL-15": {
@@ -3879,6 +3935,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5754,
+        "lng": -73.687
       }
     },
     "LAVAL-16": {
@@ -4079,6 +4139,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.6027,
+        "lng": -73.7117
       }
     },
     "LAVAL-17": {
@@ -4323,6 +4387,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.5949,
+        "lng": -73.6743
       }
     },
     "LAVAL-18": {
@@ -4431,6 +4499,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.6628,
+        "lng": -73.6535
       }
     },
     "LAVAL-19": {
@@ -4835,6 +4907,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.6148,
+        "lng": -73.67
       }
     },
     "LAVAL-20": {
@@ -5127,6 +5203,10 @@
           "frequency": "weekly",
           "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         }
+      },
+      "centroid": {
+        "lat": 45.6503,
+        "lng": -73.6194
       }
     }
   },

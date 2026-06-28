@@ -1951,7 +1951,11 @@
         "organics",
         "leaves",
         "bulky"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6327,
+        "lng": -73.5955
+      }
     },
     "RDPPAT-E-2": {
       "recurring": {
@@ -4146,7 +4150,11 @@
         "organics",
         "leaves",
         "bulky"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6469,
+        "lng": -73.5103
+      }
     },
     "RDPPAT-E-3": {
       "recurring": {
@@ -8853,7 +8861,11 @@
         "organics",
         "leaves",
         "bulky"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6765,
+        "lng": -73.512
+      }
     },
     "RDPPAT-E-4": {
       "recurring": {
@@ -11188,7 +11200,11 @@
         "organics",
         "leaves",
         "bulky"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6502,
+        "lng": -73.5619
+      }
     },
     "CD-E-1": {
       "recurring": {
@@ -12456,7 +12472,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.667,
+        "lng": -73.5337
+      }
     },
     "CD-E-2": {
       "recurring": {
@@ -13824,7 +13844,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6274,
+        "lng": -73.6004
+      }
     },
     "CD-E-3": {
       "recurring": {
@@ -15024,7 +15048,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6505,
+        "lng": -73.5659
+      }
     },
     "CD-E-4": {
       "recurring": {
@@ -16568,7 +16596,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6401,
+        "lng": -73.5825
+      }
     },
     "CD-R-1": {
       "recurring": {
@@ -18616,7 +18648,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6509,
+        "lng": -73.5134
+      }
     },
     "CD-R-2": {
       "recurring": {
@@ -21660,7 +21696,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6637,
+        "lng": -73.4996
+      }
     },
     "CD-R-3": {
       "recurring": {
@@ -24556,7 +24596,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.6867,
+        "lng": -73.4989
+      }
     },
     "CD-R-4": {
       "recurring": {
@@ -27136,7 +27180,11 @@
       ],
       "_no_scrape": [
         "recycling"
-      ]
+      ],
+      "centroid": {
+        "lat": 45.645,
+        "lng": -73.4947
+      }
     }
   },
   "cityBoundary": [

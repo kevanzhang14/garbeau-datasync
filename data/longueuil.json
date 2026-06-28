@@ -88,8 +88,8 @@
     "LON-1": {
       "label": "Sector 1",
       "centroid": {
-        "lat": 45.515358,
-        "lng": -73.486638
+        "lat": 45.5174,
+        "lng": -73.4821
       },
       "boundary": [
         [
@@ -255,8 +255,8 @@
     "LON-2": {
       "label": "Sector 2",
       "centroid": {
-        "lat": 45.521614,
-        "lng": -73.502744
+        "lat": 45.5264,
+        "lng": -73.5084
       },
       "boundary": [
         [
@@ -469,8 +469,8 @@
     "LON-3": {
       "label": "Sector 3",
       "centroid": {
-        "lat": 45.544635,
-        "lng": -73.47741
+        "lat": 45.5434,
+        "lng": -73.4821
       },
       "boundary": [
         [
@@ -651,8 +651,8 @@
     "LON-4": {
       "label": "Sector 4",
       "centroid": {
-        "lat": 45.552245,
-        "lng": -73.466714
+        "lat": 45.5629,
+        "lng": -73.4656
       },
       "boundary": [
         [
@@ -869,8 +869,8 @@
     "LON-5": {
       "label": "Sector 5",
       "centroid": {
-        "lat": 45.532535,
-        "lng": -73.441443
+        "lat": 45.5273,
+        "lng": -73.4199
       },
       "boundary": [
         [
@@ -1043,8 +1043,8 @@
     "LON-6": {
       "label": "Sector 6",
       "centroid": {
-        "lat": 45.500868,
-        "lng": -73.470558
+        "lat": 45.5012,
+        "lng": -73.4731
       },
       "boundary": [
         [
@@ -1225,8 +1225,8 @@
     "LON-7": {
       "label": "Sector 7",
       "centroid": {
-        "lat": 45.492496,
-        "lng": -73.463641
+        "lat": 45.4933,
+        "lng": -73.4595
       },
       "boundary": [
         [
@@ -1343,8 +1343,8 @@
     "LON-8": {
       "label": "Sector 8",
       "centroid": {
-        "lat": 45.499101,
-        "lng": -73.422875
+        "lat": 45.5015,
+        "lng": -73.4234
       },
       "boundary": [
         [
@@ -1517,8 +1517,8 @@
     "LON-9": {
       "label": "Sector 9",
       "centroid": {
-        "lat": 45.487053,
-        "lng": -73.395674
+        "lat": 45.4813,
+        "lng": -73.3773
       },
       "boundary": [
         [
@@ -1695,8 +1695,8 @@
     "LON-10": {
       "label": "Sector 10",
       "centroid": {
-        "lat": 45.459668,
-        "lng": -73.400998
+        "lat": 45.4626,
+        "lng": -73.4057
       },
       "boundary": [
         [

@@ -505,7 +505,11 @@
             -74.14750944394079
           ]
         ]
-      ]
+      ],
+      "centroid": {
+        "lat": 45.3971,
+        "lng": -74.126
+      }
     },
     "WEST": {
       "label": "Western sector",
@@ -942,7 +946,11 @@
             -74.1678378194145
           ]
         ]
-      ]
+      ],
+      "centroid": {
+        "lat": 45.4119,
+        "lng": -74.1932
+      }
     },
     "INTERIOR": {
       "label": "Leaves interior sector",
@@ -1052,7 +1060,11 @@
             -74.18707847236399
           ]
         ]
-      ]
+      ],
+      "centroid": {
+        "lat": 45.4177,
+        "lng": -74.1591
+      }
     },
     "EXTERIOR": {
       "label": "Leaves exterior sector",
@@ -1618,7 +1630,11 @@
             -74.13554097126746
           ]
         ]
-      ]
+      ],
+      "centroid": {
+        "lat": 45.4286,
+        "lng": -74.1832
+      }
     }
   },
   "cityBoundary": [
