@@ -36,6 +36,11 @@
       "icon": "external-link",
       "showLink": true,
       "note": "Garden waste and branches collected seasonally. Christmas trees collected in January — remove all decorations, tinsel, and garlands."
+    },
+    "recycling": {
+      "title": "Recycling Collection Rules",
+      "url": "https://westmount.org/en/services/municipal-services/waste-collection",
+      "icon": "info"
     }
   },
   "zones": {

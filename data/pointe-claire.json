@@ -1,7 +1,7 @@
 {
   "id": "pointe-claire",
   "name": "Pointe-Claire",
-  "lastUpdated": "2026-06-23",
+  "lastUpdated": "2026-06-28",
   "source": "https://www.pointe-claire.ca/en/household-collections-and-residual-materials/collections",
   "resources": {
     "general": {
@@ -61,21 +61,21 @@
           "frequency": "biweekly",
           "anchorDate": "2026-01-06",
           "seasonalOverride": {
-            "startDate": "2026-06-02",
-            "endDate": "2026-08-26",
+            "startDate": "2026-06-01",
+            "endDate": "2026-08-31",
             "frequency": "weekly"
           },
-          "notes": "Weekly June–August, biweekly Sept–May. Place bin in driveway at curb after 6 p.m. night before or by 7 a.m. No mattresses, electronics, tires, or construction materials."
+          "notes": "Biweekly Tuesdays (Sep\u2013May), weekly Tuesdays (Jun\u2013Aug)"
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Weekly Thursdays. City-issued blue bin. Container, packaging, or printed item → blue bin. Empty, rinse, flatten cardboard. No Styrofoam, batteries, or aerosol cans."
+          "notes": "Weekly Thursdays. City-issued blue bin. Container, packaging, or printed item \u2192 blue bin. Empty, rinse, flatten cardboard. No Styrofoam, batteries, or aerosol cans."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Weekly Mondays. City-issued green bin only. All food scraps and soiled paper accepted. No plastic bags — even compostable or biodegradable."
+          "notes": "Weekly Mondays. City-issued green bin only. All food scraps and soiled paper accepted. No plastic bags \u2014 even compostable or biodegradable."
         },
         "bulky": {
           "dayOfWeek": null,
@@ -89,7 +89,7 @@
             "2026-09-09",
             "2026-10-14"
           ],
-          "notes": "2nd Wednesday of the month, Aprilâ€“October"
+          "notes": "2nd Wednesday of the month, April\u00e2\u20ac\u201cOctober"
         },
         "leaves": {
           "dayOfWeek": 1,
@@ -256,22 +256,22 @@
           "frequency": "biweekly",
           "anchorDate": "2026-01-13",
           "seasonalOverride": {
-            "startDate": "2026-06-02",
-            "endDate": "2026-08-26",
+            "startDate": "2026-06-01",
+            "endDate": "2026-08-31",
             "frequency": "weekly",
             "dayOfWeek": 3
           },
-          "notes": "Weekly June–August, biweekly Sept–May. Place bin in driveway at curb after 6 p.m. night before or by 7 a.m. No mattresses, electronics, tires, or construction materials."
+          "notes": "Biweekly Tuesdays (Sep\u2013May), weekly Wednesdays (Jun\u2013Aug)"
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Weekly Thursdays. City-issued blue bin. Container, packaging, or printed item → blue bin. Empty, rinse, flatten cardboard. No Styrofoam, batteries, or aerosol cans."
+          "notes": "Weekly Thursdays. City-issued blue bin. Container, packaging, or printed item \u2192 blue bin. Empty, rinse, flatten cardboard. No Styrofoam, batteries, or aerosol cans."
         },
         "organics": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Weekly Mondays. City-issued green bin only. All food scraps and soiled paper accepted. No plastic bags — even compostable or biodegradable."
+          "notes": "Weekly Mondays. City-issued green bin only. All food scraps and soiled paper accepted. No plastic bags \u2014 even compostable or biodegradable."
         },
         "bulky": {
           "dayOfWeek": null,
@@ -285,7 +285,7 @@
             "2026-09-09",
             "2026-10-14"
           ],
-          "notes": "2nd Wednesday of the month, Aprilâ€“October"
+          "notes": "2nd Wednesday of the month, April\u00e2\u20ac\u201cOctober"
         },
         "leaves": {
           "dayOfWeek": 1,

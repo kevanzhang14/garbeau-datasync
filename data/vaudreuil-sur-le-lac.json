@@ -13,6 +13,31 @@
       "title": "MRCVS Ecocentre Network",
       "url": "https://mrcvs.ca/citoyens/environnement/reseau-des-ecocentres/",
       "icon": "external-link"
+    },
+    "garbage": {
+      "title": "Household Waste Collection Rules",
+      "url": "https://www.vsll.ca/pages-services-aux-citoyens/dechets-et-recyclage",
+      "icon": "info"
+    },
+    "recycling": {
+      "title": "Recycling Collection Rules",
+      "url": "https://www.vsll.ca/pages-services-aux-citoyens/dechets-et-recyclage",
+      "icon": "info"
+    },
+    "organics": {
+      "title": "Organics Collection Rules",
+      "url": "https://www.vsll.ca/pages-services-aux-citoyens/dechets-et-recyclage",
+      "icon": "info"
+    },
+    "bulky": {
+      "title": "Bulky Item Collection Details",
+      "url": "https://www.vsll.ca/pages-services-aux-citoyens/dechets-et-recyclage",
+      "icon": "info"
+    },
+    "leaves": {
+      "title": "Leaf Collection Details",
+      "url": "https://www.vsll.ca/pages-services-aux-citoyens/dechets-et-recyclage",
+      "icon": "info"
     }
   },
   "zones": {

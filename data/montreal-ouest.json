@@ -39,6 +39,21 @@
       "title": "GoRecycle Appliance Pickup",
       "url": "https://www.gorecycle.com/en/free-appliance-pickup/",
       "icon": "external-link"
+    },
+    "garbage": {
+      "title": "Household Waste Collection Rules",
+      "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
+      "icon": "info"
+    },
+    "recycling": {
+      "title": "Recycling Collection Rules",
+      "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
+      "icon": "info"
+    },
+    "organics": {
+      "title": "Organics Collection Rules",
+      "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
+      "icon": "info"
     }
   },
   "zones": {

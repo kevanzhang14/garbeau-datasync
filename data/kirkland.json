@@ -36,6 +36,21 @@
       "icon": "external-link",
       "showLink": true,
       "note": "See Christmas tree collection dates on the city website."
+    },
+    "garbage": {
+      "title": "Household Waste Collection Rules",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
+      "icon": "info"
+    },
+    "recycling": {
+      "title": "Recycling Collection Rules",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
+      "icon": "info"
+    },
+    "organics": {
+      "title": "Organics Collection Rules",
+      "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
+      "icon": "info"
     }
   },
   "zones": {
