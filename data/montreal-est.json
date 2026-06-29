@@ -58,22 +58,22 @@
         "garbage": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
+          "notes": "Black bin Wednesdays. Only bin contents collected — max 50 lbs. Lid closed. Bins at curb no earlier than 12h before pickup."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
+          "notes": "Blue bin Thursdays. All containers, packaging, and printed materials accepted (BAC Impact since January 2025). Empty, rinse, flatten cardboard."
         },
         "organics": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
+          "notes": "Brown bin Wednesdays. Food waste only. No plastic or compostable bags — use paper bags or newspaper."
         },
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Bulky items can be set out with household garbage collection, up to the municipal weekly volume limit."
+          "notes": "Call Services citoyens (514-905-2000) 24h before Wednesday pickup. Construction debris must be corded or containerized — not in black bin. Max 5 m³/week."
         },
         "leaves": {
           "dayOfWeek": 3,
