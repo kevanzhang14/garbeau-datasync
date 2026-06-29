@@ -13,43 +13,37 @@
       "title": "Bulky Waste Collection",
       "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/bulky-waste",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Bulky waste collection by sector on scheduled dates. See city page for accepted items and whether registration is required."
+      "showLink": true
     },
     "leaves": {
       "title": "Leaves and Green Waste",
       "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/leaves-and-other-green-waste",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Leaves and green waste collected seasonally. Place in paper bags or labelled bins. See city page for collection windows and container requirements."
+      "showLink": true
     },
     "garbage": {
       "title": "Black Bin (Garbage)",
       "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/black-bin",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Blue Bin (Recycling)",
       "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/blue-bin",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Brown Bin (Organics)",
       "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/brown-bin",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "branches": {
       "title": "Branch Collection",
       "url": "https://www.ville.saint-lazare.qc.ca/en/services-to-residents/collections-residual-material/branches",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

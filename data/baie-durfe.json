@@ -18,43 +18,37 @@
       "title": "Branch & Debris Pickup",
       "url": "https://www.baie-durfe.qc.ca/en/citizen-services/collection-services",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Bulky Items Collection",
       "url": "https://www.baie-durfe.qc.ca/en/citizen-services/page/bulky-items",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Bulky items collected monthly. Items too large for regular bins — see city page for accepted materials and collection dates."
+      "showLink": true
     },
     "leaves": {
       "title": "Organic Waste / Leaves",
       "url": "https://www.baie-durfe.qc.ca/en/citizen-services/page/organic-waste",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Leaves and organic waste collected weekly with the brown bin. Place leaves in paper bags, cardboard boxes, or the brown bin."
+      "showLink": true
     },
     "organics": {
       "title": "Organic Waste Collection",
       "url": "https://www.baie-durfe.qc.ca/en/citizen-services/page/organic-waste",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Weekly brown bin collection for food scraps, soiled paper, and yard waste. No plastic, glass, or metal. See city page for full accepted materials list."
+      "showLink": true
     },
     "garbage": {
       "title": "Garbage Collection",
       "url": "https://www.baie-durfe.qc.ca/en/citizen-services/page/garbage",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling Collection",
       "url": "https://www.baie-durfe.qc.ca/en/citizen-services/page/recycling",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     }
   },
   "zones": {

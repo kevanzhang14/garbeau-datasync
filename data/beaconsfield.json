@@ -13,43 +13,37 @@
       "title": "Leaf & Organics Collection",
       "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See leaf collection rules and dates on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Bulky Items",
       "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Bulky items collected 1st Wednesday (North) or 1st Thursday (South) of each month, April-November. Items must be at curb by 7 a.m. See city page for accepted items."
+      "showLink": true
     },
     "garbage": {
       "title": "Garbage Collection",
       "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling Collection",
       "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Organic Waste Collection",
       "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "branches": {
       "title": "Branch Collection",
       "url": "https://www.beaconsfield.ca/en/services/services-to-citizens/collections-and-waste-management",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

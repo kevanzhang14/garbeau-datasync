@@ -13,43 +13,37 @@
       "title": "Garbage Collection",
       "url": "https://terrebonne.ca/collecte-des-dechets/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling Collection",
       "url": "https://terrebonne.ca/recuperation/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Organics Collection",
       "url": "https://terrebonne.ca/matieres-organiques-compost/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Bulky Waste Collection",
       "url": "https://terrebonne.ca/encombrants/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
+      "showLink": true
     },
     "leaves": {
       "title": "Leaves Collection",
       "url": "https://terrebonne.ca/collecte-de-residus-verts/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See leaf collection rules and dates on the city website."
+      "showLink": true
     },
     "christmas_tree": {
       "title": "Christmas Tree Collection",
       "url": "https://terrebonne.ca/collecte-de-sapins/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See Christmas tree collection dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

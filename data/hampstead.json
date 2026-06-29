@@ -13,15 +13,13 @@
       "title": "Request Branch Collection",
       "url": "https://hampstead.portailcitoyen.com/en/requete?cat=collection&souscat=collection-of-branches",
       "icon": "registration",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Request Bulky Item Pickup",
       "url": "https://hampstead.portailcitoyen.com/en/requete?cat=collection&souscat=collection-of-bulky-items",
       "icon": "registration",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
+      "showLink": true
     },
     "registration": {
       "title": "Hampstead Collection Request Portal",
@@ -32,22 +30,19 @@
       "title": "Garbage Collection",
       "url": "https://www.hampstead.qc.ca/fr/environnement/collecte-de-matieres-residuelles/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling Collection",
       "url": "https://www.hampstead.qc.ca/fr/environnement/collecte-de-matieres-residuelles/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Organic Waste Collection",
       "url": "https://www.hampstead.qc.ca/fr/environnement/collecte-de-matieres-residuelles/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     }
   },
   "zones": {

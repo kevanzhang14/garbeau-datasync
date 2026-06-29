@@ -13,43 +13,37 @@
       "title": "Waste Collection (Bulky Items)",
       "url": "https://ville.ddo.qc.ca/en/live/collection/waste-collection/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Bulky items accepted during regular waste collection. See Accepted bulk waste section on city page for item limits and restrictions."
+      "showLink": true
     },
     "leaves": {
       "title": "Organic Material / Green Waste",
       "url": "https://ville.ddo.qc.ca/en/live/collection-of-organic-material-compost/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Green waste collected with organics (brown bin). Use paper bags, cardboard boxes, or rigid containers. No plastic bags."
+      "showLink": true
     },
     "garbage": {
       "title": "Waste Collection",
       "url": "https://ville.ddo.qc.ca/en/live/collection/waste-collection/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recyclable Material Collection",
       "url": "https://ville.ddo.qc.ca/en/live/collection-of-recyclable-material/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Organic Material (Compost) Collection",
       "url": "https://ville.ddo.qc.ca/en/live/collection-of-organic-material-compost/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "branches": {
       "title": "Branch Pickup",
       "url": "https://ville.ddo.qc.ca/en/live/collection/branch-pickup/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

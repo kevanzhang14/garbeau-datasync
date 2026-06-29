@@ -18,36 +18,31 @@
       "title": "Matières recyclables",
       "url": "https://www.ville.valleyfield.qc.ca/matieres-recyclables",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Matières organiques",
       "url": "https://www.ville.valleyfield.qc.ca/matieres-organiques",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Collecte des encombrants",
       "url": "https://www.ville.valleyfield.qc.ca/encombrants",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
+      "showLink": true
     },
     "garbage": {
       "title": "Domestic Waste Collection",
       "url": "https://www.ville.valleyfield.qc.ca/dechets-domestiques",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Weekly collection in the grey rolling bin. Place at curb after 7 p.m. night before or before 7 a.m. collection day. See city page for accepted and refused materials."
+      "showLink": true
     },
     "leaves": {
       "title": "Green Waste Collection",
       "url": "https://www.ville.valleyfield.qc.ca/residus-verts",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See leaf collection rules and dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

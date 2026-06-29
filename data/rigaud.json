@@ -13,43 +13,37 @@
       "title": "Rigaud Branch Pickup Registration",
       "url": "https://www.ville.rigaud.qc.ca/branches",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Rigaud Bulky Waste Collection",
       "url": "https://www.ville.rigaud.qc.ca/encombrants",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
+      "showLink": true
     },
     "leaves": {
       "title": "Leaves and Green Waste",
       "url": "https://www.ville.rigaud.qc.ca/feuilles-et-autres-residus-verts",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Feuilles collected during spring and autumn collection windows. Place in paper bags or labelled bins. See city page for specific dates."
+      "showLink": true
     },
     "garbage": {
       "title": "Black Bin (Garbage)",
       "url": "https://www.ville.rigaud.qc.ca/bac-noir",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Blue Bin (Recycling)",
       "url": "https://www.ville.rigaud.qc.ca/bac-bleu",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Brown Bin (Organics)",
       "url": "https://www.ville.rigaud.qc.ca/bac-brun",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     }
   },
   "zones": {

@@ -13,43 +13,37 @@
       "title": "Bulky Waste Collection",
       "url": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Bulky waste collection varies by zone (1st-4th Thursday). Items too large for regular garbage — see city page for accepted materials and placement rules."
+      "showLink": true
     },
     "leaves": {
       "title": "Green Waste / Leaves Collection",
       "url": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Green waste accepted in brown bin year-round. Two spring and three fall dedicated leaf collections also available. See schedule for your zone."
+      "showLink": true
     },
     "organics": {
       "title": "Organic Materials Collection",
       "url": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Weekly brown bin collection for food waste, soiled paper, and yard waste. No plastic or compostable bags — use paper bags or loose."
+      "showLink": true
     },
     "garbage": {
       "title": "Domestic Waste Collection",
       "url": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling Collection",
       "url": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "branches": {
       "title": "Branch Collection",
       "url": "https://www.ville.vaudreuil-dorion.qc.ca/en/environment/waste-and-recycling/collections-and-schedules",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

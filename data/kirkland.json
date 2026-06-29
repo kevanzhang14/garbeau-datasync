@@ -1,7 +1,7 @@
 {
   "id": "kirkland",
   "name": "Kirkland",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-29",
   "source": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
   "resources": {
     "general": {
@@ -13,44 +13,43 @@
       "title": "Organic, Leaves and Green Waste Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/leaves",
       "icon": "info",
-      "showLink": true,
-      "note": "See leaf collection rules and dates on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Bulky Items Collection Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/bulky-items",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
+      "showLink": true
     },
     "branches": {
       "title": "Branch Collection Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/branches",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     },
     "christmas_tree": {
       "title": "Christmas Tree Collection Details",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/christmas-trees",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See Christmas tree collection dates on the city website."
+      "showLink": true
     },
     "garbage": {
       "title": "Household Waste Collection Rules",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling Collection Rules",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true
     },
     "organics": {
       "title": "Organics Collection Rules",
       "url": "https://www.ville.kirkland.qc.ca/services-to-citizens/residual-waste--br--collections/door-to-door-collection-services",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true
     }
   },
   "zones": {
@@ -58,15 +57,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 5,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "organics": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "leaves": {
           "dayOfWeek": 2,

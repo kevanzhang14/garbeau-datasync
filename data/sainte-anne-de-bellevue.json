@@ -13,43 +13,37 @@
       "title": "Bulky Waste Collection",
       "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Bulky waste collection dates listed on the annual collection calendar. See city page for accepted items and placement rules."
+      "showLink": true
     },
     "leaves": {
       "title": "Leaves & Green Waste",
       "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Leaves and green waste collected seasonally. See Other Collections section on city page for dates and container requirements."
+      "showLink": true
     },
     "garbage": {
       "title": "Household Waste Collection",
       "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recyclables Collection",
       "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Organic Waste Collection",
       "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "branches": {
       "title": "Branch Collection",
       "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

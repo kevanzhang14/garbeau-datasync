@@ -13,43 +13,37 @@
       "title": "Bulky Waste Placement Guidelines",
       "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
+      "showLink": true
     },
     "leaves": {
       "title": "Leaves Pickup",
       "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
       "icon": "external-link",
-      "showLink": true,
-      "note": "Leaf collection on Fridays, late October through November. Place leaves in paper bags or rigid containers at curb. See city page for exact dates."
+      "showLink": true
     },
     "garbage": {
       "title": "Household Waste Pickup",
       "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling and Recycling Bins",
       "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "organics": {
       "title": "Organic Waste Pickup",
       "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See accepted materials, bin rules, and collection schedule on the city website."
+      "showLink": true
     },
     "branches": {
       "title": "Branches Pickup",
       "url": "https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/environment/collections-and-waste-materials",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See branch collection rules and dates on the city website."
+      "showLink": true
     }
   },
   "zones": {

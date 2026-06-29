@@ -1,7 +1,7 @@
 {
   "id": "montreal-ouest",
   "name": "Montréal-Ouest",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-29",
   "source": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
   "resources": {
     "general": {
@@ -13,22 +13,19 @@
       "title": "Organics and Green Waste Details",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
       "icon": "info",
-      "showLink": true,
-      "note": "See leaf collection rules and dates on the city website."
+      "showLink": true
     },
     "christmas_tree": {
       "title": "Christmas Tree Collection Details",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
       "icon": "info",
-      "showLink": true,
-      "note": "See Christmas tree collection dates on the city website."
+      "showLink": true
     },
     "bulky": {
       "title": "Special Pickup Service Details",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/special-pickups/",
       "icon": "external-link",
-      "showLink": true,
-      "note": "See bulk item collection rules and dates on the city website."
+      "showLink": true
     },
     "special_pickup_contact": {
       "title": "Contact Public Works",
@@ -43,17 +40,20 @@
     "garbage": {
       "title": "Household Waste Collection Rules",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true
     },
     "recycling": {
       "title": "Recycling Collection Rules",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true
     },
     "organics": {
       "title": "Organics Collection Rules",
       "url": "https://montreal-ouest.ca/en/resident-services/waste-collection/",
-      "icon": "info"
+      "icon": "info",
+      "showLink": true
     }
   },
   "zones": {
@@ -61,15 +61,18 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Use a European-grip bin. Max 50 lbs. Bags outside bin prohibited. Bins out by 9 p.m. night before."
         },
         "recycling": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Items on the ground or overflowing the bin will not be collected."
         },
         "organics": {
           "dayOfWeek": 2,
-          "frequency": "weekly"
+          "frequency": "weekly",
+          "notes": "Surplus green waste goes in paper bags, cardboard boxes, or empty garbage cans beside your brown bin."
         },
         "leaves": {
           "dayOfWeek": 2,
