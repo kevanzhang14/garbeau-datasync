@@ -48,6 +48,7 @@
   },
   "zones": {
     "NORTH": {
+      "label": "NORTH",
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
@@ -85,7 +86,10 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "label": "NORTH",
+      "centroid": {
+        "lat": 45.4359,
+        "lng": -73.8688
+      },
       "boundary": [
         [
           [
@@ -237,13 +241,10 @@
             -73.89940841704333
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4359,
-        "lng": -73.8688
-      }
+      ]
     },
     "SOUTH": {
+      "label": "SOUTH",
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
@@ -281,7 +282,10 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "label": "SOUTH",
+      "centroid": {
+        "lat": 45.4252,
+        "lng": -73.8677
+      },
       "boundary": [
         [
           [
@@ -461,11 +465,7 @@
             -73.89528057630649
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4252,
-        "lng": -73.8677
-      }
+      ]
     }
   },
   "cityBoundary": [

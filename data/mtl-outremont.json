@@ -100,6 +100,10 @@
           "notes": "Mondays. Place bins in the lane behind your building between 5:30 a.m. and 8 a.m. If no lane, place at curb in front."
         }
       },
+      "centroid": {
+        "lat": 45.5157,
+        "lng": -73.6086
+      },
       "boundary": [
         [
           [
@@ -1067,11 +1071,7 @@
             -73.617219
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5157,
-        "lng": -73.6086
-      }
+      ]
     }
   },
   "cityBoundary": [

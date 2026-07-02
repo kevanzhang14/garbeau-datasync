@@ -91,6 +91,10 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
+      "centroid": {
+        "lat": 45.4373,
+        "lng": -73.8133
+      },
       "boundary": [
         [
           [
@@ -236,11 +240,7 @@
             -73.81520066536532
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4373,
-        "lng": -73.8133
-      }
+      ]
     },
     "Sector B": {
       "label": "Sector B",
@@ -286,6 +286,10 @@
           "frequency": "weekly",
           "notes": "Leaves are collected with organics (brown bin)"
         }
+      },
+      "centroid": {
+        "lat": 45.463,
+        "lng": -73.8036
       },
       "boundary": [
         [
@@ -426,11 +430,7 @@
             -73.83175734997506
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.463,
-        "lng": -73.8036
-      }
+      ]
     }
   },
   "cityBoundary": [

@@ -48,6 +48,7 @@
   },
   "zones": {
     "SAB": {
+      "label": "Sainte-Anne-de-Bellevue",
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
@@ -84,7 +85,10 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "label": "Sainte-Anne-de-Bellevue",
+      "centroid": {
+        "lat": 45.4251,
+        "lng": -73.934
+      },
       "boundary": [
         [
           [
@@ -260,11 +264,7 @@
             -73.95176670861981
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4251,
-        "lng": -73.934
-      }
+      ]
     }
   },
   "cityBoundary": [

@@ -48,6 +48,7 @@
   },
   "zones": {
     "NDIP": {
+      "label": "Notre-Dame-de-l'Ile-Perrot",
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
@@ -98,7 +99,10 @@
           "notes": "Biweekly leaves collection window: May 6 to Nov 18."
         }
       },
-      "label": "Notre-Dame-de-l'Ile-Perrot",
+      "centroid": {
+        "lat": 45.3695,
+        "lng": -73.919
+      },
       "boundary": [
         [
           [
@@ -330,11 +334,7 @@
             -73.96462540584625
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.3695,
-        "lng": -73.919
-      }
+      ]
     }
   },
   "cityBoundary": [

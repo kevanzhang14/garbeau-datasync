@@ -70,6 +70,10 @@
           "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.5361,
+        "lng": -73.6045
+      },
       "boundary": [
         [
           [
@@ -923,11 +927,7 @@
             -73.617219
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5361,
-        "lng": -73.6045
-      }
+      ]
     },
     "RPP-2": {
       "recurring": {
@@ -956,6 +956,10 @@
           "frequency": "weekly",
           "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5496,
+        "lng": -73.5688
       },
       "boundary": [
         [
@@ -1288,11 +1292,7 @@
             -73.554501
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5496,
-        "lng": -73.5688
-      }
+      ]
     },
     "RPP-3": {
       "recurring": {
@@ -1321,6 +1321,10 @@
           "frequency": "weekly",
           "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5672,
+        "lng": -73.5608
       },
       "boundary": [
         [
@@ -1729,11 +1733,7 @@
             -73.557443
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5672,
-        "lng": -73.5608
-      }
+      ]
     },
     "RPP-4": {
       "recurring": {
@@ -1762,6 +1762,10 @@
           "frequency": "biweekly",
           "notes": "Wednesdays weekly in spring/fall, biweekly in summer. No plastic bags. Paper bags accepted. Place between 5 a.m. and 8 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5558,
+        "lng": -73.5732
       },
       "boundary": [
         [
@@ -2086,11 +2090,7 @@
             -73.587476
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5558,
-        "lng": -73.5732
-      }
+      ]
     },
     "RPP-5": {
       "recurring": {
@@ -2119,6 +2119,10 @@
           "frequency": "weekly",
           "notes": "Mondays. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.569,
+        "lng": -73.5671
       },
       "boundary": [
         [
@@ -3195,11 +3199,7 @@
             -73.573207
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.569,
-        "lng": -73.5671
-      }
+      ]
     },
     "RPP-RE-15": {
       "recurring": {
@@ -3228,6 +3228,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5429,
+        "lng": -73.5955
       },
       "boundary": [
         [
@@ -3540,11 +3544,7 @@
             -73.603125
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5429,
-        "lng": -73.5955
-      }
+      ]
     },
     "RPP-RE-16": {
       "recurring": {
@@ -3573,6 +3573,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.545,
+        "lng": -73.5909
       },
       "boundary": [
         [
@@ -3973,11 +3977,7 @@
             -73.588959
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.545,
-        "lng": -73.5909
-      }
+      ]
     },
     "RPP-RE-17": {
       "recurring": {
@@ -4006,6 +4006,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5563,
+        "lng": -73.5862
       },
       "boundary": [
         [
@@ -4278,11 +4282,7 @@
             -73.587476
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5563,
-        "lng": -73.5862
-      }
+      ]
     },
     "RPP-RE-22": {
       "recurring": {
@@ -4311,6 +4311,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins curbside between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5656,
+        "lng": -73.5786
       },
       "boundary": [
         [
@@ -4659,11 +4663,7 @@
             -73.582792
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5656,
-        "lng": -73.5786
-      }
+      ]
     },
     "RPP-RE-23": {
       "recurring": {
@@ -4692,6 +4692,10 @@
           "frequency": "weekly",
           "notes": "Thursdays. Place bins at curb between 5 a.m. and 8 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5738,
+        "lng": -73.573
       },
       "boundary": [
         [
@@ -5056,11 +5060,7 @@
             -73.573991
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5738,
-        "lng": -73.573
-      }
+      ]
     }
   },
   "cityBoundary": [

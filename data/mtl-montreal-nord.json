@@ -103,6 +103,10 @@
           "notes": "Place items between 7 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.5862,
+        "lng": -73.6446
+      },
       "boundary": [
         [
           [
@@ -646,11 +650,7 @@
             -73.645814
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5862,
-        "lng": -73.6446
-      }
+      ]
     },
     "MTN-2": {
       "recurring": {
@@ -712,6 +712,10 @@
           ],
           "notes": "Place items between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5959,
+        "lng": -73.635
       },
       "boundary": [
         [
@@ -1212,11 +1216,7 @@
             -73.640547
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5959,
-        "lng": -73.635
-      }
+      ]
     },
     "MTN-3": {
       "recurring": {
@@ -1278,6 +1278,10 @@
           ],
           "notes": "Place items between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.6103,
+        "lng": -73.6274
       },
       "boundary": [
         [
@@ -1862,11 +1866,7 @@
             -73.627903
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.6103,
-        "lng": -73.6274
-      }
+      ]
     },
     "MTN-4": {
       "recurring": {
@@ -1928,6 +1928,10 @@
           ],
           "notes": "Place items between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.6182,
+        "lng": -73.6169
       },
       "boundary": [
         [
@@ -2656,11 +2660,7 @@
             -73.620761
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.6182,
-        "lng": -73.6169
-      }
+      ]
     }
   },
   "cityBoundary": [

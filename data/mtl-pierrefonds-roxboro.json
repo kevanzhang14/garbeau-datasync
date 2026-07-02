@@ -85,6 +85,10 @@
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.458,
+        "lng": -73.9094
+      },
       "boundary": [
         [
           [
@@ -5504,11 +5508,7 @@
             -73.925797
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.458,
-        "lng": -73.9094
-      }
+      ]
     },
     "PIRO-2": {
       "recurring": {
@@ -5553,6 +5553,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4762,
+        "lng": -73.8611
       },
       "boundary": [
         [
@@ -6401,11 +6405,7 @@
             -73.87558
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4762,
-        "lng": -73.8611
-      }
+      ]
     },
     "PIRO-3": {
       "recurring": {
@@ -6449,6 +6449,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.507,
+        "lng": -73.8571
       },
       "boundary": [
         [
@@ -8923,11 +8927,7 @@
             -73.841042
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.507,
-        "lng": -73.8571
-      }
+      ]
     },
     "PIRO-4": {
       "recurring": {
@@ -8972,6 +8972,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5065,
+        "lng": -73.7932
       },
       "boundary": [
         [
@@ -10876,11 +10880,7 @@
             -73.819307
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5065,
-        "lng": -73.7932
-      }
+      ]
     },
     "PIROaIBSG-4": {
       "recurring": {
@@ -10924,6 +10924,10 @@
           "frequency": "weekly",
           "notes": "Use the city-issued brown bin. No plastic bags."
         }
+      },
+      "centroid": {
+        "lat": 45.4872,
+        "lng": -73.8587
       },
       "boundary": [
         [
@@ -11346,11 +11350,7 @@
             -73.862762
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4872,
-        "lng": -73.8587
-      }
+      ]
     }
   },
   "cityBoundary": [

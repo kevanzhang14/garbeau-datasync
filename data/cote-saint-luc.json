@@ -21,6 +21,10 @@
     "CSL": {
       "label": "Côte-Saint-Luc",
       "recurring": {},
+      "centroid": {
+        "lat": 45.4886,
+        "lng": -73.6527
+      },
       "boundary": [
         [
           [
@@ -230,11 +234,7 @@
             -73.6847
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4886,
-        "lng": -73.6527
-      }
+      ]
     }
   },
   "cityBoundary": [

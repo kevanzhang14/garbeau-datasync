@@ -78,6 +78,10 @@
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.5135,
+        "lng": -73.5794
+      },
       "boundary": [
         [
           [
@@ -1377,11 +1381,7 @@
             -73.586561
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5135,
-        "lng": -73.5794
-      }
+      ]
     },
     "PMR-2": {
       "recurring": {
@@ -1425,6 +1425,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5185,
+        "lng": -73.5767
       },
       "boundary": [
         [
@@ -3109,11 +3113,7 @@
             -73.569625
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5185,
-        "lng": -73.5767
-      }
+      ]
     },
     "PMR-3": {
       "recurring": {
@@ -3157,6 +3157,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.532,
+        "lng": -73.5721
       },
       "boundary": [
         [
@@ -4345,11 +4349,7 @@
             -73.562092
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.532,
-        "lng": -73.5721
-      }
+      ]
     },
     "PMR-4": {
       "recurring": {
@@ -4393,6 +4393,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5269,
+        "lng": -73.5686
       },
       "boundary": [
         [
@@ -5573,11 +5577,7 @@
             -73.561243
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5269,
-        "lng": -73.5686
-      }
+      ]
     },
     "PMR-5": {
       "recurring": {
@@ -5621,6 +5621,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5228,
+        "lng": -73.5983
       },
       "boundary": [
         [
@@ -7005,11 +7009,7 @@
             -73.602515
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5228,
-        "lng": -73.5983
-      }
+      ]
     },
     "PMR-6": {
       "recurring": {
@@ -7053,6 +7053,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5259,
+        "lng": -73.5922
       },
       "boundary": [
         [
@@ -8159,11 +8163,7 @@
             -73.599241
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5259,
-        "lng": -73.5922
-      }
+      ]
     },
     "PMR-7": {
       "recurring": {
@@ -8207,6 +8207,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5305,
+        "lng": -73.586
       },
       "boundary": [
         [
@@ -9239,11 +9243,7 @@
             -73.584253
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5305,
-        "lng": -73.586
-      }
+      ]
     },
     "PMR-8": {
       "recurring": {
@@ -9287,6 +9287,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5371,
+        "lng": -73.5781
       },
       "boundary": [
         [
@@ -10331,11 +10335,7 @@
             -73.587512
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5371,
-        "lng": -73.5781
-      }
+      ]
     }
   },
   "cityBoundary": [

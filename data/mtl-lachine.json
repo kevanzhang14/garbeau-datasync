@@ -74,6 +74,10 @@
           "notes": "Included with organic waste collection."
         }
       },
+      "centroid": {
+        "lat": 45.4486,
+        "lng": -73.7006
+      },
       "boundary": [
         [
           [
@@ -6789,11 +6793,7 @@
             -73.692159
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4486,
-        "lng": -73.7006
-      }
+      ]
     },
     "LCH-2": {
       "recurring": {
@@ -6827,6 +6827,10 @@
           "frequency": "weekly",
           "notes": "Included with organic waste collection."
         }
+      },
+      "centroid": {
+        "lat": 45.4508,
+        "lng": -73.6798
       },
       "boundary": [
         [
@@ -7543,11 +7547,7 @@
             -73.693302
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4508,
-        "lng": -73.6798
-      }
+      ]
     },
     "LCH-3": {
       "recurring": {
@@ -7580,6 +7580,10 @@
           "frequency": "weekly",
           "notes": "Included with organic waste collection."
         }
+      },
+      "centroid": {
+        "lat": 45.4353,
+        "lng": -73.6855
       },
       "boundary": [
         [
@@ -13936,11 +13940,7 @@
             -73.69198
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4353,
-        "lng": -73.6855
-      }
+      ]
     },
     "LCH-4": {
       "recurring": {
@@ -13969,6 +13969,10 @@
           "frequency": "weekly",
           "notes": "Included with organic waste collection."
         }
+      },
+      "centroid": {
+        "lat": 45.4441,
+        "lng": -73.6543
       },
       "boundary": [
         [
@@ -14429,11 +14433,7 @@
             -73.67266
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4441,
-        "lng": -73.6543
-      }
+      ]
     }
   },
   "cityBoundary": [

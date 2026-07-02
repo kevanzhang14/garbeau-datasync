@@ -91,6 +91,10 @@
           "informationalCard": true
         }
       },
+      "centroid": {
+        "lat": 45.453,
+        "lng": -73.6494
+      },
       "boundary": [
         [
           [
@@ -234,11 +238,7 @@
             -73.66816887512732
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.453,
-        "lng": -73.6494
-      }
+      ]
     }
   },
   "cityBoundary": [

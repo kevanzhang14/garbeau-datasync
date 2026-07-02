@@ -47,6 +47,7 @@
   },
   "zones": {
     "HAMPSTEAD": {
+      "label": "Hampstead",
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
@@ -76,7 +77,10 @@
           "notes": "Bulky pickup is request-based and subject to a fee; use the city request form to get an estimate and schedule pickup."
         }
       },
-      "label": "Hampstead",
+      "centroid": {
+        "lat": 45.4809,
+        "lng": -73.6454
+      },
       "boundary": [
         [
           [
@@ -448,11 +452,7 @@
             -73.6561
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4809,
-        "lng": -73.6454
-      }
+      ]
     }
   },
   "cityBoundary": [

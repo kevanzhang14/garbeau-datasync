@@ -54,6 +54,7 @@
   },
   "zones": {
     "ME": {
+      "label": "Montréal-Est",
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
@@ -93,7 +94,10 @@
           "informationalCard": true
         }
       },
-      "label": "Montréal-Est",
+      "centroid": {
+        "lat": 45.6292,
+        "lng": -73.5281
+      },
       "boundary": [
         [
           [
@@ -197,11 +201,7 @@
             -73.50738400079824
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.6292,
-        "lng": -73.5281
-      }
+      ]
     }
   },
   "cityBoundary": [

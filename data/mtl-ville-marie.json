@@ -95,6 +95,10 @@
           "notes": "No plastic bags — use paper bags or newspaper."
         }
       },
+      "centroid": {
+        "lat": 45.4285,
+        "lng": -73.6005
+      },
       "boundary": [
         [
           [
@@ -4238,11 +4242,7 @@
             -73.614993
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4285,
-        "lng": -73.6005
-      }
+      ]
     },
     "132": {
       "recurring": {
@@ -4292,6 +4292,10 @@
             3
           ]
         }
+      },
+      "centroid": {
+        "lat": 45.4206,
+        "lng": -73.6291
       },
       "boundary": [
         [
@@ -6948,11 +6952,7 @@
             -73.649033
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4206,
-        "lng": -73.6291
-      }
+      ]
     },
     "141": {
       "recurring": {
@@ -7006,6 +7006,10 @@
           "frequency": "weekly",
           "notes": "No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.4331,
+        "lng": -73.6439
       },
       "boundary": [
         [
@@ -8422,11 +8426,7 @@
             -73.649033
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4331,
-        "lng": -73.6439
-      }
+      ]
     },
     "144": {
       "recurring": {
@@ -8476,6 +8476,10 @@
           "frequency": "weekly",
           "notes": "No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.4403,
+        "lng": -73.6173
       },
       "boundary": [
         [
@@ -8732,11 +8736,7 @@
             -73.614993
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4403,
-        "lng": -73.6173
-      }
+      ]
     },
     "VM-1": {
       "recurring": {
@@ -8771,6 +8771,10 @@
           "frequency": "weekly",
           "notes": "No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5016,
+        "lng": -73.5841
       },
       "boundary": [
         [
@@ -10395,11 +10399,7 @@
             -73.584807
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5016,
-        "lng": -73.5841
-      }
+      ]
     },
     "VM-1a": {
       "recurring": {
@@ -10432,6 +10432,10 @@
           },
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5025,
+        "lng": -73.5888
       },
       "boundary": [
         [
@@ -11236,11 +11240,7 @@
             -73.572727
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5025,
-        "lng": -73.5888
-      }
+      ]
     },
     "VM-1b": {
       "recurring": {
@@ -11273,6 +11273,10 @@
           },
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4971,
+        "lng": -73.5786
       },
       "boundary": [
         [
@@ -11569,11 +11573,7 @@
             -73.569805
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4971,
-        "lng": -73.5786
-      }
+      ]
     },
     "VM-1c": {
       "recurring": {
@@ -11606,6 +11606,10 @@
           },
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5016,
+        "lng": -73.5709
       },
       "boundary": [
         [
@@ -12138,11 +12142,7 @@
             -73.568928
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5016,
-        "lng": -73.5709
-      }
+      ]
     },
     "VM-2": {
       "recurring": {
@@ -12177,6 +12177,10 @@
           "frequency": "weekly",
           "notes": "No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5024,
+        "lng": -73.5594
       },
       "boundary": [
         [
@@ -15917,11 +15921,7 @@
             -73.535021
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5024,
-        "lng": -73.5594
-      }
+      ]
     },
     "VM-2a": {
       "recurring": {
@@ -15954,6 +15954,10 @@
           },
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.506,
+        "lng": -73.5534
       },
       "boundary": [
         [
@@ -16978,11 +16982,7 @@
             -73.535021
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.506,
-        "lng": -73.5534
-      }
+      ]
     },
     "VM-2b": {
       "recurring": {
@@ -17015,6 +17015,10 @@
           },
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4977,
+        "lng": -73.5671
       },
       "boundary": [
         [
@@ -17899,11 +17903,7 @@
             -73.561269
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4977,
-        "lng": -73.5671
-      }
+      ]
     },
     "VM-3": {
       "recurring": {
@@ -17938,6 +17938,10 @@
           "frequency": "weekly",
           "notes": "No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5167,
+        "lng": -73.5598
       },
       "boundary": [
         [
@@ -19166,11 +19170,7 @@
             -73.559767
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5167,
-        "lng": -73.5598
-      }
+      ]
     },
     "VM-4": {
       "recurring": {
@@ -19205,6 +19205,10 @@
           "frequency": "weekly",
           "notes": "No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5301,
+        "lng": -73.5528
       },
       "boundary": [
         [
@@ -20133,11 +20137,7 @@
             -73.547617
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5301,
-        "lng": -73.5528
-      }
+      ]
     }
   },
   "cityBoundary": [

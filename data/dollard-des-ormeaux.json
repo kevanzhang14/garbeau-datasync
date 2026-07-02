@@ -48,6 +48,7 @@
   },
   "zones": {
     "DDO": {
+      "label": "Dollard-des-Ormeaux",
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
@@ -75,7 +76,10 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "label": "Dollard-des-Ormeaux",
+      "centroid": {
+        "lat": 45.4859,
+        "lng": -73.8181
+      },
       "boundary": [
         [
           [
@@ -351,11 +355,7 @@
             -73.84362253674324
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4859,
-        "lng": -73.8181
-      }
+      ]
     }
   },
   "cityBoundary": [

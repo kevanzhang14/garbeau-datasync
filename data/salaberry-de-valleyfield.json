@@ -77,6 +77,10 @@
           "notes": "1st Monday of the month"
         }
       },
+      "centroid": {
+        "lat": 45.2481,
+        "lng": -74.1043
+      },
       "boundary": [
         [
           [
@@ -256,11 +260,7 @@
             -74.130322
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.2481,
-        "lng": -74.1043
-      }
+      ]
     },
     "SDV-5": {
       "label": "Secteur 5",
@@ -290,6 +290,10 @@
           "frequency": "monthly",
           "notes": "1st Tuesday of the month"
         }
+      },
+      "centroid": {
+        "lat": 45.2551,
+        "lng": -74.1313
       },
       "boundary": [
         [
@@ -362,11 +366,7 @@
             -74.130122
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.2551,
-        "lng": -74.1313
-      }
+      ]
     },
     "SDV-4": {
       "label": "Secteur 4",
@@ -398,6 +398,10 @@
           "frequency": "monthly",
           "notes": "2nd Thursday of the month"
         }
+      },
+      "centroid": {
+        "lat": 45.2423,
+        "lng": -74.1385
       },
       "boundary": [
         [
@@ -630,11 +634,7 @@
             -74.130104
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.2423,
-        "lng": -74.1385
-      }
+      ]
     },
     "SDV-1": {
       "label": "Secteur 1",
@@ -666,6 +666,10 @@
           "frequency": "monthly",
           "notes": "2nd Tuesday of the month"
         }
+      },
+      "centroid": {
+        "lat": 45.2772,
+        "lng": -74.1324
       },
       "boundary": [
         [
@@ -846,11 +850,7 @@
             -74.111121
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.2772,
-        "lng": -74.1324
-      }
+      ]
     },
     "SDV-2": {
       "label": "Secteur 2",
@@ -882,6 +882,10 @@
           "frequency": "monthly",
           "notes": "1st Tuesday of the month"
         }
+      },
+      "centroid": {
+        "lat": 45.2729,
+        "lng": -74.0166
       },
       "boundary": [
         [
@@ -1126,11 +1130,7 @@
             -74.068831
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.2729,
-        "lng": -74.0166
-      }
+      ]
     }
   }
 }

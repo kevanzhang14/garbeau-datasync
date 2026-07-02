@@ -48,6 +48,7 @@
   },
   "zones": {
     "DORVAL": {
+      "label": "Dorval",
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
@@ -86,7 +87,10 @@
           "notes": "Leaf collection on Fridays, late October through November"
         }
       },
-      "label": "Dorval",
+      "centroid": {
+        "lat": 45.4593,
+        "lng": -73.7525
+      },
       "boundary": [
         [
           [
@@ -282,11 +286,7 @@
             -73.77866798970064
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4593,
-        "lng": -73.7525
-      }
+      ]
     }
   },
   "cityBoundary": [

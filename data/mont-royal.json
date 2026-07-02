@@ -42,6 +42,7 @@
   },
   "zones": {
     "TMR": {
+      "label": "Mont-Royal",
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
@@ -70,7 +71,10 @@
           "notes": "Fall leaf collection, sector-by-sector, weather permitting. Leaves in piles or paper bags at curb."
         }
       },
-      "label": "Mont-Royal",
+      "centroid": {
+        "lat": 45.5099,
+        "lng": -73.6516
+      },
       "boundary": [
         [
           [
@@ -798,11 +802,7 @@
             -73.6856
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5099,
-        "lng": -73.6516
-      }
+      ]
     }
   },
   "cityBoundary": [

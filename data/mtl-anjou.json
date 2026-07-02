@@ -74,6 +74,10 @@
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.6163,
+        "lng": -73.574
+      },
       "boundary": [
         [
           [
@@ -361,11 +365,7 @@
             -73.548277
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.6163,
-        "lng": -73.574
-      }
+      ]
     },
     "ANJ-2": {
       "recurring": {
@@ -395,6 +395,10 @@
           "weekOfMonth": 1,
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5986,
+        "lng": -73.5554
       },
       "boundary": [
         [
@@ -1051,11 +1055,7 @@
             -73.542175
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5986,
-        "lng": -73.5554
-      }
+      ]
     },
     "ANJ-3": {
       "recurring": {
@@ -1088,6 +1088,10 @@
           ],
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.6056,
+        "lng": -73.5551
       },
       "boundary": [
         [
@@ -1404,11 +1408,7 @@
             -73.566494
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.6056,
-        "lng": -73.5551
-      }
+      ]
     },
     "ANJ-4": {
       "recurring": {
@@ -1438,6 +1438,10 @@
           "weekOfMonth": 1,
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.6162,
+        "lng": -73.5466
       },
       "boundary": [
         [
@@ -1958,11 +1962,7 @@
             -73.543566
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.6162,
-        "lng": -73.5466
-      }
+      ]
     }
   },
   "cityBoundary": [

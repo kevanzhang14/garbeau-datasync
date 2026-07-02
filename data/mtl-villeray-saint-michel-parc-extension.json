@@ -70,6 +70,10 @@
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.565,
+        "lng": -73.6222
+      },
       "boundary": [
         [
           [
@@ -657,11 +661,7 @@
             -73.598644
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.565,
-        "lng": -73.6222
-      }
+      ]
     },
     "VSMPE-1b": {
       "recurring": {
@@ -690,6 +690,10 @@
           "frequency": "weekly",
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5763,
+        "lng": -73.621
       },
       "boundary": [
         [
@@ -1174,11 +1178,7 @@
             -73.612595
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5763,
-        "lng": -73.621
-      }
+      ]
     },
     "VSMPE-2a": {
       "recurring": {
@@ -1207,6 +1207,10 @@
           "frequency": "weekly",
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5526,
+        "lng": -73.6081
       },
       "boundary": [
         [
@@ -1871,11 +1875,7 @@
             -73.608596
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5526,
-        "lng": -73.6081
-      }
+      ]
     },
     "VSMPE-2b": {
       "recurring": {
@@ -1904,6 +1904,10 @@
           "frequency": "weekly",
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5629,
+        "lng": -73.5978
       },
       "boundary": [
         [
@@ -2212,11 +2216,7 @@
             -73.609545
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5629,
-        "lng": -73.5978
-      }
+      ]
     },
     "VSMPE-3a": {
       "recurring": {
@@ -2245,6 +2245,10 @@
           "frequency": "weekly",
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5416,
+        "lng": -73.6256
       },
       "boundary": [
         [
@@ -3121,11 +3125,7 @@
             -73.640666
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5416,
-        "lng": -73.6256
-      }
+      ]
     },
     "VSMPE-3b": {
       "recurring": {
@@ -3154,6 +3154,10 @@
           "frequency": "weekly",
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5471,
+        "lng": -73.6224
       },
       "boundary": [
         [
@@ -3982,11 +3986,7 @@
             -73.613096
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5471,
-        "lng": -73.6224
-      }
+      ]
     },
     "VSMPE-4a": {
       "recurring": {
@@ -4015,6 +4015,10 @@
           "frequency": "weekly",
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5284,
+        "lng": -73.6303
       },
       "boundary": [
         [
@@ -4347,11 +4351,7 @@
             -73.641029
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5284,
-        "lng": -73.6303
-      }
+      ]
     },
     "VSMPE-4b": {
       "recurring": {
@@ -4380,6 +4380,10 @@
           "frequency": "weekly",
           "notes": "Place bins curbside between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.535,
+        "lng": -73.6324
       },
       "boundary": [
         [
@@ -5088,11 +5092,7 @@
             -73.648546
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.535,
-        "lng": -73.6324
-      }
+      ]
     },
     "VSMPE-C-1": {
       "recurring": {
@@ -5121,6 +5121,10 @@
           "frequency": "weekly",
           "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5763,
+        "lng": -73.6212
       },
       "boundary": [
         [
@@ -5657,11 +5661,7 @@
             -73.612595
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5763,
-        "lng": -73.6212
-      }
+      ]
     },
     "VSMPE-C-2": {
       "recurring": {
@@ -5690,6 +5690,10 @@
           "frequency": "weekly",
           "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5465,
+        "lng": -73.6222
       },
       "boundary": [
         [
@@ -6326,11 +6330,7 @@
             -73.608596
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5465,
-        "lng": -73.6222
-      }
+      ]
     },
     "VSMPE-C-3": {
       "recurring": {
@@ -6359,6 +6359,10 @@
           "frequency": "weekly",
           "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.535,
+        "lng": -73.6324
       },
       "boundary": [
         [
@@ -7095,11 +7099,7 @@
             -73.640332
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.535,
-        "lng": -73.6324
-      }
+      ]
     },
     "VSMPE-C-4": {
       "recurring": {
@@ -7128,6 +7128,10 @@
           "frequency": "weekly",
           "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.553,
+        "lng": -73.6077
       },
       "boundary": [
         [
@@ -7876,11 +7880,7 @@
             -73.6002
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.553,
-        "lng": -73.6077
-      }
+      ]
     },
     "VSMPE-R-1": {
       "recurring": {
@@ -7909,6 +7909,10 @@
           "frequency": "weekly",
           "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.565,
+        "lng": -73.6221
       },
       "boundary": [
         [
@@ -8989,11 +8993,7 @@
             -73.612595
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.565,
-        "lng": -73.6221
-      }
+      ]
     },
     "VSMPE-R-2": {
       "recurring": {
@@ -9022,6 +9022,10 @@
           "frequency": "weekly",
           "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5413,
+        "lng": -73.627
       },
       "boundary": [
         [
@@ -9586,11 +9590,7 @@
             -73.613748
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5413,
-        "lng": -73.627
-      }
+      ]
     },
     "VSMPE-R-3": {
       "recurring": {
@@ -9619,6 +9619,10 @@
           "frequency": "weekly",
           "notes": "Place bins between 8 p.m. night before and 7 a.m. No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.5284,
+        "lng": -73.6303
       },
       "boundary": [
         [
@@ -9947,11 +9951,7 @@
             -73.638226
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5284,
-        "lng": -73.6303
-      }
+      ]
     },
     "VSMPE-R-4": {
       "recurring": {
@@ -9980,6 +9980,10 @@
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place items between 8 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5632,
+        "lng": -73.5975
       },
       "boundary": [
         [
@@ -10364,11 +10368,7 @@
             -73.587813
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5632,
-        "lng": -73.5975
-      }
+      ]
     }
   },
   "cityBoundary": [

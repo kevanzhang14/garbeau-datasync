@@ -70,6 +70,16 @@
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
+      "_no_scrape": [
+        "garbage",
+        "organics",
+        "leaves",
+        "bulky"
+      ],
+      "centroid": {
+        "lat": 45.6327,
+        "lng": -73.5955
+      },
       "boundary": [
         [
           [
@@ -1945,17 +1955,7 @@
             -73.583526
           ]
         ]
-      ],
-      "_no_scrape": [
-        "garbage",
-        "organics",
-        "leaves",
-        "bulky"
-      ],
-      "centroid": {
-        "lat": 45.6327,
-        "lng": -73.5955
-      }
+      ]
     },
     "RDPPAT-E-2": {
       "recurring": {
@@ -1984,6 +1984,16 @@
           "frequency": "weekly",
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "_no_scrape": [
+        "garbage",
+        "organics",
+        "leaves",
+        "bulky"
+      ],
+      "centroid": {
+        "lat": 45.6469,
+        "lng": -73.5103
       },
       "boundary": [
         [
@@ -4144,17 +4154,7 @@
             -73.487587
           ]
         ]
-      ],
-      "_no_scrape": [
-        "garbage",
-        "organics",
-        "leaves",
-        "bulky"
-      ],
-      "centroid": {
-        "lat": 45.6469,
-        "lng": -73.5103
-      }
+      ]
     },
     "RDPPAT-E-3": {
       "recurring": {
@@ -4183,6 +4183,16 @@
           "frequency": "weekly",
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "_no_scrape": [
+        "garbage",
+        "organics",
+        "leaves",
+        "bulky"
+      ],
+      "centroid": {
+        "lat": 45.6765,
+        "lng": -73.512
       },
       "boundary": [
         [
@@ -8855,17 +8865,7 @@
             -73.550624
           ]
         ]
-      ],
-      "_no_scrape": [
-        "garbage",
-        "organics",
-        "leaves",
-        "bulky"
-      ],
-      "centroid": {
-        "lat": 45.6765,
-        "lng": -73.512
-      }
+      ]
     },
     "RDPPAT-E-4": {
       "recurring": {
@@ -8894,6 +8894,16 @@
           "frequency": "weekly",
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "_no_scrape": [
+        "garbage",
+        "organics",
+        "leaves",
+        "bulky"
+      ],
+      "centroid": {
+        "lat": 45.6502,
+        "lng": -73.5619
       },
       "boundary": [
         [
@@ -11194,17 +11204,7 @@
             -73.583247
           ]
         ]
-      ],
-      "_no_scrape": [
-        "garbage",
-        "organics",
-        "leaves",
-        "bulky"
-      ],
-      "centroid": {
-        "lat": 45.6502,
-        "lng": -73.5619
-      }
+      ]
     },
     "CD-E-1": {
       "recurring": {
@@ -11233,6 +11233,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.667,
+        "lng": -73.5337
       },
       "boundary": [
         [
@@ -12469,14 +12476,7 @@
             -73.510415
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.667,
-        "lng": -73.5337
-      }
+      ]
     },
     "CD-E-2": {
       "recurring": {
@@ -12505,6 +12505,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.6274,
+        "lng": -73.6004
       },
       "boundary": [
         [
@@ -13841,14 +13848,7 @@
             -73.598532
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.6274,
-        "lng": -73.6004
-      }
+      ]
     },
     "CD-E-3": {
       "recurring": {
@@ -13877,6 +13877,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.6505,
+        "lng": -73.5659
       },
       "boundary": [
         [
@@ -15045,14 +15052,7 @@
             -73.583434
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.6505,
-        "lng": -73.5659
-      }
+      ]
     },
     "CD-E-4": {
       "recurring": {
@@ -15081,6 +15081,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.6401,
+        "lng": -73.5825
       },
       "boundary": [
         [
@@ -16593,14 +16600,7 @@
             -73.598391
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.6401,
-        "lng": -73.5825
-      }
+      ]
     },
     "CD-R-1": {
       "recurring": {
@@ -16629,6 +16629,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.6509,
+        "lng": -73.5134
       },
       "boundary": [
         [
@@ -18645,14 +18652,7 @@
             -73.502513
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.6509,
-        "lng": -73.5134
-      }
+      ]
     },
     "CD-R-2": {
       "recurring": {
@@ -18681,6 +18681,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.6637,
+        "lng": -73.4996
       },
       "boundary": [
         [
@@ -21693,14 +21700,7 @@
             -73.504184
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.6637,
-        "lng": -73.4996
-      }
+      ]
     },
     "CD-R-3": {
       "recurring": {
@@ -21729,6 +21729,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.6867,
+        "lng": -73.4989
       },
       "boundary": [
         [
@@ -24593,14 +24600,7 @@
             -73.508906
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.6867,
-        "lng": -73.4989
-      }
+      ]
     },
     "CD-R-4": {
       "recurring": {
@@ -24629,6 +24629,13 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "_no_scrape": [
+        "recycling"
+      ],
+      "centroid": {
+        "lat": 45.645,
+        "lng": -73.4947
       },
       "boundary": [
         [
@@ -27177,14 +27184,7 @@
             -73.48748
           ]
         ]
-      ],
-      "_no_scrape": [
-        "recycling"
-      ],
-      "centroid": {
-        "lat": 45.645,
-        "lng": -73.4947
-      }
+      ]
     }
   },
   "cityBoundary": [

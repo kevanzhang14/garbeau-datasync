@@ -91,6 +91,10 @@
           "notes": "hoursOvernight7pmto7am"
         }
       },
+      "centroid": {
+        "lat": 45.4286,
+        "lng": -73.6006
+      },
       "boundary": [
         [
           [
@@ -4242,11 +4246,7 @@
             -73.598861
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4286,
-        "lng": -73.6006
-      }
+      ]
     },
     "LSL2": {
       "recurring": {
@@ -4296,6 +4296,10 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "centroid": {
+        "lat": 45.4205,
+        "lng": -73.629
       },
       "boundary": [
         [
@@ -6972,11 +6976,7 @@
             -73.64905
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4205,
-        "lng": -73.629
-      }
+      ]
     },
     "LSL3": {
       "recurring": {
@@ -7026,6 +7026,10 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "centroid": {
+        "lat": 45.4332,
+        "lng": -73.6438
       },
       "boundary": [
         [
@@ -8454,11 +8458,7 @@
             -73.634409
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4332,
-        "lng": -73.6438
-      }
+      ]
     },
     "LSL4": {
       "recurring": {
@@ -8508,6 +8508,10 @@
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
         }
+      },
+      "centroid": {
+        "lat": 45.4402,
+        "lng": -73.6173
       },
       "boundary": [
         [
@@ -8808,11 +8812,7 @@
             -73.634409
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4402,
-        "lng": -73.6173
-      }
+      ]
     }
   },
   "cityBoundary": [

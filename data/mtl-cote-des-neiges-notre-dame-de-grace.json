@@ -70,6 +70,10 @@
           "notes": "Mondays. Place bins between 9 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.4606,
+        "lng": -73.6318
+      },
       "boundary": [
         [
           [
@@ -1213,11 +1217,7 @@
             -73.615763
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4606,
-        "lng": -73.6318
-      }
+      ]
     },
     "CDNNDG-2": {
       "recurring": {
@@ -1246,6 +1246,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins between 9 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4653,
+        "lng": -73.6451
       },
       "boundary": [
         [
@@ -3294,11 +3298,7 @@
             -73.641961
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4653,
-        "lng": -73.6451
-      }
+      ]
     },
     "CDNNDG-3": {
       "recurring": {
@@ -3327,6 +3327,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins between 9 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4787,
+        "lng": -73.6246
       },
       "boundary": [
         [
@@ -4963,11 +4967,7 @@
             -73.641961
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4787,
-        "lng": -73.6246
-      }
+      ]
     },
     "CDNNDG-4": {
       "recurring": {
@@ -4996,6 +4996,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins between 9 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4715,
+        "lng": -73.6112
       },
       "boundary": [
         [
@@ -6080,11 +6084,7 @@
             -73.615763
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4715,
-        "lng": -73.6112
-      }
+      ]
     },
     "CDNNDG-5": {
       "recurring": {
@@ -6113,6 +6113,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins between 9 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4921,
+        "lng": -73.6457
       },
       "boundary": [
         [
@@ -8673,11 +8677,7 @@
             -73.642307
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4921,
-        "lng": -73.6457
-      }
+      ]
     },
     "CDNNDG-6": {
       "recurring": {
@@ -8706,6 +8706,10 @@
           "frequency": "weekly",
           "notes": "Mondays. Place bins between 9 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5108,
+        "lng": -73.6369
       },
       "boundary": [
         [
@@ -8962,11 +8966,7 @@
             -73.631584
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5108,
-        "lng": -73.6369
-      }
+      ]
     },
     "CDNNDG-7": {
       "recurring": {
@@ -8995,6 +8995,10 @@
           "frequency": "weekly",
           "notes": "Thursdays. Place bins between 8 a.m. and 4:30 p.m. on collection day. Food and green waste collected together."
         }
+      },
+      "centroid": {
+        "lat": 45.5038,
+        "lng": -73.6191
       },
       "boundary": [
         [
@@ -11011,11 +11015,7 @@
             -73.631584
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5038,
-        "lng": -73.6191
-      }
+      ]
     },
     "CDNNDG-8": {
       "recurring": {
@@ -11044,6 +11044,10 @@
           "frequency": "weekly",
           "notes": "Thursdays. Place bins between 8 a.m. and 4:30 p.m. on collection day. Food and green waste collected together."
         }
+      },
+      "centroid": {
+        "lat": 45.4967,
+        "lng": -73.6228
       },
       "boundary": [
         [
@@ -11520,11 +11524,7 @@
             -73.6277
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4967,
-        "lng": -73.6228
-      }
+      ]
     }
   },
   "cityBoundary": [

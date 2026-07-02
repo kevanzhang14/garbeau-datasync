@@ -97,6 +97,10 @@
           "notes": "hoursOvernight7pmto7am"
         }
       },
+      "centroid": {
+        "lat": 45.4921,
+        "lng": -73.5604
+      },
       "boundary": [
         [
           [
@@ -680,11 +684,7 @@
             -73.567032
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4921,
-        "lng": -73.5604
-      }
+      ]
     },
     "SO-2": {
       "recurring": {
@@ -742,6 +742,10 @@
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4794,
+        "lng": -73.5579
       },
       "boundary": [
         [
@@ -2212,11 +2216,7 @@
             -73.556549
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4794,
-        "lng": -73.5579
-      }
+      ]
     },
     "SO-3": {
       "recurring": {
@@ -2273,6 +2273,10 @@
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4605,
+        "lng": -73.5879
       },
       "boundary": [
         [
@@ -2813,11 +2817,7 @@
             -73.581006
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4605,
-        "lng": -73.5879
-      }
+      ]
     },
     "SO-4": {
       "recurring": {
@@ -2875,6 +2875,10 @@
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4498,
+        "lng": -73.6007
       },
       "boundary": [
         [
@@ -3435,11 +3439,7 @@
             -73.597835
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4498,
-        "lng": -73.6007
-      }
+      ]
     },
     "SO-5-R1": {
       "recurring": {
@@ -3497,6 +3497,10 @@
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.483,
+        "lng": -73.5809
       },
       "boundary": [
         [
@@ -4245,11 +4249,7 @@
             -73.57525
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.483,
-        "lng": -73.5809
-      }
+      ]
     },
     "SO-5-R2": {
       "recurring": {
@@ -4307,6 +4307,10 @@
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4762,
+        "lng": -73.5818
       },
       "boundary": [
         [
@@ -4875,11 +4879,7 @@
             -73.575644
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4762,
-        "lng": -73.5818
-      }
+      ]
     },
     "SO-5-R3": {
       "recurring": {
@@ -4937,6 +4937,10 @@
           "frequency": "weekly",
           "notes": "hoursMorning5to7"
         }
+      },
+      "centroid": {
+        "lat": 45.4873,
+        "lng": -73.5713
       },
       "boundary": [
         [
@@ -5457,11 +5461,7 @@
             -73.572095
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4873,
-        "lng": -73.5713
-      }
+      ]
     },
     "SO-5-R3-MR": {
       "recurring": {
@@ -5519,6 +5519,10 @@
           "frequency": "weekly",
           "notes": "No plastic bags — use paper bags or newspaper."
         }
+      },
+      "centroid": {
+        "lat": 45.4874,
+        "lng": -73.572
       },
       "boundary": [
         [
@@ -6147,11 +6151,7 @@
             -73.572095
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4874,
-        "lng": -73.572
-      }
+      ]
     },
     "SO-5-R4": {
       "recurring": {
@@ -6180,6 +6180,10 @@
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4638,
+        "lng": -73.6071
       },
       "boundary": [
         [
@@ -6860,11 +6864,7 @@
             -73.590952
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4638,
-        "lng": -73.6071
-      }
+      ]
     }
   },
   "cityBoundary": [

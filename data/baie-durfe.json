@@ -53,6 +53,7 @@
   },
   "zones": {
     "BDU": {
+      "label": "Baie-D'Urfe",
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
@@ -118,7 +119,10 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "label": "Baie-D'Urfe",
+      "centroid": {
+        "lat": 45.4174,
+        "lng": -73.9143
+      },
       "boundary": [
         [
           [
@@ -218,11 +222,7 @@
             -73.89529245798133
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4174,
-        "lng": -73.9143
-      }
+      ]
     }
   },
   "special": {

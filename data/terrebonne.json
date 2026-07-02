@@ -49,6 +49,78 @@
   "zones": {
     "A-1": {
       "label": "Zone A-1",
+      "recurring": {
+        "bulky": {
+          "dayOfWeek": 3,
+          "frequency": "monthly",
+          "weekOfMonth": 2,
+          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
+          "anchorDate": "2026-01-14"
+        },
+        "christmas_tree": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "dates": [
+            "2026-01-12"
+          ],
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
+        },
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-09",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+        },
+        "leaves": {
+          "dayOfWeek": null,
+          "frequency": "monthly",
+          "informationalCard": true,
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
+          "dates": [
+            "2026-05-11",
+            "2026-05-12",
+            "2026-05-13",
+            "2026-05-14",
+            "2026-05-15",
+            "2026-10-12",
+            "2026-10-13",
+            "2026-10-14",
+            "2026-10-15",
+            "2026-10-16",
+            "2026-10-26",
+            "2026-10-27",
+            "2026-10-28",
+            "2026-10-29",
+            "2026-10-30",
+            "2026-11-09",
+            "2026-11-10",
+            "2026-11-11",
+            "2026-11-12",
+            "2026-11-13"
+          ]
+        },
+        "organics": {
+          "dayOfWeek": 4,
+          "frequency": "weekly",
+          "seasonalOverride": {
+            "startDate": "2026-12-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-08"
+        },
+        "recycling": {
+          "dayOfWeek": 1,
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-12",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-29"
+          ]
+        }
+      },
       "centroid": {
         "lat": 45.7804,
         "lng": -73.7401
@@ -232,7 +304,10 @@
             -73.730689
           ]
         ]
-      ],
+      ]
+    },
+    "A-2": {
+      "label": "Zone A-2",
       "recurring": {
         "bulky": {
           "dayOfWeek": 3,
@@ -248,19 +323,22 @@
           "dates": [
             "2026-01-12"
           ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
         },
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 2,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-09",
-          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+          "anchorDate": "2026-01-13",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "extraDates": [
+            "2026-01-05"
+          ]
         },
         "leaves": {
           "dayOfWeek": null,
           "frequency": "monthly",
           "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
           "dates": [
             "2026-05-11",
             "2026-05-12",
@@ -292,22 +370,19 @@
             "endDate": "2027-04-30",
             "frequency": "biweekly"
           },
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
           "anchorDate": "2026-01-08"
         },
         "recycling": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 2,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-12",
+          "anchorDate": "2026-01-06",
           "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
           "extraDates": [
             "2026-12-29"
           ]
         }
-      }
-    },
-    "A-2": {
-      "label": "Zone A-2",
+      },
       "centroid": {
         "lat": 45.711,
         "lng": -73.7603
@@ -491,14 +566,17 @@
             -73.686337
           ]
         ]
-      ],
+      ]
+    },
+    "B-1": {
+      "label": "Zone B-1",
       "recurring": {
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "weekOfMonth": 2,
+          "weekOfMonth": 4,
           "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
-          "anchorDate": "2026-01-14"
+          "anchorDate": "2026-01-28"
         },
         "christmas_tree": {
           "dayOfWeek": null,
@@ -507,22 +585,19 @@
           "dates": [
             "2026-01-12"
           ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
         },
         "garbage": {
           "dayOfWeek": 2,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-13",
-          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
-          "extraDates": [
-            "2026-01-05"
-          ]
+          "anchorDate": "2026-01-06",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
         },
         "leaves": {
           "dayOfWeek": null,
           "frequency": "monthly",
           "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
           "dates": [
             "2026-05-11",
             "2026-05-12",
@@ -554,22 +629,16 @@
             "endDate": "2027-04-30",
             "frequency": "biweekly"
           },
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
-          "anchorDate": "2026-01-08"
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-15"
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-06",
-          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
-          "extraDates": [
-            "2026-12-29"
-          ]
+          "anchorDate": "2026-01-13",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics."
         }
-      }
-    },
-    "B-1": {
-      "label": "Zone B-1",
+      },
       "centroid": {
         "lat": 45.6912,
         "lng": -73.7273
@@ -765,7 +834,10 @@
             -73.761195
           ]
         ]
-      ],
+      ]
+    },
+    "B-2": {
+      "label": "Zone B-2",
       "recurring": {
         "bulky": {
           "dayOfWeek": 3,
@@ -781,19 +853,22 @@
           "dates": [
             "2026-01-12"
           ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
         },
         "garbage": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 1,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-06",
-          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+          "anchorDate": "2026-01-12",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "extraDates": [
+            "2026-01-06"
+          ]
         },
         "leaves": {
           "dayOfWeek": null,
           "frequency": "monthly",
           "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
           "dates": [
             "2026-05-11",
             "2026-05-12",
@@ -825,19 +900,19 @@
             "endDate": "2027-04-30",
             "frequency": "biweekly"
           },
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
           "anchorDate": "2026-01-15"
         },
         "recycling": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 1,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-13",
-          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics."
+          "anchorDate": "2026-01-05",
+          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "extraDates": [
+            "2026-12-30"
+          ]
         }
-      }
-    },
-    "B-2": {
-      "label": "Zone B-2",
+      },
       "centroid": {
         "lat": 45.7081,
         "lng": -73.679
@@ -993,7 +1068,10 @@
             -73.668596
           ]
         ]
-      ],
+      ]
+    },
+    "B-3": {
+      "label": "Zone B-3",
       "recurring": {
         "bulky": {
           "dayOfWeek": 3,
@@ -1009,22 +1087,19 @@
           "dates": [
             "2026-01-12"
           ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
         },
         "garbage": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-12",
-          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
-          "extraDates": [
-            "2026-01-06"
-          ]
+          "anchorDate": "2026-01-05",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
         },
         "leaves": {
           "dayOfWeek": null,
           "frequency": "monthly",
           "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
           "dates": [
             "2026-05-11",
             "2026-05-12",
@@ -1056,22 +1131,19 @@
             "endDate": "2027-04-30",
             "frequency": "biweekly"
           },
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
           "anchorDate": "2026-01-15"
         },
         "recycling": {
-          "dayOfWeek": 1,
+          "dayOfWeek": 3,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-05",
+          "anchorDate": "2026-01-12",
           "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
           "extraDates": [
             "2026-12-30"
           ]
         }
-      }
-    },
-    "B-3": {
-      "label": "Zone B-3",
+      },
       "centroid": {
         "lat": 45.6925,
         "lng": -73.6489
@@ -1349,14 +1421,17 @@
             -73.65126
           ]
         ]
-      ],
+      ]
+    },
+    "C-1": {
+      "label": "Zone C-1",
       "recurring": {
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "weekOfMonth": 4,
+          "weekOfMonth": 1,
           "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
-          "anchorDate": "2026-01-28"
+          "anchorDate": "2026-01-07"
         },
         "christmas_tree": {
           "dayOfWeek": null,
@@ -1365,19 +1440,19 @@
           "dates": [
             "2026-01-12"
           ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
         },
         "garbage": {
-          "dayOfWeek": 3,
+          "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-05",
+          "anchorDate": "2026-01-14",
           "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
         },
         "leaves": {
           "dayOfWeek": null,
           "frequency": "monthly",
           "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
           "dates": [
             "2026-05-11",
             "2026-05-12",
@@ -1402,29 +1477,26 @@
           ]
         },
         "organics": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 3,
           "frequency": "weekly",
           "seasonalOverride": {
             "startDate": "2026-12-01",
             "endDate": "2027-04-30",
             "frequency": "biweekly"
           },
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
-          "anchorDate": "2026-01-15"
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-14"
         },
         "recycling": {
-          "dayOfWeek": 3,
+          "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-12",
+          "anchorDate": "2026-01-14",
           "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
           "extraDates": [
-            "2026-12-30"
+            "2026-12-29"
           ]
         }
-      }
-    },
-    "C-1": {
-      "label": "Zone C-1",
+      },
       "centroid": {
         "lat": 45.7097,
         "lng": -73.6183
@@ -1620,7 +1692,10 @@
             -73.668405
           ]
         ]
-      ],
+      ]
+    },
+    "C-2": {
+      "label": "Zone C-2",
       "recurring": {
         "bulky": {
           "dayOfWeek": 3,
@@ -1636,19 +1711,22 @@
           "dates": [
             "2026-01-12"
           ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
         },
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-14",
-          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am."
+          "anchorDate": "2026-01-09",
+          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "extraDates": [
+            "2026-01-05"
+          ]
         },
         "leaves": {
           "dayOfWeek": null,
           "frequency": "monthly",
           "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
           "dates": [
             "2026-05-11",
             "2026-05-12",
@@ -1680,22 +1758,19 @@
             "endDate": "2027-04-30",
             "frequency": "biweekly"
           },
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
           "anchorDate": "2026-01-14"
         },
         "recycling": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-14",
+          "anchorDate": "2026-01-09",
           "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
           "extraDates": [
             "2026-12-29"
           ]
         }
-      }
-    },
-    "C-2": {
-      "label": "Zone C-2",
+      },
       "centroid": {
         "lat": 45.7221,
         "lng": -73.5385
@@ -1923,14 +1998,17 @@
             -73.487625
           ]
         ]
-      ],
+      ]
+    },
+    "D": {
+      "label": "Zone D",
       "recurring": {
         "bulky": {
           "dayOfWeek": 3,
           "frequency": "monthly",
-          "weekOfMonth": 1,
+          "weekOfMonth": 4,
           "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
-          "anchorDate": "2026-01-07"
+          "anchorDate": "2026-01-28"
         },
         "christmas_tree": {
           "dayOfWeek": null,
@@ -1939,22 +2017,22 @@
           "dates": [
             "2026-01-12"
           ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
+          "notes": "Single annual collection. Remove all decorations — no artificial snow. Place at curb 48h before collection."
         },
         "garbage": {
-          "dayOfWeek": 5,
-          "frequency": "biweekly",
-          "anchorDate": "2026-01-09",
+          "dayOfWeek": 1,
+          "frequency": "weekly",
           "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
+          "anchorDate": "2026-01-05",
           "extraDates": [
-            "2026-01-05"
+            "2026-12-29"
           ]
         },
         "leaves": {
           "dayOfWeek": null,
           "frequency": "monthly",
           "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
+          "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m × 30 cm). No ash branches Mar–Sep.",
           "dates": [
             "2026-05-11",
             "2026-05-12",
@@ -1979,29 +2057,24 @@
           ]
         },
         "organics": {
-          "dayOfWeek": 3,
+          "dayOfWeek": 4,
           "frequency": "weekly",
-          "seasonalOverride": {
-            "startDate": "2026-12-01",
-            "endDate": "2027-04-30",
-            "frequency": "biweekly"
-          },
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
-          "anchorDate": "2026-01-14"
+          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags — use paper bags or place loose. Winter: biweekly (Dec–Apr).",
+          "anchorDate": "2026-01-08",
+          "extraDates": [
+            "2026-01-02"
+          ]
         },
         "recycling": {
-          "dayOfWeek": 5,
-          "frequency": "biweekly",
-          "anchorDate": "2026-01-09",
+          "dayOfWeek": 3,
+          "frequency": "weekly",
           "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
+          "anchorDate": "2026-01-07",
           "extraDates": [
-            "2026-12-29"
+            "2026-12-30"
           ]
         }
-      }
-    },
-    "D": {
-      "label": "Zone D",
+      },
       "centroid": {
         "lat": 45.693,
         "lng": -73.6352
@@ -2149,80 +2222,7 @@
             -73.641561
           ]
         ]
-      ],
-      "recurring": {
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "monthly",
-          "weekOfMonth": 4,
-          "notes": "Furniture, mattresses, BBQs, and non-refrigerant appliances. No construction debris, electronics, or branches. Fridge/freezer: free pickup by appointment via GoRecycle.",
-          "anchorDate": "2026-01-28"
-        },
-        "christmas_tree": {
-          "dayOfWeek": null,
-          "frequency": "monthly",
-          "informationalCard": true,
-          "dates": [
-            "2026-01-12"
-          ],
-          "notes": "Single annual collection. Remove all decorations \u2014 no artificial snow. Place at curb 48h before collection."
-        },
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "1 bin per address. No construction materials, recyclables, or organics. Place bin at curb by 7am.",
-          "anchorDate": "2026-01-05",
-          "extraDates": [
-            "2026-12-29"
-          ]
-        },
-        "leaves": {
-          "dayOfWeek": null,
-          "frequency": "monthly",
-          "informationalCard": true,
-          "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags. Branches up to 2.5 cm diameter, tied in bundles (max 1 m \u00d7 30 cm). No ash branches Mar\u2013Sep.",
-          "dates": [
-            "2026-05-11",
-            "2026-05-12",
-            "2026-05-13",
-            "2026-05-14",
-            "2026-05-15",
-            "2026-10-12",
-            "2026-10-13",
-            "2026-10-14",
-            "2026-10-15",
-            "2026-10-16",
-            "2026-10-26",
-            "2026-10-27",
-            "2026-10-28",
-            "2026-10-29",
-            "2026-10-30",
-            "2026-11-09",
-            "2026-11-10",
-            "2026-11-11",
-            "2026-11-12",
-            "2026-11-13"
-          ]
-        },
-        "organics": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "notes": "Food scraps, yard waste, and soiled paper/cardboard. No plastic or compostable bags \u2014 use paper bags or place loose. Winter: biweekly (Dec\u2013Apr).",
-          "anchorDate": "2026-01-08",
-          "extraDates": [
-            "2026-01-02"
-          ]
-        },
-        "recycling": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "Containers, packaging, and printed materials only. No plastic bags, Styrofoam, or electronics.",
-          "anchorDate": "2026-01-07",
-          "extraDates": [
-            "2026-12-30"
-          ]
-        }
-      }
+      ]
     }
   },
   "lookupStrategy": {
@@ -2252,7 +2252,7 @@
         "2026-11-12",
         "2026-11-13"
       ],
-      "notes": "Spring (May) and fall (Oct\u2013Nov) fixed-date collection windows. Paper bags or labelled bins only \u2014 no plastic bags."
+      "notes": "Spring (May) and fall (Oct–Nov) fixed-date collection windows. Paper bags or labelled bins only — no plastic bags."
     },
     "christmas_tree": {
       "dates": [

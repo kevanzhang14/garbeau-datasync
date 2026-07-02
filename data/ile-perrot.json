@@ -92,6 +92,10 @@
           "notes": "See branch collection rules and dates on the city website."
         }
       },
+      "centroid": {
+        "lat": 45.3913,
+        "lng": -73.9584
+      },
       "boundary": [
         [
           [
@@ -303,11 +307,7 @@
             -73.98626569999632
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.3913,
-        "lng": -73.9584
-      }
+      ]
     }
   },
   "cityBoundary": [

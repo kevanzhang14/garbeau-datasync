@@ -109,6 +109,10 @@
           "notes": "Residential only. 1st and 3rd Wednesday. Mattresses and upholstered items go with garbage. No refrigeration appliances — take to ecocentre."
         }
       },
+      "centroid": {
+        "lat": 45.5272,
+        "lng": -73.721
+      },
       "boundary": [
         [
           [
@@ -1144,11 +1148,7 @@
             -73.680758
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5272,
-        "lng": -73.721
-      }
+      ]
     },
     "AC-10": {
       "recurring": {
@@ -1216,6 +1216,10 @@
             3
           ]
         }
+      },
+      "centroid": {
+        "lat": 45.5319,
+        "lng": -73.6862
       },
       "boundary": [
         [
@@ -1500,11 +1504,7 @@
             -73.683991
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5319,
-        "lng": -73.6862
-      }
+      ]
     },
     "AC-2": {
       "recurring": {
@@ -1571,6 +1571,10 @@
           ],
           "notes": "Residential only. 1st and 3rd Wednesday. Mattresses and upholstered items go with garbage. No refrigeration appliances — take to ecocentre."
         }
+      },
+      "centroid": {
+        "lat": 45.5469,
+        "lng": -73.6739
       },
       "boundary": [
         [
@@ -3887,11 +3891,7 @@
             -73.651299
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5469,
-        "lng": -73.6739
-      }
+      ]
     },
     "AC-3": {
       "recurring": {
@@ -3958,6 +3958,10 @@
           ],
           "notes": "Residential only. 1st and 3rd Wednesday. Mattresses and upholstered items go with garbage. No refrigeration appliances — take to ecocentre."
         }
+      },
+      "centroid": {
+        "lat": 45.5696,
+        "lng": -73.6532
       },
       "boundary": [
         [
@@ -6722,11 +6726,7 @@
             -73.644767
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5696,
-        "lng": -73.6532
-      }
+      ]
     },
     "AC-4": {
       "recurring": {
@@ -6794,6 +6794,10 @@
           ],
           "notes": "Residential only. 1st and 3rd Wednesday. Mattresses and upholstered items go with garbage. No refrigeration appliances — take to ecocentre."
         }
+      },
+      "centroid": {
+        "lat": 45.5446,
+        "lng": -73.6499
       },
       "boundary": [
         [
@@ -7950,11 +7954,7 @@
             -73.683214
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5446,
-        "lng": -73.6499
-      }
+      ]
     },
     "AC-5": {
       "recurring": {
@@ -8021,6 +8021,10 @@
           "frequency": "weekly",
           "notes": "Food waste Fridays, 7 a.m. to 4 p.m. Food waste collection replaced the second weekly garbage pickup."
         }
+      },
+      "centroid": {
+        "lat": 45.5655,
+        "lng": -73.6564
       },
       "boundary": [
         [
@@ -10049,11 +10053,7 @@
             -73.661061
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5655,
-        "lng": -73.6564
-      }
+      ]
     },
     "AC-6": {
       "recurring": {
@@ -10120,6 +10120,10 @@
           "frequency": "weekly",
           "notes": "Food waste Fridays, 7 a.m. to 4 p.m. Food waste collection replaced the second weekly garbage pickup."
         }
+      },
+      "centroid": {
+        "lat": 45.5755,
+        "lng": -73.6487
       },
       "boundary": [
         [
@@ -10812,11 +10816,7 @@
             -73.636238
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5755,
-        "lng": -73.6487
-      }
+      ]
     },
     "AC-7": {
       "recurring": {
@@ -10884,6 +10884,10 @@
           "frequency": "weekly",
           "notes": "Food waste Fridays, 7 a.m. to 4 p.m. Food waste collection replaced the second weekly garbage pickup."
         }
+      },
+      "centroid": {
+        "lat": 45.5538,
+        "lng": -73.6405
       },
       "boundary": [
         [
@@ -11192,11 +11196,7 @@
             -73.621944
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5538,
-        "lng": -73.6405
-      }
+      ]
     },
     "AC-8": {
       "recurring": {
@@ -11264,6 +11264,10 @@
           "frequency": "weekly",
           "notes": "Food waste Fridays, 7 a.m. to 4 p.m. Food waste collection replaced the second weekly garbage pickup."
         }
+      },
+      "centroid": {
+        "lat": 45.537,
+        "lng": -73.6588
       },
       "boundary": [
         [
@@ -11792,11 +11796,7 @@
             -73.646877
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.537,
-        "lng": -73.6588
-      }
+      ]
     },
     "AC-9": {
       "recurring": {
@@ -11864,6 +11864,10 @@
           "frequency": "weekly",
           "notes": "Food waste Fridays, 7 a.m. to 4 p.m. Food waste collection replaced the second weekly garbage pickup."
         }
+      },
+      "centroid": {
+        "lat": 45.5347,
+        "lng": -73.6541
       },
       "boundary": [
         [
@@ -12072,11 +12076,7 @@
             -73.647946
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5347,
-        "lng": -73.6541
-      }
+      ]
     }
   },
   "cityBoundary": [

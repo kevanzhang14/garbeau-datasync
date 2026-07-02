@@ -88,6 +88,10 @@
           "notes": "Date-based bulky collection for Eastern sector from the 2026 city calendar"
         }
       },
+      "centroid": {
+        "lat": 45.3971,
+        "lng": -74.126
+      },
       "boundary": [
         [
           [
@@ -499,11 +503,7 @@
             -74.14750944394079
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.3971,
-        "lng": -74.126
-      }
+      ]
     },
     "WEST": {
       "label": "Western sector",
@@ -548,6 +548,10 @@
           ],
           "notes": "Date-based bulky collection for Western sector from the 2026 city calendar"
         }
+      },
+      "centroid": {
+        "lat": 45.4119,
+        "lng": -74.1932
       },
       "boundary": [
         [
@@ -940,11 +944,7 @@
             -74.1678378194145
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4119,
-        "lng": -74.1932
-      }
+      ]
     },
     "INTERIOR": {
       "label": "Leaves interior sector",
@@ -962,6 +962,10 @@
           "cycleDays": 5,
           "notes": "Leaf pickup starts on these dates. Each collection cycle takes approximately one week."
         }
+      },
+      "centroid": {
+        "lat": 45.4177,
+        "lng": -74.1591
       },
       "boundary": [
         [
@@ -1054,11 +1058,7 @@
             -74.18707847236399
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4177,
-        "lng": -74.1591
-      }
+      ]
     },
     "EXTERIOR": {
       "label": "Leaves exterior sector",
@@ -1076,6 +1076,10 @@
           "cycleDays": 5,
           "notes": "Leaf pickup starts on these dates. Each collection cycle takes approximately one week."
         }
+      },
+      "centroid": {
+        "lat": 45.4286,
+        "lng": -74.1832
       },
       "boundary": [
         [
@@ -1624,11 +1628,7 @@
             -74.13554097126746
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4286,
-        "lng": -74.1832
-      }
+      ]
     }
   },
   "cityBoundary": [

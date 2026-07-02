@@ -59,6 +59,27 @@
   "zones": {
     "LAVAL-01": {
       "label": "Zone 1",
+      "recurring": {
+        "garbage": {
+          "dayOfWeek": 1,
+          "frequency": "weekly",
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
+        },
+        "organics": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
+        },
+        "recycling": {
+          "dayOfWeek": 2,
+          "frequency": "weekly",
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
+        }
+      },
+      "centroid": {
+        "lat": 45.5639,
+        "lng": -73.849
+      },
       "boundary": [
         [
           [
@@ -170,31 +191,31 @@
             -73.88228255978265
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-02": {
+      "label": "Zone 2",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5639,
-        "lng": -73.849
-      }
-    },
-    "LAVAL-02": {
-      "label": "Zone 2",
+        "lat": 45.5462,
+        "lng": -73.8212
+      },
       "boundary": [
         [
           [
@@ -262,31 +283,31 @@
             -73.85434327980099
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-03": {
+      "label": "Zone 3",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5462,
-        "lng": -73.8212
-      }
-    },
-    "LAVAL-03": {
-      "label": "Zone 3",
+        "lat": 45.5566,
+        "lng": -73.8358
+      },
       "boundary": [
         [
           [
@@ -518,31 +539,31 @@
             -73.8825748719516
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-04": {
+      "label": "Zone 4",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5566,
-        "lng": -73.8358
-      }
-    },
-    "LAVAL-04": {
-      "label": "Zone 4",
+        "lat": 45.5251,
+        "lng": -73.7969
+      },
       "boundary": [
         [
           [
@@ -730,31 +751,31 @@
             -73.79527194002155
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-05": {
+      "label": "Zone 5",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5251,
-        "lng": -73.7969
-      }
-    },
-    "LAVAL-05": {
-      "label": "Zone 5",
+        "lat": 45.5911,
+        "lng": -73.809
+      },
       "boundary": [
         [
           [
@@ -1094,31 +1115,31 @@
             -73.77910759727418
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-06": {
+      "label": "Zone 6",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5911,
-        "lng": -73.809
-      }
-    },
-    "LAVAL-06": {
-      "label": "Zone 6",
+        "lat": 45.6337,
+        "lng": -73.7602
+      },
       "boundary": [
         [
           [
@@ -1326,31 +1347,31 @@
             -73.74321737498765
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-07": {
+      "label": "Zone 7",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.6337,
-        "lng": -73.7602
-      }
-    },
-    "LAVAL-07": {
-      "label": "Zone 7",
+        "lat": 45.6001,
+        "lng": -73.7651
+      },
       "boundary": [
         [
           [
@@ -1626,31 +1647,31 @@
             -73.75102289843181
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-08": {
+      "label": "Zone 8",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
-          "dayOfWeek": 2,
+          "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.6001,
-        "lng": -73.7651
-      }
-    },
-    "LAVAL-08": {
-      "label": "Zone 8",
+        "lat": 45.6265,
+        "lng": -73.7358
+      },
       "boundary": [
         [
           [
@@ -1898,31 +1919,31 @@
             -73.7344896167037
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-09": {
+      "label": "Zone 9",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
-          "dayOfWeek": 4,
+          "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.6265,
-        "lng": -73.7358
-      }
-    },
-    "LAVAL-09": {
-      "label": "Zone 9",
+        "lat": 45.5436,
+        "lng": -73.7492
+      },
       "boundary": [
         [
           [
@@ -2162,31 +2183,31 @@
             -73.73744448059642
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-10": {
+      "label": "Zone 10",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5436,
-        "lng": -73.7492
-      }
-    },
-    "LAVAL-10": {
-      "label": "Zone 10",
+        "lat": 45.5446,
+        "lng": -73.7796
+      },
       "boundary": [
         [
           [
@@ -2318,31 +2339,31 @@
             -73.79141478562804
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-11": {
+      "label": "Zone 11",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5446,
-        "lng": -73.7796
-      }
-    },
-    "LAVAL-11": {
-      "label": "Zone 11",
+        "lat": 45.5324,
+        "lng": -73.7442
+      },
       "boundary": [
         [
           [
@@ -2522,31 +2543,31 @@
             -73.76603809772688
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-12": {
+      "label": "Zone 12",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5324,
-        "lng": -73.7442
-      }
-    },
-    "LAVAL-12": {
-      "label": "Zone 12",
+        "lat": 45.5602,
+        "lng": -73.7638
+      },
       "boundary": [
         [
           [
@@ -2678,31 +2699,31 @@
             -73.79138368188772
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-13": {
+      "label": "Zone 13",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5602,
-        "lng": -73.7638
-      }
-    },
-    "LAVAL-13": {
-      "label": "Zone 13",
+        "lat": 45.5559,
+        "lng": -73.7013
+      },
       "boundary": [
         [
           [
@@ -3014,31 +3035,31 @@
             -73.69206227789338
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-14": {
+      "label": "Zone 14",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 3,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5559,
-        "lng": -73.7013
-      }
-    },
-    "LAVAL-14": {
-      "label": "Zone 14",
+        "lat": 45.5781,
+        "lng": -73.7252
+      },
       "boundary": [
         [
           [
@@ -3382,31 +3403,31 @@
             -73.69639528200562
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-15": {
+      "label": "Zone 15",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
-          "dayOfWeek": 3,
+          "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5781,
-        "lng": -73.7252
-      }
-    },
-    "LAVAL-15": {
-      "label": "Zone 15",
+        "lat": 45.5754,
+        "lng": -73.687
+      },
       "boundary": [
         [
           [
@@ -3914,31 +3935,31 @@
             -73.69050703048708
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-16": {
+      "label": "Zone 16",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5754,
-        "lng": -73.687
-      }
-    },
-    "LAVAL-16": {
-      "label": "Zone 16",
+        "lat": 45.6027,
+        "lng": -73.7117
+      },
       "boundary": [
         [
           [
@@ -4118,31 +4139,31 @@
             -73.69052686891263
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-17": {
+      "label": "Zone 17",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.6027,
-        "lng": -73.7117
-      }
-    },
-    "LAVAL-17": {
-      "label": "Zone 17",
+        "lat": 45.5949,
+        "lng": -73.6743
+      },
       "boundary": [
         [
           [
@@ -4366,31 +4387,31 @@
             -73.66783411149852
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-18": {
+      "label": "Zone 18",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.5949,
-        "lng": -73.6743
-      }
-    },
-    "LAVAL-18": {
-      "label": "Zone 18",
+        "lat": 45.6628,
+        "lng": -73.6535
+      },
       "boundary": [
         [
           [
@@ -4478,31 +4499,31 @@
             -73.70361050525221
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-19": {
+      "label": "Zone 19",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.6628,
-        "lng": -73.6535
-      }
-    },
-    "LAVAL-19": {
-      "label": "Zone 19",
+        "lat": 45.6148,
+        "lng": -73.67
+      },
       "boundary": [
         [
           [
@@ -4886,31 +4907,31 @@
             -73.70359629685774
           ]
         ]
-      ],
+      ]
+    },
+    "LAVAL-20": {
+      "label": "Zone 20",
       "recurring": {
         "garbage": {
           "dayOfWeek": 1,
           "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
+          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected — keep recyclables, organics, and bulky items separate."
         },
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
+          "notes": "Brown bin weekly (biweekly Dec–Mar). No plastic bags — use paper bags or newspaper. All food waste accepted plus garden waste."
         },
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
+          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material → blue bin."
         }
       },
       "centroid": {
-        "lat": 45.6148,
-        "lng": -73.67
-      }
-    },
-    "LAVAL-20": {
-      "label": "Zone 20",
+        "lat": 45.6503,
+        "lng": -73.6194
+      },
       "boundary": [
         [
           [
@@ -5182,28 +5203,7 @@
             -73.65841129821393
           ]
         ]
-      ],
-      "recurring": {
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "Black bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Only bin contents collected \u2014 keep recyclables, organics, and bulky items separate."
-        },
-        "organics": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "notes": "Brown bin weekly (biweekly Dec\u2013Mar). No plastic bags \u2014 use paper bags or newspaper. All food waste accepted plus garden waste."
-        },
-        "recycling": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "notes": "Blue bin every 2 weeks (since April 2026). Place curbside after 7 p.m. night before or before 7 a.m., lid closed. Rule: container, packaging, or printed material \u2192 blue bin."
-        }
-      },
-      "centroid": {
-        "lat": 45.6503,
-        "lng": -73.6194
-      }
+      ]
     }
   },
   "cityBoundary": [

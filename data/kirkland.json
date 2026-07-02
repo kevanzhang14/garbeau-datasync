@@ -54,6 +54,7 @@
   },
   "zones": {
     "KIRKLAND": {
+      "label": "Kirkland",
       "recurring": {
         "garbage": {
           "dayOfWeek": 5,
@@ -109,7 +110,10 @@
           "notes": "Natural Christmas trees are collected during the published January pickup window."
         }
       },
-      "label": "Kirkland",
+      "centroid": {
+        "lat": 45.4502,
+        "lng": -73.8668
+      },
       "boundary": [
         [
           [
@@ -313,11 +317,7 @@
             -73.8947566384296
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4502,
-        "lng": -73.8668
-      }
+      ]
     }
   },
   "cityBoundary": [

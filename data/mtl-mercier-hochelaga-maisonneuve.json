@@ -99,6 +99,10 @@
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.553,
+        "lng": -73.548
+      },
       "boundary": [
         [
           [
@@ -1278,11 +1282,7 @@
             -73.549605
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.553,
-        "lng": -73.548
-      }
+      ]
     },
     "MHM-41-S": {
       "recurring": {
@@ -1340,6 +1340,10 @@
           "frequency": "weekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5468,
+        "lng": -73.5363
       },
       "boundary": [
         [
@@ -2556,11 +2560,7 @@
             -73.53479
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5468,
-        "lng": -73.5363
-      }
+      ]
     },
     "MHM-42-N": {
       "recurring": {
@@ -2622,6 +2622,10 @@
           "frequency": "weekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5792,
+        "lng": -73.5381
       },
       "boundary": [
         [
@@ -4090,11 +4094,7 @@
             -73.532204
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5792,
-        "lng": -73.5381
-      }
+      ]
     },
     "MHM-42-S": {
       "recurring": {
@@ -4156,6 +4156,10 @@
           "frequency": "weekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5729,
+        "lng": -73.5239
       },
       "boundary": [
         [
@@ -5236,11 +5240,7 @@
             -73.531978
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5729,
-        "lng": -73.5239
-      }
+      ]
     },
     "MHM-43-E": {
       "recurring": {
@@ -5302,6 +5302,10 @@
           "frequency": "weekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.6033,
+        "lng": -73.5366
       },
       "boundary": [
         [
@@ -6546,11 +6550,7 @@
             -73.53877
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.6033,
-        "lng": -73.5366
-      }
+      ]
     },
     "MHM-43-O": {
       "recurring": {
@@ -6612,6 +6612,10 @@
           "frequency": "weekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5851,
+        "lng": -73.5549
       },
       "boundary": [
         [
@@ -7844,11 +7848,7 @@
             -73.548158
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5851,
-        "lng": -73.5549
-      }
+      ]
     },
     "MHM-44": {
       "recurring": {
@@ -7910,6 +7910,10 @@
           "frequency": "weekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.5993,
+        "lng": -73.5188
       },
       "boundary": [
         [
@@ -9226,11 +9230,7 @@
             -73.519135
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.5993,
-        "lng": -73.5188
-      }
+      ]
     }
   },
   "cityBoundary": [

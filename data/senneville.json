@@ -48,6 +48,7 @@
   },
   "zones": {
     "SENNEVILLE": {
+      "label": "Senneville",
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
@@ -81,7 +82,10 @@
           "notes": "Leaves are collected with organics (brown bin)"
         }
       },
-      "label": "Senneville",
+      "centroid": {
+        "lat": 45.4322,
+        "lng": -73.9563
+      },
       "boundary": [
         [
           [
@@ -297,11 +301,7 @@
             -73.92747086331931
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4322,
-        "lng": -73.9563
-      }
+      ]
     }
   },
   "special": {

@@ -102,6 +102,10 @@
           "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
       },
+      "centroid": {
+        "lat": 45.4597,
+        "lng": -73.5484
+      },
       "boundary": [
         [
           [
@@ -1165,11 +1169,7 @@
             -73.5356
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4597,
-        "lng": -73.5484
-      }
+      ]
     },
     "VRD-2": {
       "recurring": {
@@ -1231,6 +1231,10 @@
           ],
           "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.468,
+        "lng": -73.5713
       },
       "boundary": [
         [
@@ -3853,11 +3857,7 @@
             -73.56144
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.468,
-        "lng": -73.5713
-      }
+      ]
     },
     "VRD-3": {
       "recurring": {
@@ -3919,6 +3919,10 @@
           ],
           "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4583,
+        "lng": -73.5743
       },
       "boundary": [
         [
@@ -4953,11 +4957,7 @@
             -73.564683
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4583,
-        "lng": -73.5743
-      }
+      ]
     },
     "VRD-4": {
       "recurring": {
@@ -5020,6 +5020,10 @@
           ],
           "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4491,
+        "lng": -73.5774
       },
       "boundary": [
         [
@@ -5424,11 +5428,7 @@
             -73.567696
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4491,
-        "lng": -73.5774
-      }
+      ]
     },
     "VRD-5": {
       "recurring": {
@@ -5490,6 +5490,10 @@
           ],
           "notes": "Mattresses and upholstered items go with garbage. No refrigeration appliances. Electronics to ecocentre. Place between 7 p.m. night before and 7 a.m."
         }
+      },
+      "centroid": {
+        "lat": 45.4637,
+        "lng": -73.5673
       },
       "boundary": [
         [
@@ -7626,11 +7630,7 @@
             -73.567077
           ]
         ]
-      ],
-      "centroid": {
-        "lat": 45.4637,
-        "lng": -73.5673
-      }
+      ]
     }
   },
   "cityBoundary": [
