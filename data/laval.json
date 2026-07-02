@@ -1,7 +1,7 @@
 {
   "id": "laval",
   "name": "Laval",
-  "lastUpdated": "2026-06-29",
+  "lastUpdated": "2026-07-02",
   "source": "https://www.laval.ca/environnement/collectes/calendrier-collectes/",
   "resources": {
     "general": {
@@ -17,7 +17,8 @@
     "bulky": {
       "title": "Bulky Waste Collection Info",
       "url": "https://www.laval.ca/environnement/collectes/encombrants/",
-      "icon": "external-link"
+      "icon": "external-link",
+      "showLink": true
     },
     "garbage": {
       "title": "Collecte de dechets",
