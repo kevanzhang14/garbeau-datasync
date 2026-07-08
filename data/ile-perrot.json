@@ -65,7 +65,7 @@
         "recycling": {
           "dayOfWeek": 4,
           "frequency": "biweekly",
-          "anchorDate": "2026-01-15",
+          "anchorDate": "2026-01-02",
           "extraDates": [
             "2026-01-02"
           ],
