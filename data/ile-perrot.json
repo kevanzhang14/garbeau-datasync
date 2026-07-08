@@ -1,7 +1,7 @@
 {
   "id": "ile-perrot",
   "name": "L'Île-Perrot",
-  "lastUpdated": "2026-06-23",
+  "lastUpdated": "2026-07-08",
   "source": "https://www.ile-perrot.qc.ca/services/environnement/collecte-des-matieres-residuelles",
   "resources": {
     "general": {
@@ -53,22 +53,29 @@
         "organics": {
           "dayOfWeek": 2,
           "frequency": "weekly",
+          "anchorDate": "2026-01-06",
           "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "weekly",
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-14",
           "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "recycling": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
+          "anchorDate": "2026-01-15",
+          "extraDates": [
+            "2026-01-02"
+          ],
           "notes": "See accepted materials, bin rules, and collection schedule on the city website."
         },
         "greenWaste": {
           "dayOfWeek": 2,
-          "frequency": "weekly",
-          "notes": "See green waste collection rules on the city website."
+          "frequency": "biweekly",
+          "anchorDate": "2026-05-05",
+          "notes": "Biweekly May through November. See green waste collection rules on the city website."
         },
         "bulky": {
           "dayOfWeek": null,
@@ -89,6 +96,9 @@
         "branches": {
           "dayOfWeek": 1,
           "frequency": "monthly",
+          "extraDates": [
+            "2026-09-08"
+          ],
           "notes": "See branch collection rules and dates on the city website."
         }
       },
