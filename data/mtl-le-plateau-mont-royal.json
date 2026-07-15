@@ -62,11 +62,7 @@
         "leaves": {
           "dayOfWeek": 2,
           "frequency": "weekly",
-          "notes": "Included with organic waste collection. Place between 7 p.m. night before and 7 a.m.",
-          "dates": [
-            "2026-10-07",
-            "2026-11-07"
-          ]
+          "notes": "Included with organic waste collection. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 1,
@@ -8185,18 +8181,7 @@
         "leaves": {
           "dayOfWeek": 4,
           "frequency": "weekly",
-          "notes": "Included with organic waste collection. Place between 7 p.m. night before and 7 a.m.",
-          "dates": [
-            "2026-01-07",
-            "2026-01-12",
-            "2026-01-19",
-            "2026-10-07",
-            "2026-10-12",
-            "2026-10-19",
-            "2026-11-07",
-            "2026-11-12",
-            "2026-11-19"
-          ]
+          "notes": "Included with organic waste collection. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 1,
@@ -9265,18 +9250,7 @@
         "leaves": {
           "dayOfWeek": 5,
           "frequency": "weekly",
-          "notes": "Included with organic waste collection. Place between 7 p.m. night before and 7 a.m.",
-          "dates": [
-            "2026-01-07",
-            "2026-01-12",
-            "2026-01-19",
-            "2026-10-07",
-            "2026-10-12",
-            "2026-10-19",
-            "2026-11-07",
-            "2026-11-12",
-            "2026-11-19"
-          ]
+          "notes": "Included with organic waste collection. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
           "dayOfWeek": 1,

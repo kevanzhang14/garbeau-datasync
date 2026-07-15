@@ -2221,7 +2221,7 @@
     "VSMPE-3a": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
@@ -3130,7 +3130,7 @@
     "VSMPE-3b": {
       "recurring": {
         "garbage": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
@@ -5676,7 +5676,7 @@
           "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
@@ -9008,7 +9008,7 @@
           "notes": "No plastic bags. Paper bags accepted. Place between 8 p.m. night before and 7 a.m."
         },
         "garbage": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },

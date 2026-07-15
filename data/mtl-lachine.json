@@ -60,7 +60,7 @@
           "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "bulky": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 4,
           "frequency": "monthly",
           "weekOfMonth": [
             1,
@@ -6808,7 +6808,7 @@
           "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "bulky": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 4,
           "frequency": "weekly",
           "weekOfMonth": [
             2,
@@ -7567,7 +7567,7 @@
           "notes": "Use the city-issued brown bin. No plastic bags. Surplus green waste: use rigid containers, paper bags, or cardboard boxes."
         },
         "bulky": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 4,
           "frequency": "monthly",
           "notes": "1st and 3rd Thursday. Place items between 7 p.m. night before and 7 a.m.",
           "weekOfMonth": [
@@ -13955,7 +13955,7 @@
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m. Mattresses and upholstered items go with household garbage."
         },
         "bulky": {
-          "dayOfWeek": 5,
+          "dayOfWeek": 4,
           "frequency": "weekly",
           "notes": "1st and 3rd Thursday. Place items between 7 p.m. night before and 7 a.m."
         },
