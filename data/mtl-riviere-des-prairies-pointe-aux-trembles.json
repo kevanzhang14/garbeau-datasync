@@ -48,26 +48,6 @@
           "dayOfWeek": 1,
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
-        },
-        "garbage": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
-        },
-        "organics": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "notes": "Use the city-issued brown bin. No plastic bags."
-        },
-        "bulky": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "leaves": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "_no_scrape": [
@@ -1963,26 +1943,6 @@
           "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
-        },
-        "garbage": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
-        },
-        "organics": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "Use the city-issued brown bin. No plastic bags."
-        },
-        "bulky": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "leaves": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "_no_scrape": [
@@ -4162,26 +4122,6 @@
           "dayOfWeek": 3,
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
-        },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
-        },
-        "organics": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "Use the city-issued brown bin. No plastic bags."
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "leaves": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "_no_scrape": [
@@ -8873,26 +8813,6 @@
           "dayOfWeek": 4,
           "frequency": "weekly",
           "notes": "hoursOvernight7pmto7am"
-        },
-        "garbage": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
-        },
-        "organics": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "Use the city-issued brown bin. No plastic bags."
-        },
-        "bulky": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "leaves": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         }
       },
       "_no_scrape": [
@@ -11227,11 +11147,6 @@
           "dayOfWeek": 3,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
@@ -12499,11 +12414,6 @@
           "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
@@ -13871,11 +13781,6 @@
           "dayOfWeek": 1,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 4,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
@@ -15075,11 +14980,6 @@
           "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 1,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
@@ -16623,11 +16523,6 @@
           "dayOfWeek": 2,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
@@ -18675,11 +18570,6 @@
           "dayOfWeek": 4,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
@@ -21723,11 +21613,6 @@
           "dayOfWeek": 1,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 3,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
@@ -24623,11 +24508,6 @@
           "dayOfWeek": 4,
           "frequency": "weekly",
           "notes": "Residential only. Mattresses and upholstered items go with garbage. Place between 7 p.m. night before and 7 a.m."
-        },
-        "recycling": {
-          "dayOfWeek": 2,
-          "frequency": "weekly",
-          "notes": "hoursOvernight7pmto7am"
         }
       },
       "_no_scrape": [
