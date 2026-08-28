@@ -1510,7 +1510,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Daytime collection 7 a.m. to 4 p.m. Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
@@ -3897,7 +3897,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Daytime collection 7 a.m. to 4 p.m. Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
@@ -7965,7 +7965,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Daytime collection 7 a.m. to 4 p.m. Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
@@ -10064,7 +10064,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Daytime collection 7 a.m. to 4 p.m. Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "bulky": {

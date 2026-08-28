@@ -1184,7 +1184,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "organics": {
@@ -7115,7 +7115,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 8 p.m. night before and 7 a.m. Food waste collection replaced the second weekly garbage pickup."
         },
         "bulky": {
