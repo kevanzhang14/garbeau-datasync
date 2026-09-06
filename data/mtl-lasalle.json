@@ -57,16 +57,6 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "dates": [
-            "2026-01-07",
-            "2026-01-12",
-            "2026-01-13",
-            "2026-01-20",
-            "2026-01-26",
-            "2026-04-02",
-            "2026-04-15",
-            "2026-04-29"
-          ],
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
@@ -4256,16 +4246,6 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "dates": [
-            "2026-01-07",
-            "2026-01-12",
-            "2026-01-13",
-            "2026-01-20",
-            "2026-01-26",
-            "2026-04-02",
-            "2026-04-15",
-            "2026-04-29"
-          ],
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
@@ -6979,16 +6959,6 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "dates": [
-            "2026-01-07",
-            "2026-01-12",
-            "2026-01-13",
-            "2026-01-20",
-            "2026-01-26",
-            "2026-04-02",
-            "2026-04-15",
-            "2026-04-29"
-          ],
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
@@ -8454,16 +8424,6 @@
         "leaves": {
           "dayOfWeek": 3,
           "frequency": "biweekly",
-          "dates": [
-            "2026-01-07",
-            "2026-01-12",
-            "2026-01-13",
-            "2026-01-20",
-            "2026-01-26",
-            "2026-04-02",
-            "2026-04-15",
-            "2026-04-29"
-          ],
           "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
         },
         "bulky": {
