@@ -69,8 +69,13 @@
         },
         "leaves": {
           "dayOfWeek": 3,
-          "frequency": "biweekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-07-01",
+            "endDate": "2026-08-31",
+            "frequency": "biweekly"
+          }
         },
         "organics": {
           "dayOfWeek": 4,
@@ -4246,8 +4251,13 @@
         },
         "leaves": {
           "dayOfWeek": 3,
-          "frequency": "biweekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-07-01",
+            "endDate": "2026-08-31",
+            "frequency": "biweekly"
+          }
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -6947,8 +6957,13 @@
         },
         "leaves": {
           "dayOfWeek": 3,
-          "frequency": "biweekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-07-01",
+            "endDate": "2026-08-31",
+            "frequency": "biweekly"
+          }
         },
         "organics": {
           "dayOfWeek": 1,
@@ -8400,8 +8415,13 @@
         },
         "leaves": {
           "dayOfWeek": 3,
-          "frequency": "biweekly",
-          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "No plastic bags. Paper bags accepted. Place between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-07-01",
+            "endDate": "2026-08-31",
+            "frequency": "biweekly"
+          }
         },
         "organics": {
           "dayOfWeek": 2,
