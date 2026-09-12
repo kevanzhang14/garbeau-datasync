@@ -2,46 +2,46 @@
   "id": "sainte-anne-de-bellevue",
   "name": "Sainte-Anne-de-Bellevue",
   "lastUpdated": "2026-06-23",
-  "source": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+  "source": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
   "resources": {
     "general": {
       "title": "Sainte-Anne-de-Bellevue Collection Information",
-      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
       "icon": "info"
     },
     "bulky": {
       "title": "Bulky Waste Collection",
-      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
       "icon": "external-link",
       "showLink": true
     },
     "leaves": {
       "title": "Leaves & Green Waste",
-      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
       "icon": "external-link",
       "showLink": true
     },
     "garbage": {
       "title": "Household Waste Collection",
-      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
       "icon": "external-link",
       "showLink": true
     },
     "recycling": {
       "title": "Recyclables Collection",
-      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
       "icon": "external-link",
       "showLink": true
     },
     "organics": {
       "title": "Organic Waste Collection",
-      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
       "icon": "external-link",
       "showLink": true
     },
     "branches": {
       "title": "Branch Collection",
-      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection",
+      "url": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes",
       "icon": "external-link",
       "showLink": true
     }

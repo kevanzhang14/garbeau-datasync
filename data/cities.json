@@ -203,7 +203,7 @@
     "name": "Sainte-Anne-de-Bellevue",
     "file": "sainte-anne-de-bellevue.json",
     "sourceType": "scrape",
-    "sourceUrl": "https://ville.sainte-anne-de-bellevue.qc.ca/english/public-works/collection"
+    "sourceUrl": "https://ville.sainte-anne-de-bellevue.qc.ca/citoyens/environnement/collectes"
   },
   {
     "id": "salaberry-de-valleyfield",
