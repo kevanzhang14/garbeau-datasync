@@ -46,8 +46,14 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "biweekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-11-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "anchorDate": "2026-11-04"
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -7085,8 +7091,14 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "biweekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-11-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "anchorDate": "2026-11-11"
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -9802,8 +9814,14 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "biweekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-11-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "anchorDate": "2026-11-03"
         },
         "recycling": {
           "dayOfWeek": 3,
@@ -12179,8 +12197,14 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "biweekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
+          "frequency": "weekly",
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m.",
+          "seasonalOverride": {
+            "startDate": "2026-11-01",
+            "endDate": "2027-04-30",
+            "frequency": "biweekly"
+          },
+          "anchorDate": "2026-11-10"
         },
         "recycling": {
           "dayOfWeek": 3,

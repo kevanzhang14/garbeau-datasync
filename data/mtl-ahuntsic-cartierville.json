@@ -1503,7 +1503,8 @@
         "garbage": {
           "dayOfWeek": 5,
           "frequency": "biweekly",
-          "notes": "Daytime collection 7 a.m. to 4 p.m. Place bins at curb between 7 p.m. night before and 7 a.m."
+          "notes": "Daytime collection 7 a.m. to 4 p.m. Place bins at curb between 7 p.m. night before and 7 a.m.",
+          "anchorDate": "2026-10-09"
         },
         "recycling": {
           "dayOfWeek": 3,
