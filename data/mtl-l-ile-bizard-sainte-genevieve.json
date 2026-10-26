@@ -13866,7 +13866,8 @@
         "garbage": {
           "dayOfWeek": 2,
           "frequency": "biweekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m.",
+          "anchorDate": "2026-11-03"
         },
         "bulky": {
           "dayOfWeek": 3,
@@ -13983,7 +13984,8 @@
         "garbage": {
           "dayOfWeek": 2,
           "frequency": "biweekly",
-          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
+          "notes": "Place bins at curb between 7 p.m. night before and 7 a.m.",
+          "anchorDate": "2026-11-10"
         },
         "bulky": {
           "dayOfWeek": 3,
