@@ -94,7 +94,7 @@
         },
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
@@ -1335,7 +1335,7 @@
         },
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
@@ -2616,7 +2616,7 @@
         },
         "garbage": {
           "dayOfWeek": 1,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
@@ -4149,7 +4149,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
@@ -5294,7 +5294,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
@@ -6603,7 +6603,7 @@
         },
         "garbage": {
           "dayOfWeek": 4,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },
@@ -7900,7 +7900,7 @@
         },
         "garbage": {
           "dayOfWeek": 5,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         }
       },

@@ -46,7 +46,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
@@ -7085,7 +7085,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 3,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
@@ -9802,7 +9802,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
@@ -12179,7 +12179,7 @@
       "recurring": {
         "garbage": {
           "dayOfWeek": 2,
-          "frequency": "weekly",
+          "frequency": "biweekly",
           "notes": "Place bins at curb between 7 p.m. night before and 7 a.m."
         },
         "recycling": {
